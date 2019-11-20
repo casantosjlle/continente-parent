@@ -4,9 +4,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <packaging>pom</packaging>
     <groupId>br.com.continentenuvem</groupId>
     <artifactId>continente-parent</artifactId>
     <version>1.0.0-alpha</version>
 
+    <properties>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+    </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Continente Nuvem Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/mayconr/continente-pom</url>
+        </repository>
+    </distributionManagement>
 </project>
