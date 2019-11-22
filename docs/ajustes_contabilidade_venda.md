@@ -6,3 +6,4 @@
 - Receita padrão: onde é lançado a receita de vendas, Conta Contábil de Resultado (Receita) Tipo analítica
 
 [Voltar](ajustes_contabilidade.md)
+

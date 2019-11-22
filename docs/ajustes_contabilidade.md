@@ -13,17 +13,17 @@ A organização desta tela é feita em guias, onde temos:
 
 
 
-- [Compra](ajustes_contabilidade_compra)
+- [Compra](ajustes_contabilidade_compra.md)
 
-- [Venda](ajustes_contabilidade_venda)
+- [Venda](ajustes_contabilidade_venda.md)
 
-- [Estoque](ajustes_contabilidade_estoque)
+- [Estoque](ajustes_contabilidade_estoque.md)
 
-- [Bancos](ajustes_contabilidade_bancos)
+- [Bancos](ajustes_contabilidade_bancos.md)
 
-- [Cartão](ajustes_contabilidade_cartao)
+- [Cartão](ajustes_contabilidade_cartao.md)
 
-- [Caixa](ajustes_contabilidade_caixa)
+- [Caixa](ajustes_contabilidade_caixa.md)
 
   
 
