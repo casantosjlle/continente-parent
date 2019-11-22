@@ -1,5 +1,3 @@
-# Continente Nuvem - Documentação
-
-- [Ajustes]()
+- Ajustes
   - [Contabilidade](ajustes_contabilidade.md)
 
