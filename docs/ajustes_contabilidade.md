@@ -9,6 +9,8 @@ Conta analítica: representa o detalhamento das transações, recebe lançamento
 
 A organização desta tela é feita em guias, onde temos:
 
+![](images/ajustes_contabilidade.jpg)
+
 * *Estoque*
 
 - Custo de mercadoria: Conta Contábil de Resultado (Despesa), Tipo analítica.
