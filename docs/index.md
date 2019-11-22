@@ -1,11 +1,5 @@
-[TOC]
+# Continente Nuvem - Documentação
 
-# Documentação - Continente Nuvem
+- [Ajustes]()
+  - [Contabilidade](ajustes_contabilidade.md)
 
-## Ajustes
-
-### Ajustes da Contabilidade
-
-## Venda
-
-![](images\uma.jpg)
