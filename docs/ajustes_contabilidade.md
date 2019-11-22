@@ -27,7 +27,5 @@ A organização desta tela é feita em guias, onde temos:
 
   
 
-
-
-[Voltar](index.md)
+[Voltar](sistema.md)
 
