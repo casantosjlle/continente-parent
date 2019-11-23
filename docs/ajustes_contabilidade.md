@@ -1,4 +1,4 @@
-Ajustes de Contabilidade
+Ajustes Contabilidade
 ------------------------
 Nesta tela são parametrizadas as contas contábeis utilizadas em todas as transações do sistema.
 
