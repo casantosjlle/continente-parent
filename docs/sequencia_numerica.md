@@ -8,15 +8,13 @@ As sequências `NFE` `NFCe` são obrigatórias para os emissores de NFE e NFCe e
 
 
 
+A sequências que representam processos, exemplo `Venda` ou `Compra` também são obrigatórias e todos os parâmetros podem ser editados. O exemplo na tela será como será exibido o código no processo.
 
-
-A sequências que representam processos, exemplo `Venda` ou `Compra` também são obrigatórias e todos os parametros podem ser editados. O exemplo na tela será como será exibido o código no processo.
-
-![](images/Sequencia_numerica_processo_venda.JPG)
+![](images/Sequencia_numerica_processo_venda.jpg)
 
 
 
-As sêquencias que representam  cadastros, exemplo `Cliente` ou `Fornecedor` não são obrigatórios e todos os parametros podem ser editados.
+As sequências que representam  cadastros, exemplo `Cliente` ou `Fornecedor` não são obrigatórios e todos os parâmetros podem ser editados.
 
 ![](images/sequencia_numerica_cliente.jpg)
 
