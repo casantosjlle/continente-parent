@@ -13,7 +13,7 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 - Ajustes
   
   - [Fiscal](ajustes_fiscal.md)
-  - [Contas a Receber](ajustes_receber.md)
+  - [Contas a Receber](ajustes_contas_receber.md)
   - [Contabilidade](ajustes_contabilidade.md)
   - [Dimensão de Estoque](ajustes_dimensao_estoque.md)
   - [Venda](ajustes_venda.md)
