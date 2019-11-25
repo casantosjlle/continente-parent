@@ -1,4 +1,10 @@
+## *O que você precisa saber antes de começar:*
+
 ### [Sistema](sistema.md)
+
+
+
+## *O que você precisa saber quando já está utilizando:*
 
 ### [Administração](administracao.md)
 
@@ -14,3 +20,6 @@
 
 ### [Venda](venda.md)
 
+
+
+## *Dúvidas frequentes:*
