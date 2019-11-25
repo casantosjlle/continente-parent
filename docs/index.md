@@ -6,9 +6,13 @@
 
 
 
+
+
 ## Parâmetros iniciais:
 
 ### [Sistema](sistema.md)
+
+
 
 
 
@@ -27,6 +31,8 @@
 ### [Gestão Fiscal](gestao_fiscal.md)
 
 ### [Venda](venda.md)
+
+
 
 
 
