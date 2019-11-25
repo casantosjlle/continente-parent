@@ -1,14 +1,14 @@
-## Parâmetros iniciais:
-
-### [Sistema](sistema.md)
-
-
-
 ## Dicas para utilização:
 
 ### [Atalhos](atalhos.md)
 
 ### [Usabilidade](usabilidade.md)
+
+
+
+## Parâmetros iniciais:
+
+### [Sistema](sistema.md)
 
 
 
