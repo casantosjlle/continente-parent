@@ -1,10 +1,18 @@
-## *O que você precisa saber antes de começar:*
+## Parâmetros iniciais:
 
 ### [Sistema](sistema.md)
 
 
 
-## *O que você precisa saber quando já está utilizando:*
+## Dicas para utilização:
+
+### [Atalhos](atalhos.md)
+
+### [Usabilidade](usabilidade.md)
+
+
+
+## Sobre os processos:
 
 ### [Administração](administracao.md)
 
@@ -22,4 +30,4 @@
 
 
 
-## *Dúvidas frequentes:*
+## Perguntas Frequentes
