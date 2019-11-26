@@ -1,22 +1,18 @@
-## Dicas para utilização:
+# Dicas para utilização:
 
-### [Atalhos](atalhos.md)
+## [Atalhos](atalhos.md)
 
-### [Usabilidade](usabilidade.md)
-
-
+## [Usabilidade](usabilidade.md)
 
 
 
-## Parâmetros iniciais:
+# Parâmetros iniciais:
 
 ### [Sistema](sistema.md)
 
 
 
-
-
-## Sobre os processos:
+# Sobre os processos:
 
 ### [Administração](administracao.md)
 
