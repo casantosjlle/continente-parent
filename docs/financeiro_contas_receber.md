@@ -1,5 +1,3 @@
-
-
 ### Contas a Receber
 
 Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como crediário ou cheque.
