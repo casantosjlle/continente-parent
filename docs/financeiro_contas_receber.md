@@ -10,7 +10,9 @@ Clicando com botão direito em cima da parcela,  ou no botão Mais no lado infer
 
 
 
-- Editar
+<a Editar>	
+
+
 
 Na edição é possível alterar o vencimento de uma parcela e o valor do juros e multa. 
 
@@ -34,7 +36,7 @@ Uma vez alterado o vencimento, essa nova informação será salva. O Valor do Ju
 
 - Reversão
 
-  Para as parcelas já recebidas, a opção Reversão estará disponível e fará a reversão financeira e contábil do recebimento.
+  Para as parcelas já recebidas, a opção Reversão estará disponível e fará a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo será utilizado como histórico contábil.
 
   ![](images/financeiro_contas_receber_reversao.jpg)]
 
