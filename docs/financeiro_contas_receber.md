@@ -1,3 +1,7 @@
+
+
+[Teste](#nome)
+
 ### Contas a Receber
 
 Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como crediário ou cheque.
@@ -10,7 +14,7 @@ Clicando com botão direito em cima da parcela,  ou no botão Mais no lado infer
 
 
 
-<a Editar>	
+<a Edi
 
 
 
