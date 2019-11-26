@@ -7,14 +7,11 @@ Neste menu são encontrados todos os acessos necessários para as atividades do 
 Para o Contas à Pagar, estão disponíveis as opções:
 
 - [Cartão Corporativo](financeiro_cartao_corporativo.md) 
-
 - [Contas a Pagar](financeiro_contas_pagar.md)
-
 - [Forma de Pagamento](financeiro_forma_pagamento.md)
-
 - [Pagamento de Cartão](financeiro_pagamento_cartao.md)
 
-  
+
 
 Para o Contas à Receber, estão disponíveis as opções:
 
