@@ -25,6 +25,7 @@ Para o Contas à Receber, estão disponíveis as opções:
 Para o Gerenciamento de Contas Bancárias, estão disponíveis as opções:
 
 - [Conta Bancária](financeiro_conta_bancaria.md)
+
 - [Motivo de Movimentação Manual](financeiro_motivo_movimentacao_manual.md)
 
 
