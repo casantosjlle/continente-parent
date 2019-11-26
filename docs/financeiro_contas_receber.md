@@ -1,7 +1,5 @@
 
 
-[Teste](#nome)
-
 ### Contas a Receber
 
 Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como crediário ou cheque.
@@ -14,8 +12,7 @@ Clicando com botão direito em cima da parcela,  ou no botão Mais no lado infer
 
 
 
-<a Edi
-
+- Editar
 
 
 Na edição é possível alterar o vencimento de uma parcela e o valor do juros e multa. 

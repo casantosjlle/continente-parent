@@ -42,7 +42,7 @@ Deve-se informar a data que o valor entrará, ou entrou, efetuvamente na Conta B
 
 - Transações Canceladas
 
-  Nos casos de Cancelamento de Venda ou Reversão de Recebimento o status das parcelas recebidas via cartão ficarão como `Cancelado` e essas transações não podem ser recebidas.
+  Nos casos de Cancelamento de Venda ou [Reversão de Recebimento](financeiro_contas_receber.md#reversao) o status das parcelas recebidas via cartão ficarão como `Cancelado` e essas transações não podem ser recebidas.
 
 
 
