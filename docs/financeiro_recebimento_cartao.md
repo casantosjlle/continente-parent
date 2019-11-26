@@ -1,4 +1,4 @@
-# Recebimento de Cartão
+### Recebimento de Cartão
 
 Nesta tela será feito o processo de conciliação de recebimento de cartão.
 

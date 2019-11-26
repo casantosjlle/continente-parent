@@ -1,4 +1,4 @@
-# Formas de Recebimento
+### Formas de Recebimento
 
 Nesta tela são cadastradas as formas de Recebimento. Elas virão pré-cadastradas mas poderão ser editadas.
 

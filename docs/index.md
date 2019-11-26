@@ -1,34 +1,34 @@
-**Dicas para utilização:**
+## Dicas para utilização:
 
-[Atalhos](atalhos.md)
+### [Atalhos](atalhos.md)
 
-[Usabilidade](usabilidade.md)
-
-
-
-**Parâmetros iniciais:**
-
-[Sistema](sistema.md)
+### [Usabilidade](usabilidade.md)
 
 
 
-**Sobre os processos:**
+## Parâmetros iniciais:
 
-[Administração](administracao.md)
-
-[Caixa](compras.md)
-
-[Compras](compras.md)
-
-[Estoque](estoque.md)
-
-[Financeiro](financeiro.md)
-
-[Gestão Fiscal](gestao_fiscal.md)
-
-[Venda](venda.md)
+### [Sistema](sistema.md)
 
 
 
-**Perguntas Frequentes**
+## Sobre os processos:
+
+### [Administração](administracao.md)
+
+### [Caixa](compras.md)
+
+### [Compras](compras.md)
+
+### [Estoque](estoque.md)
+
+### [Financeiro](financeiro.md)
+
+### [Gestão Fiscal](gestao_fiscal.md)
+
+### [Venda](venda.md)
+
+
+
+## Perguntas Frequentes
 
