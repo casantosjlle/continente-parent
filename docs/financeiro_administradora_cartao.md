@@ -1,4 +1,4 @@
-### Administradora de Cartão
+# Administradora de Cartão
 
 Nesta tela devem ser cadastradas todas as operadoras de cartão com que a empresa trabalha bem como as taxas acordadas que serão utilizadas para o cálculo do valor líquido a receber na conciliação de recebimento de cartão.
 

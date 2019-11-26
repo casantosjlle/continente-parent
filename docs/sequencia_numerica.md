@@ -1,4 +1,4 @@
-## Sequência Númerica
+# Sequência Númerica
 
 Nesta tela serão parametrizados as sequências numéricas utilizadas em todos os processos do sistema Todas as sequencias virão pré-cadastradas 
 

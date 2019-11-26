@@ -1,4 +1,4 @@
-### Recebimento de Cartão
+# Recebimento de Cartão
 
 Nesta tela será feito o processo de conciliação de recebimento de cartão.
 
@@ -12,7 +12,7 @@ Caso necessário os valores calculados poderão ser alterados, clicanco com o bo
 
 
 
-- Editar
+#### Editar
 
 Uma vez alterado o vencimento, essa nova informação será salva. O Valor do Juros e Multa serão salvos temporareamente, assim que o Recebimento de Cartão for fechado e reaberto o valor do juros e multa serão novamente calculados através dos percentuais informados cadastro de [Administradora de Cartão](financeiro_administradora_cartao.md).
 
@@ -22,9 +22,7 @@ Uma vez alterado o vencimento, essa nova informação será salva. O Valor do Ju
 
 
 
-
-
-- Receber
+#### Receber
 
 Ao selecionar as parcelas que serão recebidas o sistema informará o valor liquido. 
 
@@ -40,9 +38,9 @@ Deve-se informar a data que o valor entrará, ou entrou, efetuvamente na Conta B
 
 
 
-- Transações Canceladas
+#### Transações Canceladas
 
-  Nos casos de Cancelamento de Venda ou [Reversão de Recebimento](financeiro_contas_receber.md#reversao) o status das parcelas recebidas via cartão ficarão como `Cancelado` e essas transações não podem ser recebidas.
+Nos casos de [Cancelamento de Venda](venda_cancelamento.md) ou [Reversão de Recebimento](financeiro_contas_receber.md#reversao) o status das parcelas recebidas via cartão ficarão como `Cancelado` e essas transações não podem ser recebidas.
 
 
 

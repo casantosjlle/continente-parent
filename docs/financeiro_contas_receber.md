@@ -1,4 +1,4 @@
-### Contas a Receber
+# Contas a Receber
 
 Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como crediário ou cheque.
 
@@ -34,7 +34,7 @@ A opção dinheiro só estará disponível se o usuário estiver com algum Caixa
 #### Reversão
 {: #reversao}
 
-Para as parcelas já recebidas, a opção Reversão estará disponível e fará a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo será utilizado como histórico contábil.
+Para as parcelas já recebidas, a opção Reversão de Recebimento estará disponível e fará a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo será utilizado como histórico contábil.
 
 ![](images/financeiro_contas_receber_reversao.jpg)]
 
