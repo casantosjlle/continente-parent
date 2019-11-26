@@ -33,8 +33,7 @@ Uma vez alterado o vencimento, essa nova informação será salva. O Valor do Ju
 
   
 
-- Reversão
-{: #reversao}
+- *Reversão*{: #reversao}
 
   Para as parcelas já recebidas, a opção Reversão estará disponível e fará a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo será utilizado como histórico contábil.
 
