@@ -16,7 +16,9 @@ Como por exemplo, quando um cliente faz um pagamento antecipado ou quando é fei
 
 #### Liquidar crédito de Cliente/Fornecedor
 
-Essa opção deve ser marcada quando a movimentação irá liquidar um crédito já existente do Clliente ou Fornecedor.
+Essa opção deve ser marcada quando a movimentação irá liquidar um crédito já existente do Cliente ou Fornecedor.
+
+Como por exemplo,  se for pago uma devolução de Cliente, ou se ao fornecedor devolveu o dinheiro da antecipação.
 
 [Voltar](financeiro.md)
 
