@@ -2,13 +2,14 @@
 
 Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como crediário ou cheque.
 
-Clicando com botão direito em cima da parcela,  ou no botão Mais no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+E` `Ctrl+R` ou `Ctrl+Alt+R` as opões de trabalho, `Editar`, `Receber` ou `Reversão` ficarão disponíveis
+Clicando com botão direito em cima da parcela,  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+E` `Ctrl+R` ou `Ctrl+Alt+R` as opões de trabalho, [Editar](financeiro_contas_receber.md#editar), [Receber](financeiro_contas_receber.md#receber) ou [Reversão](financeiro_contas_receber.md#reversao) ficarão disponíveis
 
 
 
 ![](images/financeiro_contas_receber.jpg)
 
 #### Editar
+{: #editar}
 
 
 Na edição é possível alterar o vencimento de uma parcela e o valor do juros e multa. 
@@ -22,6 +23,7 @@ Uma vez alterado o vencimento, essa nova informação será salva. O Valor do Ju
 
 
 #### Receber
+{: #receber}
 
 O processo de recebimento no contas a Receber é similar ao faturamento, basta informar a(s) forma(s) de pagamento e faturar. 
 
