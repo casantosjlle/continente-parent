@@ -11,7 +11,7 @@ Clicando com botão direito em cima da conta,  ou no botão `Mais` no lado infer
 #### Lançamento Manual
 {: #lancamento_manual}
 
-Nesta tela devem ser inseridas todas as movimentações de entrada e saída das contas bancárias que forem além das já feitas nos processos de [Faturamento de Venda](venda_faturamento.md) e [Recebimento](financeiro_contas_receber.md#receber) do contas a Receber.
+Nesta tela devem ser inseridas todas as movimentações de entrada e saída das contas bancárias que forem além das já feitas nos outros processos do sistema. 
 
 Como por exemplo uma saída devido há uma tarifa bancária, ou uma entrada referente há um adiantamento de Cliente.
 
