@@ -1,8 +1,8 @@
 ### Formas de Recebimento
 
-Nesta tela são cadastradas as formas de Recebimento. Elas virão pré-cadastradas mas poderão ser editadas.
+Nesta tela são cadastradas as formas de Recebimento. Elas virão pré-cadastradas mas podem ser editadas.
 
-As formas de recebimento serão parametrizadas no [Cadastro de Caixa](caixa_cadastro_caixa.md)
+As formas de recebimento são parametrizadas no [Cadastro de Caixa](caixa_cadastro_caixa.md)
 
 ![](images/financeiro_forma_recebimento.jpg)
 
