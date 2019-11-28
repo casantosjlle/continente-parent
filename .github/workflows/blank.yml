@@ -8,4 +8,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Install Docker
-      run: sudo apt-get update | apt-get remove docker docker-engine docker.io
+      run: sudo apt-get update | sudo apt-get remove docker docker-engine docker.io
