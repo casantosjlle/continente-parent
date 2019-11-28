@@ -10,5 +10,6 @@ jobs:
       name: Checkout
     - name: Install Docker
       run: docker run -d postgres:latest --name database
-      run: docker -version
+    - name: Listagem Docker
+      run: docker ps
     
