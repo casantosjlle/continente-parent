@@ -10,15 +10,15 @@ Cada motivo deve ser amarrado há uma conta contábil e essa conta é usada no l
 
 #### Gerar crédito para Cliente/Fornecedor
 
-Essa opção deve ser marcada quando a movimentação irá gerar um crédito para o Clliente ou Fornecedor.
+Essa opção deve ser marcada quando a movimentação irá gerar um Crédito para o Cliente ou Fornecedor.
 
 Como por exemplo, quando um cliente faz um pagamento antecipado ou quando é feito um pagamento antecipado para um fornecedor. 
 
 #### Liquidar crédito de Cliente/Fornecedor
 
-Essa opção deve ser marcada quando a movimentação irá liquidar um crédito já existente do Cliente ou Fornecedor.
+Essa opção deve ser marcada quando a movimentação for liquidar um crédito já existente do Cliente ou Fornecedor.
 
-Como por exemplo,  se for pago uma devolução de Cliente, ou se ao fornecedor devolveu o dinheiro da antecipação.
+Como por exemplo,  se for pago uma devolução de Cliente, ou se o fornecedor devolveu o dinheiro da antecipação.
 
 [Voltar](financeiro.md)
 
