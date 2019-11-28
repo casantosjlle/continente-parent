@@ -9,5 +9,5 @@ jobs:
     - uses: actions/checkout@v1
       name: Checkout
     - name: Install Docker
-      run: docker --version | docker run postgres:lastest
+      run: docker --version | docker run postgres:latest
     
