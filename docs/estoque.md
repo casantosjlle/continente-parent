@@ -18,7 +18,7 @@ Estão disponíveis as opções:
 
 [Motivo Movimentação Manual]()
 
-[Movimentação Manual]()
+[Movimentação de Estoque]()
 
 [Produto]()
 
@@ -27,3 +27,4 @@ Estão disponíveis as opções:
 
 
 [Voltar](index.md)
+
