@@ -6,19 +6,19 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 
 ![](images/sistema.jpg)
 
-- [Sequência Numérica](sequencia_numerica)
+- [Sequência Numérica](sistema_sequencia_numerica)
 
-- [Certificado Digital](certificado_digital.md)
+- [Certificado Digital](sistema_certificado_digital.md)
 
   
 
 - Ajustes
   
-  - [Fiscal](ajustes_fiscal.md)
-  - [Contas a Receber](ajustes_contas_receber.md)
-  - [Dimensão de Estoque](ajustes_dimensao_estoque.md)
-  - [Venda](ajustes_venda.md)
-  - [Interface Usuário](ajustes_interface_usuario.md)
+  - [Fiscal](sistema_ajustes_fiscal.md)
+  - [Contas a Receber](sistema_ajustes_contas_receber.md)
+  - [Dimensão de Estoque](sistema_ajustes_dimensao_estoque.md)
+  - [Venda](sistema_ajustes_venda.md)
+  - [Interface Usuário](sistema_ajustes_interface_usuario.md)
 
 
 
