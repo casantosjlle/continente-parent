@@ -64,16 +64,6 @@ Esse texto fiscal deverá ser parametrizado com as [variáveis](texto_fiscal_var
 
 
 
-#### Ajustes Fiscal - Tabela IBPT
-
-
-
-![](images/ajustes_fiscal_tabelaibpt.jpg)
-
-
-
-
-
 
 
 [Voltar](sistema.md)
