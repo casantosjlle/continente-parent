@@ -1,1 +1,1 @@
-[Parâmetros Contábeis](Contabilidade_parametros_contabeis.md)
+[Parâmetro Contábil](contabilidade_parametro_contabil.md)
