@@ -20,6 +20,8 @@
 
 ### [Compras](compras.md)
 
+### [Contabilidade](contabilidade.md)
+
 ### [Estoque](estoque.md)
 
 ### [Financeiro](financeiro.md)
