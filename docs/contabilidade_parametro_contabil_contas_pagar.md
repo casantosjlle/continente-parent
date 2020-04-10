@@ -16,5 +16,5 @@ Contas à Pagar
 
 
 
-[Voltar](ajustes_contabilidade.md)
+[Voltar](contabilidade_parametro_contabil.md)
 
