@@ -8,7 +8,7 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 
 - [Sequência Numérica](sequencia_numerica)
 
-- [Certificado Digital](certificado.digital.md)
+- [Certificado Digital](certificado_digital.md)
 
   
 
@@ -18,7 +18,7 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
   - [Contas a Receber](ajustes_contas_receber.md)
   - [Dimensão de Estoque](ajustes_dimensao_estoque.md)
   - [Venda](ajustes_venda.md)
-  - [Interface Usuário](interface_usuario.md)
+  - [Interface Usuário](ajustes_interface_usuario.md)
 
 
 
