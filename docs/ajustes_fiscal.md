@@ -66,5 +66,7 @@ Esse texto fiscal deverá ser parametrizado com as [variáveis](texto_fiscal_var
 
 
 
+
+
 [Voltar](sistema.md)
 

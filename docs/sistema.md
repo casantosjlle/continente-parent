@@ -8,15 +8,17 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 
 - [Sequência Numérica](sequencia_numerica)
 
+- [Certificado Digital](certificado.digital.md)
+
   
 
 - Ajustes
   
   - [Fiscal](ajustes_fiscal.md)
   - [Contas a Receber](ajustes_contas_receber.md)
-  - [Contabilidade](ajustes_contabilidade.md)
   - [Dimensão de Estoque](ajustes_dimensao_estoque.md)
   - [Venda](ajustes_venda.md)
+  - [Interface Usuário](interface_usuario.md)
 
 
 
