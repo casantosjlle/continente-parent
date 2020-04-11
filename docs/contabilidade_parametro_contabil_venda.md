@@ -20,5 +20,5 @@
 
 
 
-[Voltar](contabilidade#Parâmetros Contábeis.md)
+[Voltar](contabilidade#parametroscontabeis.md)
 
