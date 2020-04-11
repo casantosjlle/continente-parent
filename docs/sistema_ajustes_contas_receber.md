@@ -8,5 +8,5 @@ Parametrizações não obrigatórias. As alíquotas serão utilizadas como base 
 
 
 
-[Voltar](sistema.md)
+[Voltar](sistema#Ajustes.md)
 
