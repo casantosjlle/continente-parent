@@ -10,7 +10,7 @@ Nesta tela podem ser consultados todos os lançamentos contábeis que o sistema 
 
 O número do Comprovante contábil, tem por objetivo agrupar de forma unívoca, todos os registros que integram um mesmo lançamento contábil. Essa numeração segue o parametrizado no cadastro de [Sequência Numérica](sistema_sequencia_numerica.md)
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/contabilidade_lancamento_contabil.jpg)
+![](images/contabilidade_lancamento_contabil.jpg)
 
 
 
@@ -21,20 +21,15 @@ Nesta tela são parametrizadas as contas contábeis utilizadas em todas as trans
 A organização desta tela é feita em guias, onde temos:
 
 - [Venda](contabilidade_parametro_contabil_venda.md)
-
 - [Estoque](contabilidade_parametro_contabil_estoque.md)
-
 - [Contas à Pagar](contabilidade_parametro_contabil_contas_pagar.md)
-
 - [Contas a Receber](contabilidade_parametro_contabil_contas_receber.md)
-
 - [Banco](contabilidade_parametro_contabil_banco.md)
-
 - [Caixa](contabilidade_parametro_contabil_caixa.md)
 
-  
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/contabilidade_parametro_contabil.jpg)
+
+![](images/contabilidade_parametro_contabil.jpg)
 
 
 
@@ -56,4 +51,12 @@ Tipo de Conta: *Sintética* : é a conta agrupadora, ou seja, não há lançamen
 
 O plano de contas, com da todas as suas contas sintéticas e analíticas, deve conter, no mínimo, 4 (quatro) níveis e é parte integrante escrituração contábil da entidade, devendo seguir a estrutura patrimonial prevista nos arts. 177 a 182 da [Lei 6.404/1976](http://www.normaslegais.com.br/legislacao/contabil/lei6404_1976.htm).
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/contabilidade_plano_contas.jpg)
+
+
+![](images/contabilidade_plano_contas.jpg)
+
+
+
+
+
+[Voltar](index.md)
