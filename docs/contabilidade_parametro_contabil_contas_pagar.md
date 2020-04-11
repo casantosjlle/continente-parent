@@ -2,7 +2,7 @@ Contas à Pagar
 
 ![](images/contabilidade_parametro_contabil_contas_pagar.jpg)
 
-- Cartão corporativo: Conta Contábil onde serão contabilizadas as compras feitas em cartão de crédito corporativo. Exemplo:
+- Cartão corporativo: onde é lançado as compras feitas em cartão de crédito corporativo. Exemplo:
 
   ![](images/contabilidade_parametro_contabil_contas_pagar_cartao.jpg)
 
