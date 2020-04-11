@@ -1,6 +1,6 @@
 Banco
 
-![](images/contabilidade_parametro_contabil_banco.JPG)
+![](images/contabilidade_parametro_contabil_banco.jpg)
 
 
 
@@ -10,15 +10,15 @@ Banco
 
   Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de banco
 
-  ![](images/contabilidade_parametro_contabil_banco_cadastro.JPG)
+  ![](images/contabilidade_parametro_contabil_banco_cadastro.jpg)
   
   ficará visível também nos Parâmetros contábeis e vice-versa.
   
-  ![](images/contabilidade_parametro_contabil_banco_cadastro2.JPG)
+  ![](images/contabilidade_parametro_contabil_banco_cadastro2.jpg)
   
   
   
   
   
-  [Voltar](contabilidade_parametro_contabil.md)
+  [Voltar](contabilidade.md)
 

@@ -1,6 +1,6 @@
 Caixa
 
-![](images/contabilidade_parametro_contabil_caixa.JPG)
+![](images/contabilidade_parametro_contabil_caixa.jpg)
 
 - Caixa:  onde é lançado os valores das transações de caixa. Deve-se parametrizar uma conta contábil para cada caixa cadastrado. Essa parametrização poder ser feita diretamente no cadastro do caixa ou nos Parâmetros Contábeis.
 
@@ -8,11 +8,11 @@ Caixa
 
   Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de caixa
 
-  ![](images/contabilidade_parametro_contabil_caixa_motivo.JPG)
+  ![](images/contabilidade_parametro_contabil_caixa_motivo.jpg)
 
   ficará visível também nos Parâmetros contábeis e vice-versa.
 
-  ![](images/contabilidade_parametro_contabil_caixa_motivo2.JPG)
+  ![](images/contabilidade_parametro_contabil_caixa_motivo2.jpg)
 
   
 
@@ -24,5 +24,5 @@ Caixa
 
 
 
-[Voltar](contabilidade_parametro_contabil.md)
+[Voltar](contabilidade.md)
 

@@ -1,6 +1,6 @@
 Contas à Receber
 
-![](images/contabilidade_parametro_contabil_contas_receber.JPG)
+![](images/contabilidade_parametro_contabil_contas_receber.jpg)
 
 - Cliente: onde é lançado os valores à receber de clientes, ou seja, todo faturamento feito em cheque ou crediário. Conta Contábil do Ativo Circulante.
 - Administradora de cartão: onde é lançado os valores a receber em  Cartão, ou seja, todo faturamento em Cartão, como o Débito, Crédito, Refeição, descontado as taxas. Conta Contábil do Ativo Circulante.
@@ -13,5 +13,5 @@ Contas à Receber
 
 
 
-[Voltar](contabilidade_parametro_contabil.md)
+[Voltar](contabilidade.md)
 

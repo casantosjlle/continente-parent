@@ -13,3 +13,9 @@ A Interface do usuário vem por padrão o tema Default. Além desta existe o tem
 
 
 ![](images/ajustes_interface_usuario_dark.jpg)
+
+
+
+
+
+[Volta](sistema.md)
