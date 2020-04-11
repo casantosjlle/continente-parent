@@ -18,7 +18,7 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
   - [Contas a Receber](sistema_ajustes_contas_receber.md)
   - [Dimensão de Estoque](sistema_ajustes_dimensao_estoque.md)
   - [Venda](sistema_ajustes_venda.md)
-  - [Interface Usuário](sistema_ajustes_interface_usuario.md)
+  - [Interface Usuário](sistema_interface_usuario.md)
 
 
 
