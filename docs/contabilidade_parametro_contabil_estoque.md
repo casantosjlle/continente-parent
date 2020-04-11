@@ -1,4 +1,4 @@
-Estoque
+### Parâmetros Contábeis- Estoque
 
 ![](images/contabilidade_parametro_contabil_estoque.jpg)
 
