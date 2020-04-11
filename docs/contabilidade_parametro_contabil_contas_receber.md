@@ -13,5 +13,5 @@ Contas à Receber
 
 
 
-[Voltar](ajustes_contabilidade.md)
+[Voltar](contabilidade_parametro_contabil.md)
 

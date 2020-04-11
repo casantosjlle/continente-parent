@@ -1,4 +1,4 @@
-# Certificado Digital
+## Certificado Digital
 
 Nesta tela é feito o Upload do Certificado digital utilizado na emissão da NF-e.
 
