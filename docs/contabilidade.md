@@ -1,4 +1,16 @@
+# Contabilidade
+
+Neste menu estão todas as opções relacionadas a Contabilidade, desde relatório até parâmetros.
+
+
+
 ## Lançamento Contábil
+
+Nesta tela podem ser consultados todos os lançamentos contábeis que o sistema executa por transação. É uma tela apenas informativa.
+
+![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/contabilidade_lancamento_contabil.jpg)
+
+
 
 ## Parâmetros Contábeis
 
