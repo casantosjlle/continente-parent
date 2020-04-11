@@ -1,6 +1,6 @@
 Venda
 
-![](images/contabilidade_parametro_contabil_venda.JPG)
+![](images/contabilidade_parametro_contabil_venda.jpg)
 
 
 

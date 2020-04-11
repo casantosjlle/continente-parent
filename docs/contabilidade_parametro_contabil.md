@@ -18,7 +18,7 @@ A organização desta tela é feita em guias, onde temos:
 
   
 
-![](images/contabilidade_parametros_contabeis.jpg)
+![](images/contabilidade_parametro_contabil.jpg)
 
 
 
