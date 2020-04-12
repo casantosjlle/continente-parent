@@ -48,5 +48,5 @@ Nos casos de [Cancelamento de Venda](venda_cancelamento.md) ou [Reversão de Rec
 
 
 
-[Voltar](financeiro.md)
+[Voltar](financeiro.md#financeirocontasreceber)
 

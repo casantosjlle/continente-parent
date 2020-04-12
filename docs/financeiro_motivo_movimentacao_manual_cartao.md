@@ -1,4 +1,2 @@
 [Voltar](financeiro.md#financeirocontaspagar)
 
-
-

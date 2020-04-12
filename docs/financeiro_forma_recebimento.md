@@ -6,5 +6,7 @@ As formas de recebimento são parametrizadas no [Cadastro de Caixa](caixa_cadast
 
 ![](images/financeiro_forma_recebimento.jpg)
 
-[Voltar](financeiro.md)
+
+
+[Voltar](financeiro.md#financeirocontasreceber)
 

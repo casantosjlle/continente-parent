@@ -46,5 +46,9 @@ Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido 
 
 ![](images/financeiro_contas_receber_revertido.jpg)
 
-[Voltar](financeiro.md)
+
+
+
+
+[Voltar](financeiro.md#financeirocontasreceber)
 

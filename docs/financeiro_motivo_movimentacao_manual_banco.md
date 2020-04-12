@@ -20,5 +20,7 @@ Essa opção deve ser marcada quando a movimentação for liquidar um crédito j
 
 Como por exemplo,  se for pago uma devolução de Cliente, ou se o fornecedor devolveu o dinheiro da antecipação.
 
-[Voltar](financeiro.md)
+[Voltar](financeiro.md#financeirobanco)
+
+
 

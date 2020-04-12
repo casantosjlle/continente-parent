@@ -32,5 +32,5 @@ Caso não haja antecipação, o prazo será 1 dia após o vencimento de cada par
 
 
 
-[Voltar](financeiro.md)
+[Voltar](financeiro.md#financeirocontasreceber)
 
