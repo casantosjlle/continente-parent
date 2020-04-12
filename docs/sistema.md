@@ -4,21 +4,21 @@ No menu Sistema estão algumas parametrizações que devem ser executadas uma ú
 
 Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` do sistema.
 
-![](images/sistema.jpg)
+![](images/sistema.jpg)[Sequência Numérica](sistema_sequencia_numerica)
 
-- [Sequência Numérica](sistema_sequencia_numerica)
+[Certificado Digital](sistema_certificado_digital.md)
 
-- [Certificado Digital](sistema_certificado_digital.md)
 
-  
 
-- Ajustes
-  
-  - [Fiscal](sistema_ajustes_fiscal.md)
-  - [Contas a Receber](sistema_ajustes_contas_receber.md)
-  - [Dimensão de Estoque](sistema_ajustes_dimensao_estoque.md)
-  - [Venda](sistema_ajustes_venda.md)
-  - [Interface Usuário](sistema_interface_usuario.md)
+Ajustes
+
+{: #ajustes}
+
+- [Fiscal](sistema_ajustes_fiscal.md)
+- [Contas a Receber](sistema_ajustes_contas_receber.md)
+- [Dimensão de Estoque](sistema_ajustes_dimensao_estoque.md)
+- [Venda](sistema_ajustes_venda.md)
+- [Interface Usuário](sistema_interface_usuario.md)
 
 
 

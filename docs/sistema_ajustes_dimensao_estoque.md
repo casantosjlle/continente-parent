@@ -28,5 +28,7 @@ O gerenciamento de estoque é feito de acordo com as dimensões parametrizadas p
 
 
 
-[Voltar](sistema.md)
+[Voltar](sistema.md#ajustes)
+
+
 

@@ -16,6 +16,10 @@ O número do Comprovante contábil, tem por objetivo agrupar de forma unívoca, 
 
 ## Parâmetros Contábeis
 
+{: #parametroscontabeis}
+
+
+
 Nesta tela são parametrizadas as contas contábeis utilizadas em todas as transações do sistema.
 
 A organização desta tela é feita em guias, onde temos:
@@ -47,7 +51,7 @@ A Conta Pai é a conta sintética superior a que está sendo inserida.
 
 Tipo de Conta: *Sintética* : é a conta agrupadora, ou seja, não há lançamentos contábeis nela especificamente. Ela é o resultado da soma das contas analíticas da qual ela for a conta Pai.
 
-​                            *Analítica*: é a conta que recebe o lançamento contábil propriamente dito. Somente contas analíticas podem ser parametrizadas nos [Parâmetros Contábeis](contabilidade#Parâmetros Contábeis.md)
+​                            *Analítica*: é a conta que recebe o lançamento contábil propriamente dito. Somente contas analíticas podem ser parametrizadas nos [Parâmetros Contábeis](contabilidade.md#parametroscontabeis)
 
 O plano de contas, com da todas as suas contas sintéticas e analíticas, deve conter, no mínimo, 4 (quatro) níveis e é parte integrante escrituração contábil da entidade, devendo seguir a estrutura patrimonial prevista nos arts. 177 a 182 da [Lei 6.404/1976](http://www.normaslegais.com.br/legislacao/contabil/lei6404_1976.htm).
 

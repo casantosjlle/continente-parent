@@ -18,4 +18,5 @@ A Interface do usuário vem por padrão o tema Default. Além desta existe o tem
 
 
 
-[Volta](sistema.md)
+[Voltar](sistema.md#ajustes)
+

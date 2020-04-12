@@ -18,5 +18,7 @@ No processo de Venda a opção Entrega à Domicílio fica disponível, podendo s
 
 
 
-[Voltar](sistema.md)
+[Voltar](sistema.md#ajustes)
+
+
 
