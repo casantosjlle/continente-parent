@@ -14,11 +14,7 @@ O número do Comprovante contábil, tem por objetivo agrupar de forma unívoca, 
 
 
 
-## Parâmetros Contábeis
-
-{: #parametroscontabeis}
-
-
+## Parâmetros Contábeis {: #parametroscontabeis}
 
 Nesta tela são parametrizadas as contas contábeis utilizadas em todas as transações do sistema.
 

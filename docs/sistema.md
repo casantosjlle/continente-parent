@@ -4,7 +4,9 @@ No menu Sistema estão algumas parametrizações que devem ser executadas uma ú
 
 Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` do sistema.
 
-![](images/sistema.jpg)[Sequência Numérica](sistema_sequencia_numerica)
+![](images/sistema.jpg)
+
+[Sequência Numérica](sistema_sequencia_numerica)
 
 [Certificado Digital](sistema_certificado_digital.md)
 
