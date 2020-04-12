@@ -1,4 +1,4 @@
-### Caixa
+### Parâmetros Contábeis- Caixa
 
 ![](images/contabilidade_parametro_contabil_caixa.jpg)
 

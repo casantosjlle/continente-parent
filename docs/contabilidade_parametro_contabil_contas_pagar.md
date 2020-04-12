@@ -1,4 +1,4 @@
-### Contas à Pagar
+### Parâmetros Contábeis- Contas à Pagar
 
 {: #parametrocontaspagar}
 

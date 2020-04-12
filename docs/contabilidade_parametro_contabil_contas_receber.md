@@ -1,4 +1,4 @@
-### Contas à Receber
+### Parâmetros Contábeis- Contas à Receber
 
 ![](images/contabilidade_parametro_contabil_contas_receber.jpg)
 
