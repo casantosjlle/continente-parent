@@ -10,7 +10,7 @@ Para o Contas à Pagar, estão disponíveis as opções:
 
 - [Cartão Corporativo](financeiro_cartao_corporativo.md) 
 - [Motivo Movimentação Manual de Cartão Corporativo](financeiro_motivo_movimentacao_manual_cartao.md)
-- [Contas a Pagar](financeiro_contas_pagar.md)
+- [Contas à Pagar](financeiro_contas_pagar.md)
 - [Forma de Pagamento](financeiro_forma_pagamento.md)
 - [Pagamento de Cartão](financeiro_pagamento_cartao.md)
 
@@ -21,7 +21,7 @@ Para o Contas à Receber, estão disponíveis as opções:
 {: #financeirocontasreceber}
 
 - [Administradora de Cartão](financeiro_administradora_cartao.md)
-- [Contas a Receber](financeiro_contas_receber.md)
+- [Contas à Receber](financeiro_contas_receber.md)
 - [Forma de Recebimento](financeiro_forma_recebimento.md)
 - [Recebimento de Cartão](financeiro_recebimento_cartao.md)
 

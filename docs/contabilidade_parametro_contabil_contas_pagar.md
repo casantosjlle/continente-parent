@@ -1,5 +1,9 @@
 ### Contas à Pagar
 
+{: #parametrocontaspagar}
+
+
+
 ![](images/contabilidade_parametro_contabil_contas_pagar.jpg)
 
 - Cartão corporativo: onde é lançado as compras feitas em cartão de crédito corporativo. Exemplo:
