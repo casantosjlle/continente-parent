@@ -8,11 +8,17 @@ Para o Contas à Pagar, estão disponíveis as opções:
 
 {: #financeirocontaspagar}
 
-- [Cartão Corporativo](financeiro_cartao_corporativo.md) 
-- [Motivo Movimentação Manual de Cartão Corporativo](financeiro_motivo_movimentacao_manual_cartao.md)
+- [Cadastro de Cartão Corporativo](financeiro_cartao_corporativo.md) 
+
+- [Cadastro de Motivo Movimentação Manual de Cartão Corporativo](financeiro_motivo_movimentacao_manual_cartao.md)
+
+- [Conciliação de Cartão Corporativo](financeiro_conciliacao_cartao_corporativo.md)
+
+- [Cadastro de Forma de Pagamento](financeiro_forma_pagamento.md)
+
 - [Contas à Pagar](financeiro_contas_pagar.md)
-- [Forma de Pagamento](financeiro_forma_pagamento.md)
-- [Pagamento de Cartão](financeiro_pagamento_cartao.md)
+
+  
 
 
 
