@@ -2,7 +2,7 @@
 
 Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como crediário ou cheque.
 
-Clicando com botão direito em cima da parcela,  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+E` `Ctrl+R` ou `Ctrl+Alt+R` as opões de trabalho, [Editar](financeiro_contas_receber.md#editar), [Receber](financeiro_contas_receber.md#receber) ou [Reversão](financeiro_contas_receber.md#reversao) ficam disponíveis
+Clicando com botão inverso em cima da parcela,  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+E` `Ctrl+R` ou `Ctrl+Alt+R` as opões de trabalho, [Editar](financeiro_contas_receber.md#editar), [Receber](financeiro_contas_receber.md#receber) ou [Reversão](financeiro_contas_receber.md#reversao) ficam disponíveis
 
 
 
