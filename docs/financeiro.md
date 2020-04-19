@@ -30,7 +30,7 @@ Para o Gerenciamento de Contas Bancárias, estão disponíveis as opções:
 {: #financeirobanco}
 
 - [Conta Bancária](financeiro_conta_bancaria.md)
-- [Motivo de Movimentação Manual de Banco](financeiro_motivo_movimentacao_manual_banco.md)
+- [Motivo Movimentação Manual de Banco](financeiro_motivo_movimentacao_manual_banco.md)
 
 
 
