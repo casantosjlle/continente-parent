@@ -1,5 +1,7 @@
 ### Cartão Corporativo
 
+{: #cartaocorporativo}
+
 #### Cadastro
 
 {: #cadastro}
@@ -68,6 +70,8 @@ Com botão inverso do mouse em cima das parcelas,  ou no botão `Mais` no lado i
 
 ##### Editar
 
+{: #editar}
+
 Nesta tela pode-se alterar o vencimento ou valor de uma parcela específica, ou o valor de várias parcelas de um mesmo parcelamento, desde que não altere o somatório total final.
 
 ![](images/financeiro_cartao_corporativo_conciliacao_telaconciliacao_editar.jpg)
@@ -76,6 +80,8 @@ Nesta tela pode-se alterar o vencimento ou valor de uma parcela específica, ou 
 
 ##### Movimentação Manual
 
+{: #movimentacaomanual}
+
 Nesta tela pode-se incluir transações  que estão na Fatura da cartão corporativo mas não são decorrentes do lançamento de uma compra. Como por exemplo uma taxa de anuidade do cartão, Juros, ou algum desconto. Ao clicar em gravar a transação irá aparecer como uma parcela na tela de conciliação do cartão corporativo. Esses valores serão contabilizados de acordo com as contas contábeis informadas no [cadastro de motivo de movimentação manual de cartão corporativo](financeiro_motivo_movimentacao_manual_cartao.md).
 
 ![](images/financeiro_cartao_corporativo_conciliacao_telaconciliacao_movmanual.jpg)
@@ -83,6 +89,8 @@ Nesta tela pode-se incluir transações  que estão na Fatura da cartão corpora
 
 
 ##### Conciliar e Gerar fatura
+
+{: #conciliaregerarfatura}
 
 Quando não houver mais diferença entre o valor da fatura informado e o valor das parcelas selecionadas a Conciliação poderá ser feita. 
 

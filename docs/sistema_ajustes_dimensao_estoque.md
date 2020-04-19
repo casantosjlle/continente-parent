@@ -1,5 +1,7 @@
 ## Ajustes Dimensão de Estoque
 
+{: #dimensaoestoque}
+
 As parametrizações de Dimensão de Estoque são feitas uma única vez para todas as empresas.
 
 As dimensões de estoque não são obrigatórias, elas são um facilitador para controle e gerenciamento do estoque.

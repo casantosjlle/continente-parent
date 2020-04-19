@@ -1,5 +1,7 @@
 ## Certificado Digital
 
+{: #certificadodigital}
+
 Nesta tela é feito o Upload do Certificado digital utilizado na emissão da NF-e.
 
 A senha para acesso ao certificado também deve ser informada.

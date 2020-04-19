@@ -2,6 +2,8 @@
 
 ## Ajustes Venda
 
+{: #venda}
+
 As parametrizações fiscais devem ser feitas para cada empresa cadastrada. 
 
 Quando a opção Entrega a Domicílio está habilitada nos parâmetros

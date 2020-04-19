@@ -1,5 +1,7 @@
 ### Parâmetros Contábeis- Caixa
 
+{: #caixa}
+
 ![](images/contabilidade_parametro_contabil_caixa.jpg)
 
 - Caixa:  onde é lançado os valores das transações de caixa. Deve-se parametrizar uma conta contábil para cada caixa cadastrado. Essa parametrização poder ser feita diretamente no cadastro do caixa ou nos Parâmetros Contábeis.

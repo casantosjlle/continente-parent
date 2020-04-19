@@ -1,5 +1,7 @@
 ### **Parâmetros Contábeis- Venda**
 
+{: #venda}
+
 ![](images/contabilidade_parametro_contabil_venda.jpg)
 
 - Devolução de Venda: onde é lançado a devolução de vendas. Conta de Resultado – Deduções de vendas

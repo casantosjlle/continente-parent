@@ -1,5 +1,7 @@
 ## Sequência Númerica
 
+{: #sequencianumerica}
+
 Nesta tela estão parametrizados as sequências numéricas utilizadas em todos os processos do sistema Todas as sequencias vem pré-cadastradas 
 
 As sequências `NFE` `NFCe` são obrigatórias para os emissores de NFE e NFCe e devem ser parametrizadas somente com o `Próximo Sequencial` a ser emitido.

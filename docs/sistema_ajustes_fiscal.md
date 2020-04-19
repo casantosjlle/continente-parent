@@ -1,5 +1,7 @@
 ## Ajustes Fiscal
 
+{: #fiscal}
+
 As parametrizações fiscais devem ser feitas para cada empresa cadastrada e estão divididas em:
 
 
@@ -48,7 +50,7 @@ Para o estado no PR está disponível no [Portal RECEITA/PR](https://receita.pr.
 
 #### Ajustes Fiscal - Geral
 
-`Certificado Digital`
+`Certificado Digital` deve ser parametrizado o certificado digital que foi importado no meu [certificado digital](sistema_certificado_digital.md#certificadodigital).
 
 `Documento Fiscal Padrão` o tipo parametrizado será utilizado como padrão no cadastro dos Clientes, podendo, se necessário, fazer a alteração em cada cliente.
 

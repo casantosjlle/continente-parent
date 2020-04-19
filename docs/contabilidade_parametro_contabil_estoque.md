@@ -1,5 +1,9 @@
 ### Parâmetros Contábeis- Estoque
 
+{: #estoque}
+
+
+
 ![](images/contabilidade_parametro_contabil_estoque.jpg)
 
 - Estoque de venda: onde é lançado a saída do estoque pelas vendas. Conta Contábil do Ativo Circulante.

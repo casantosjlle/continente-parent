@@ -1,5 +1,9 @@
 ### Parâmetros Contábeis- Contas à Receber
 
+{: #contasreceber}
+
+
+
 ![](images/contabilidade_parametro_contabil_contas_receber.jpg)
 
 - Cliente: onde é lançado os valores à receber de clientes, ou seja, todo faturamento feito em cheque ou crediário. Conta Contábil do Ativo Circulante.

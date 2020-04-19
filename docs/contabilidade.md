@@ -1,5 +1,7 @@
 # Contabilidade
 
+{: #contabilidade}
+
 Neste menu estão todas as opções relacionadas a Contabilidade, desde relatório até parâmetros.
 
 

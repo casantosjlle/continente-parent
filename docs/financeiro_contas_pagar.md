@@ -1,12 +1,16 @@
 ### Contas à Pagar
 
+{: #contaspagar}
+
 Nesta tela estão disponíveis as parcelas à pagar que foram faturadas como [parcelamento](compra_faturamento.md#pagamento).
 
 Status: Cancelado: Quando a compra que originou a parcela foi estornada.
 
 ​    
 
-#### Alteração da data de vencimento
+#### Reagendar vencimento
+
+{: #reagendarvencimento}
 
 Clicando com botão inverso em cima da parcela,  ou no botão `Mais`  pode-se reagendar o vencimento da fatura.
 
@@ -16,15 +20,19 @@ Clicando com botão inverso em cima da parcela,  ou no botão `Mais`  pode-se re
 
 #### Juros e Multa
 
+{: #jurosemulta}
+
 O juros e multa não são calculados pelo sistema, quando necessário podem ser inseridos clicando diretamente no campo específico na na grade de cada parcela.
 
-Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md).
+Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
 
 ![](images/financeiro_contas_pagar_juros_multa.jpg)
 
 
 
 #### Pagamento
+
+{: #pagamento}
 
 Clicando com botão inverso,  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+P` pode-se fazer o pagamento das parcelas selecionadas.
 
