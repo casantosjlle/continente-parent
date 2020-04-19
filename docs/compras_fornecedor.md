@@ -2,7 +2,7 @@
 
 {: #cadastro}
 
-Nesta tela devem ser cadastradas todos as Fornecedores que a  empresa tem e movimenta.
+Nesta tela devem ser cadastrados todos as Fornecedores que a  empresa tem e movimenta.
 
 Deve-se atentar aos campos de endereço e Inscrição estadual pois eles sairão na NF-e no caso de uma Devolução de Compra.
 
