@@ -19,9 +19,9 @@ Para o Contas à Receber, estão disponíveis as opções:
 
 {: #financeirocontasreceber}
 
-- [Administradora de Cartão](financeiro_administradora_cartao.md)
-- [Contas à Receber](financeiro_contas_receber.md)
-- [Forma de Recebimento](financeiro_forma_recebimento.md)
+- [Administradora de Cartão](financeiro_administradora_cartao.md##administradoradecartao)
+- [Contas à Receber](financeiro_contas_receber.md#contasreceber)
+- [Forma de Recebimento](financeiro_forma_recebimento.md#cadastro)
 
 
 
@@ -29,8 +29,8 @@ Para o Gerenciamento de Contas Bancárias, estão disponíveis as opções:
 
 {: #financeirobanco}
 
-- [Conta Bancária](financeiro_conta_bancaria.md)
-- [Motivo Movimentação Manual de Banco](financeiro_motivo_movimentacao_manual_banco.md)
+- [Conta Bancária](financeiro_conta_bancaria.md#contabancaria)
+- [Motivo Movimentação Manual de Banco](financeiro_motivo_movimentacao_manual_banco.md#cadastro)
 
 
 
