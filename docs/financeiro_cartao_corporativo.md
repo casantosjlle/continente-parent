@@ -1,10 +1,12 @@
-### Cartão Corporativo
+
 
 {: #cartaocorporativo}
 
-#### Cadastro
+### Cartão Corporativo
 
 {: #cadastro}
+
+#### Cadastro
 
 Nesta tela devem ser cadastradas todos os Cartões de Crédito e\ou Débito que a empresa tem e utiliza.
 
@@ -22,9 +24,9 @@ Quando o cartão tiver a opção crédito um fornecedor deverá ser informado. E
 
 
 
-#### Conciliação
-
 {: #conciliacao}
+
+#### Conciliação
 
 Com botão inverso do mouse em cima do cartão,  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+O` é possível acessar a tela para conciliação da fatura de cartão corporativo.
 
@@ -68,9 +70,9 @@ Esses são os dados Fatura que está sendo conciliada. Devem ser inseridos manua
 
 Com botão inverso do mouse em cima das parcelas,  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+E` e `Ctrl+M` é possível acessar os menus Editar, Movimentação Manual e Conciliar e Gerar Fatura.
 
-##### Editar
-
 {: #editar}
+
+##### Editar
 
 Nesta tela pode-se alterar o vencimento ou valor de uma parcela específica, ou o valor de várias parcelas de um mesmo parcelamento, desde que não altere o somatório total final.
 
@@ -78,9 +80,9 @@ Nesta tela pode-se alterar o vencimento ou valor de uma parcela específica, ou 
 
 
 
-##### Movimentação Manual
-
 {: #movimentacaomanual}
+
+##### Movimentação Manual
 
 Nesta tela pode-se incluir transações  que estão na Fatura da cartão corporativo mas não são decorrentes do lançamento de uma compra. Como por exemplo uma taxa de anuidade do cartão, Juros, ou algum desconto. Ao clicar em gravar a transação irá aparecer como uma parcela na tela de conciliação do cartão corporativo. Esses valores serão contabilizados de acordo com as contas contábeis informadas no [cadastro de motivo de movimentação manual de cartão corporativo](financeiro_motivo_movimentacao_manual_cartao.md).
 
@@ -88,9 +90,9 @@ Nesta tela pode-se incluir transações  que estão na Fatura da cartão corpora
 
 
 
-##### Conciliar e Gerar fatura
-
 {: #conciliaregerarfatura}
+
+##### Conciliar e Gerar fatura
 
 Quando não houver mais diferença entre o valor da fatura informado e o valor das parcelas selecionadas a Conciliação poderá ser feita. 
 

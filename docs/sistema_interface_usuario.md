@@ -1,6 +1,8 @@
-## Interface Usuário
+
 
 {: #interfaceusuario}
+
+### Interface Usuário
 
 A Interface do usuário vem por padrão o tema Default. Além desta existe o tema Light e Dark que podem ser parametrizados por usuário.
 

@@ -1,6 +1,8 @@
-### Conta Bancária
+
 
 {: #contabancaria}
+
+### Conta Bancária
 
 Nesta tela devem ser cadastradas todas as Contas bancárias que a empresa tem e movimenta.
 
@@ -10,8 +12,9 @@ Clicando com botão inverso do mouse em cima da conta,  ou no botão `Mais` no l
 
 
 
-#### Movimentação Manual
 {: #movimentacaomanual}
+
+#### Movimentação Manual
 
 Nesta podem ser inseridas todas as movimentações de entrada e saída das contas bancárias que forem além das já feitas nos outros processos do sistema, como por exemplo uma saída devido há uma tarifa bancária, ou uma entrada referente há um adiantamento de Cliente.
 
@@ -33,8 +36,9 @@ Os campos de Créditos em aberto só aparecem se o motivo for parametrizado para
 
 
 
-#### Transações
 {: #transacoes}
+
+#### Transações
 
 Esta é uma tela de consulta, onde estão disponíveis todas as transações bancárias realizadas.
 
@@ -48,8 +52,9 @@ O Status Cancelado representa as transações que foram canceladas através dos 
 
 
 
-#### Saldo
 {: #saldo}
+
+#### Saldo
 
 Esta é uma tela de consulta, onde está disponível o Saldo bancário registrado no sistema
 
@@ -57,8 +62,9 @@ Esta é uma tela de consulta, onde está disponível o Saldo bancário registrad
 
 
 
-#### Histórico Conciliação
 {: #historicoconciliacao}
+
+#### Histórico Conciliação
 
 Esta é uma tela de consulta, onde está disponível o histórico das Conciliações bancárias realizadas.
 
@@ -66,10 +72,9 @@ Esta é uma tela de consulta, onde está disponível o histórico das Conciliaç
 
 
 
-
+{: #conciliacao}
 
 #### Conciliação
-{: #conciliacao}
 
 Nesta tela é feito o processo de conciliação bancária.
 
@@ -88,6 +93,8 @@ Caso necessário, pode-se incluir nesta mesma tela os lançamentos Manuais de Ca
 Não havendo diferenças o Extrato pode ser conciliado.
 
 ![](images/financeiro_contas_bancarias_conciliacao_bancaria_diferenca.jpg)
+
+
 
 [Voltar](financeiro.md#financeirobanco)
 

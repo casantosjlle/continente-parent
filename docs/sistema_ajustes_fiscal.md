@@ -1,10 +1,14 @@
-## Ajustes Fiscal
+
 
 {: #fiscal}
+
+### Ajustes Fiscal
 
 As parametrizações fiscais devem ser feitas para cada empresa cadastrada e estão divididas em:
 
 
+
+{: #nfe}
 
 #### Ajustes Fiscal - NFe
 
@@ -22,7 +26,7 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 
 
-
+{: #nfce}
 
 #### Ajustes Fiscal - NFCe
 
@@ -46,7 +50,7 @@ Para o estado no PR está disponível no [Portal RECEITA/PR](https://receita.pr.
 
 
 
-
+{: #geral}
 
 #### Ajustes Fiscal - Geral
 

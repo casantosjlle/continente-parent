@@ -1,6 +1,8 @@
-## Sequência Númerica
+
 
 {: #sequencianumerica}
+
+### Sequência Númerica
 
 Nesta tela estão parametrizados as sequências numéricas utilizadas em todos os processos do sistema Todas as sequencias vem pré-cadastradas 
 

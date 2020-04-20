@@ -1,6 +1,8 @@
-## Ajustes Dimensão de Estoque
+
 
 {: #dimensaoestoque}
+
+### Ajustes Dimensão de Estoque
 
 As parametrizações de Dimensão de Estoque são feitas uma única vez para todas as empresas.
 

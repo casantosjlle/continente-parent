@@ -1,6 +1,8 @@
-## Ajustes Contas à Receber
+
 
 {: #contasreceber}
+
+### Ajustes Contas à Receber
 
 As parametrizações do Contas à receber devem ser feitas para cada empresa cadastrada. 
 

@@ -1,8 +1,10 @@
 
 
-## Ajustes Venda
+
 
 {: #venda}
+
+### Ajustes Venda
 
 As parametrizações fiscais devem ser feitas para cada empresa cadastrada. 
 

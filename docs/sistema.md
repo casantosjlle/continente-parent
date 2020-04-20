@@ -1,6 +1,8 @@
-# Sistema
+
 
 {: #sistema}
+
+### Sistema
 
 No menu Sistema estão algumas parametrizações que devem ser executadas uma única vez no início da utilização do sistema, ou quando houver alguma alteração.
 
@@ -14,9 +16,9 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 
 
 
-Ajustes
-
 {: #ajustes}
+
+#### Ajustes
 
 - [Fiscal](sistema_ajustes_fiscal.md#fiscal)
 - [Contas a Receber](sistema_ajustes_contas_receber.md#contasreceber)

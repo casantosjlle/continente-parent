@@ -1,6 +1,8 @@
-### Formas de Recebimento
+
 
 {: #cadastro}
+
+### Formas de Recebimento
 
 Nesta tela estão disponíveis todas as formas de recebimento disponíveis no sistema. Elas já vem pré-cadastradas com a instalação do sistema.
 
