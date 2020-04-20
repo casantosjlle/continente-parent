@@ -46,10 +46,6 @@ Os valores informados são sumarizados nos totalizadores no final da tela.  Os v
 
 
 
-
-
-
-
 [Voltar](financeiro.md#financeirocontaspagar)
 
 
