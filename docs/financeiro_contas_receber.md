@@ -1,6 +1,8 @@
-### Contas à Receber
+
 
 {: #contasreceber}
+
+### Contas à Receber
 
 Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como crediário ou cheque.
 
@@ -24,9 +26,9 @@ Clicando com botão inverso do mouse em cima da parcela,  ou no botão `Mais` no
 
 
 
-#### Desconto Total
-
 {: #descontototal}
+
+#### Desconto Total
 
 Nesta tela é possível informar um valor único de desconto que o sistema fará o rateio proporcionalmente para cada parcela selecionada. O desconto pode ser informado em valor ou em percentual.
 
@@ -34,9 +36,9 @@ Nesta tela é possível informar um valor único de desconto que o sistema fará
 
 
 
-#### Reagendar Vencimento
-
 {: #reagendarvencimento}
+
+#### Reagendar Vencimento
 
 
 Nesta tela  é possível alterar o vencimento de uma parcela.
@@ -49,8 +51,9 @@ Uma vez alterado o vencimento, essa nova informação é salva permanentemente.
 
 
 
-#### Receber
 {: #receber}
+
+#### Receber
 
 O processo de recebimento no contas a Receber é similar ao faturamento, basta informar a(s) forma(s) de pagamento e faturar. 
 
@@ -70,8 +73,9 @@ A opção dinheiro só fica disponível se o usuário estiver com algum Caixa ab
 
 
 
-#### Reversão
 {: #reversao}
+
+#### Reversão
 
 Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil.
 
@@ -87,9 +91,9 @@ Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido 
 
 
 
-#### Comprovante de Recebimento
-
 {: #comprovante}
+
+#### Comprovante de Recebimento
 
 Nesta tela  é possível imprimir o comprovante do recebimento. O formato do comprovante é para impressão em bobina de 80mm e o logo é parametrizável no cadastro da [Empresa](administracao_empresa.md#logo).
 
