@@ -1,6 +1,8 @@
-### Parâmetros Contábeis- Banco
+
 
 {: #banco}
+
+### Parâmetros Contábeis- Banco
 
 ![](images/contabilidade_parametro_contabil_banco.jpg)
 

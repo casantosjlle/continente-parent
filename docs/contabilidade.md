@@ -1,14 +1,16 @@
-# Contabilidade
+
 
 {: #contabilidade}
+
+# Contabilidade
 
 Neste menu estão todas as opções relacionadas a Contabilidade, desde relatório até parâmetros.
 
 
 
-## Lançamento Contábil
-
 {: #lancamentocontabil}
+
+## Lançamento Contábil
 
 Nesta tela podem ser consultados todos os lançamentos contábeis que o sistema executa por transação.
 
@@ -18,9 +20,9 @@ O número do Comprovante contábil, tem por objetivo agrupar de forma unívoca, 
 
 
 
-## Parâmetros Contábeis 
-
 {: #parametroscontabeis}
+
+## Parâmetros Contábeis 
 
 Nesta tela são parametrizadas as contas contábeis utilizadas em todas as transações do sistema.
 
@@ -45,9 +47,9 @@ Para inserir, editar ou remover uma conta deve clicar com o botão inverso do mo
 
 
 
-## Plano de Contas
-
 {: #planocontas}
+
+## Plano de Contas
 
 O plano de contas vem previamente cadastrado na instalação do sistema. Devendo ser manutenido conforme a necessidade de cada empresa.
 

@@ -1,6 +1,8 @@
-### Fornecedor
+
 
 {: #cadastro}
+
+### Fornecedor
 
 Nesta tela devem ser cadastrados todos as Fornecedores que a  empresa tem e movimenta.
 
@@ -14,9 +16,9 @@ Quando o contribuinte for ISENTO de inscrição estadual, deve-se escrever ISENT
 
 
 
-#### Crédito
-
 {: #credito}
+
+#### Crédito
 
 Através do botão `Mais` no canto direito inferior da tela é possível acessar o menu Crédito.
 

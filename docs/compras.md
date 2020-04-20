@@ -1,6 +1,8 @@
-### Compras
+
 
 {: #compras}
+
+### Compras
 
 Neste menu são encontrados todos os acessos necessários para as atividades do Compras.
 
