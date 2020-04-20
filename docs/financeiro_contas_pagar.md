@@ -1,3 +1,5 @@
+
+
 {: #contaspagar}
 
 ### Contas à Pagar
@@ -8,9 +10,9 @@ Status: Cancelado: Quando a compra que originou a parcela foi estornada.
 
 ​    
 
-#### Reagendar vencimento
-
 {: #reagendarvencimento}
+
+#### Reagendar vencimento
 
 Clicando com botão inverso em cima da parcela,  ou no botão `Mais`  pode-se reagendar o vencimento da fatura.
 
@@ -18,9 +20,9 @@ Clicando com botão inverso em cima da parcela,  ou no botão `Mais`  pode-se re
 
 
 
-#### Juros e Multa
-
 {: #jurosemulta}
+
+#### Juros e Multa
 
 O juros e multa não são calculados pelo sistema, quando necessário podem ser inseridos clicando diretamente no campo específico na na grade de cada parcela.
 
@@ -30,9 +32,9 @@ Esses valores serão contabilizados conforme conta contábil parametrizada nos [
 
 
 
-#### Pagamento
-
 {: #pagamento}
+
+#### Pagamento
 
 Clicando com botão inverso,  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+P` pode-se fazer o pagamento das parcelas selecionadas.
 
