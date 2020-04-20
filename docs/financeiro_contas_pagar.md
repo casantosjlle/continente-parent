@@ -1,6 +1,6 @@
-### Contas à Pagar
-
 {: #contaspagar}
+
+### Contas à Pagar
 
 Nesta tela estão disponíveis as parcelas à pagar que foram faturadas como [parcelamento](compra_faturamento.md#pagamento).
 
