@@ -16,11 +16,9 @@ A opção Faturamento só fica disponível para as Compras com status Aberto.
 
 As opções Reversão, Devolução e o Ticket só ficam disponíveis para as Compras com status Faturado.
 
-
-
 ![](images/compras_compra_pesquisa.jpg)
 
-####  
+
 
 {: #cadastro}
 
@@ -38,7 +36,7 @@ As opções Reversão, Devolução e o Ticket só ficam disponíveis para as Com
 
 
 
-*Nota Fiscal de Compra*: Essas informações não são obrigatórias no cadastro da compra. Elas podem ser inseridas nesse formulário ou na tela de  Faturamento. Se preenchido no formulário de compra, os dados serão levados para a tela de faturamento. Essas informações são obrigatórias para o faturamento da Compra. Ao informar a chave de acesso os campos de Modelo, Número e Série serão preenchidos automaticamente. A data de Emissão é a data que o fornecedor emitiu a Nota fiscal e a data de Lançamento é a data que será feita a entrada da mercadoria bem como a contabilização da compra.
+*Nota Fiscal de Compra*: Essas informações não são obrigatórias no cadastro da compra. Elas podem ser inseridas nesse formulário ou na tela de  Faturamento. Se preenchido no formulário de compra, os dados serão levados para a tela de faturamento. Essas informações são obrigatórias para o faturamento da Compra. Ao informar a chave de acesso os campos de Modelo, Número e Série são preenchidos automaticamente. A data de Emissão é a data que o fornecedor emitiu a Nota fiscal e a data de Lançamento é a data que é feita a entrada da mercadoria bem como a contabilização da compra.
 
 ![](images/compras_compra_cadastro_nota_fiscal.jpg)
 
@@ -46,19 +44,19 @@ As opções Reversão, Devolução e o Ticket só ficam disponíveis para as Com
 
 *Produtos:*
 
-Ao clicar e Novo os campos para adição do produto ficam disponíveis.
+Ao clicar em Novo os campos para adição do produto ficam disponíveis.
 
 ![](images/compras_compra_cadastro_produtos_novo.jpg)
 
 Quantidade: Campo informado manualmente. Quantidade de produto que entrará no estoque.        
 
-Produto: Campo informado manualmente.. O campo produto pode ser pesquisado tanto pelo código quanto a descrição do produto.
+Produto: Campo informado manualmente. O campo produto pode ser pesquisado tanto pelo código quanto a descrição do produto.
 
 Caso o produto esteja parametrizado para utilizar dimensão de estoque, os campos ficam disponíveis após o produto. No exemplo abaixo a dimensão de estoque é o Tamanho.
 
 ![](images/compras_compra_cadastro_produtos.jpg)
 
-Valor Unitário: Campo informado manualmente. Valor unitário do produto. Os valores de frete e impostos (ICMS-ST e IPI) também irão somar ao custo do produto.
+Valor Unitário: Campo informado manualmente. Valor unitário do produto. Os valores de frete e impostos (ICMS-ST e IPI) também somam ao custo do produto.
 
 CFOP: Campo preenchido automaticamente através do grupo de Impostos de compra amarrado ao produto, mas pode ser editado manualmente.
 
@@ -88,7 +86,7 @@ Ao abrir a tela de redefinir impostos, ficam disponíveis o detalhamento dos imp
 
 ![](images/compras_compra_cadastro_produtos_redefinirimpostos2.jpg)
 
-Pode-se alterar o grupo de impostos e sistema fará o recálculo dos impostos de acordo com o novo grupo:
+É possível alterar o grupo de impostos, e assim o sistema faz o recálculo dos impostos de acordo com o impostos do novo grupo selecionado:
 
 ![](images/compras_compra_cadastro_produtos_redefinirimpostos3.jpg)
 
@@ -122,7 +120,7 @@ Ao clicar no botão Gravar a Compra é salva e pode ser editada em outro momento
 
 #### Faturamento
 
-Nesta tela é feito o faturamento da compra, ou seja, após o faturamento o produto entra no estoque o financeiro e contábil também são efetuados na data de Lançamento informada na aba [Nota Fiscal](compras_compra.md#notafiscal).
+Nesta tela é feito o faturamento da compra, ou seja, após o faturamento o produto entra no estoque e o financeiro e o contábil também são efetuados, todos as transações são feitas na data de Lançamento informada na aba [Nota Fiscal](compras_compra.md#notafiscal).
 
 Os valores informados são sumarizados nos totalizadores no final da tela.  Os valores informados podem ser removidos através do botão Remover no final de cada condição de pagamento.
 

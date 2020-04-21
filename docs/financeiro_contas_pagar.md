@@ -4,9 +4,9 @@
 
 ### Contas à Pagar
 
-Nesta tela estão disponíveis as parcelas à pagar que foram faturadas como [parcelamento](compra_faturamento.md#pagamento).
+Nesta tela estão disponíveis as parcelas à pagar que foram faturadas como [parcelamento](compras_compra.md#faturamento).
 
-Status: Cancelado: Quando a compra que originou a parcela foi estornada.
+Status: Cancelado: Quando a compra que originou a parcela foi [revertida](compras_compra.md#reversao).
 
 ​    
 
@@ -24,7 +24,7 @@ Clicando com botão inverso em cima da parcela,  ou no botão `Mais`  pode-se re
 
 #### Juros e Multa
 
-O juros e multa não são calculados pelo sistema, quando necessário podem ser inseridos clicando diretamente no campo específico na na grade de cada parcela.
+O juros e multa **não** são calculados pelo sistema, quando necessário podem ser inclusos clicando diretamente no campo específico na linha na grade. Esses  valores de juros e multa são salvos temporariamente, apenas para que seja feito o pagamento da parcela, assim que a tela do Contas à Pagar for fechado e reaberto os valores são zerarados.
 
 Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
 
