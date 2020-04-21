@@ -1,3 +1,7 @@
+
+
+{: #estoque}
+
 ### Estoque
 
 Neste menu são encontrados todos os acessos necessários para as atividade de cadastro manutenção e gerenciamento de produtos.
@@ -6,23 +10,25 @@ Neste menu são encontrados todos os acessos necessários para as atividade de c
 
 Estão disponíveis as opções:
 
-[Ajuste de Estoque]()
+[Consulta de Estoque Disponível](estoque_cosulta_estoque_disponivel.md#consultaestoque)
 
-[Consulta de Saldo]()
+[Grupo e Subgrupos](estoque_grupo_subgrupo.md#grupoproduto)
 
-[Grupo e Subgrupos]()
+[Liberação de Produto](estoque_liberacao_produto.md#liberacaoproduto)
 
-[Liberação de Produto]()
+[Marca](estoque_marca.md#marca)
 
-[Marca]()
+[Motivo Movimentação Manual](estoque_motivo_movimentacao_manual.md#cadastro)
 
-[Motivo Movimentação Manual]()
-
-[Movimentação de Estoque]()
+[Movimentação manual de Estoque](estoque_movimentacao_manual.md#movimentacaomanual)
 
 [Produto]()
 
-[Volumes]()
+[Revalidação de Preço de Venda]()
+
+[Transações de Estoque]()
+
+[Volumes](estoque_volumes.md#volumes)
 
 
 
