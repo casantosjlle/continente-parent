@@ -14,19 +14,13 @@ Através do botão mais pode-se acessar os menus relacionados com a compra.
 
 A opção Faturamento só fica disponível para as Compras com status Aberto.
 
-As opções Reversão e Devolução só ficam disponíveis para as Compras com status Faturado.
+As opções Reversão, Devolução e o Ticket só ficam disponíveis para as Compras com status Faturado.
 
 
 
 ![](images/compras_compra_pesquisa.jpg)
 
 ####  
-
-#### Ticket
-
-O ticket de compra pode ser impresso para compras Faturadas e Abertas. Para as compras em aberto não imprime as condições de pagamento.
-
-![](images/compras_compra_ticket.jpg)
 
 {: #cadastro}
 
@@ -121,6 +115,84 @@ Ao clicar no botão Gravar a Compra é salva e pode ser editada em outro momento
 
 
 ![](images/compras_compra_cadastro_gravar.jpg)
+
+
+
+{: #faturamento}
+
+#### Faturamento
+
+Nesta tela é feito o faturamento da compra, ou seja, após o faturamento o produto entra no estoque o financeiro e contábil também são efetuados na data de Lançamento informada na aba [Nota Fiscal](compras_compra.md#notafiscal).
+
+Os valores informados são sumarizados nos totalizadores no final da tela.  Os valores informados podem ser removidos através do botão Remover no final de cada condição de pagamento.
+
+*Dinheiro:* Esta forma de pagamento só fica disponível se houver um Caixa aberto para o usuário que está fazendo o pagamento e se no cadastro do caixa estiver parametrizado para fazer pagamento em Dinheiro.
+
+![](images/compras_compra_faturamento_pagamento.jpg)
+
+
+
+*Parcelamento*:  O valor faturado como parcelamento será levado para o [Contas a Pagar](financeiro_contas_pagar.md#contaspagar).
+
+*Cartão:* O valor faturado como Cartão de Débito será lançado como uma saída diretamente na conta bancária amarrada ao [cadastro de cartão corporativo](financeiro_cartao_corporativo.md#cadastro).
+
+​             O valor faturado como Cartão de Crédito será lançado como transações na [conciliação de Cartão Corporativo](financeiro_cartao_corporativo.md#conciliacao).
+
+*Depósito:* O valor faturado como depósito será lançado como uma saída diretamente na conta bancária informada.
+
+*Crédito:* Somente poderá ser faturado como crédito, se houver crédito disponível para o Fornecedor. Neste caso o faturamento faz o abatimento do crédito.
+
+Após o faturamento o histórico de abatimentos e saldo de crédito para o fornecedor pode ser visto diretamente no [menu crédito no cadastro do fornecedor](compras_fornecedor.md#credito).
+
+![](images/compras_compra_faturamento_pagamento_credito.jpg)
+
+
+
+{: #notafiscal}
+
+#### Nota Fiscal
+
+Essas informações são obrigatórias para o faturamento da Compra. Ao informar a chave de acesso os campos de Modelo, Número e Série serão preenchidos automaticamente. A data de Emissão é a data que o fornecedor emitiu a Nota fiscal e a data de Lançamento é a data que será feita a entrada da mercadoria bem como a contabilização da compra.
+
+![](images/compras_compra_faturamento_nota_fiscal.jpg)
+
+
+
+{: #reversao}
+
+#### Reversão
+
+Nesta tela  é possível fazer a reversão do lançamento de uma compra. Importante ressaltar que não é o cancelamento da Nota Fiscal, até porque a Nota Fiscal foi emitida pelo fornecedor e cabe ao mesmo o cancelamento se necessário.  Esse processo faz a reversão do lançamento da compra no sistema.
+
+Deve-se informar o motivo da reversão e clicar em efetuar.
+
+![](images/compras_compra_reversao.jpg)
+
+
+
+Ao efetuar a reversão da Compra o status da Compra e da Nota Fiscal no Gestão de NF-e ficam Revertido:
+
+![](images/compras_compra_statusrevertido.jpg)
+
+![](images/compras_compra_statusrevertido2.jpg)
+
+
+
+O financeiro gerado pela compra, por exemplo Contas à Pagar, transação de cartão corporativo ou transação bancária ficam com  status Cancelado:
+
+![](images/compras_compra_status_cancelado_contas_pagar.jpg)
+
+ Na contabilidade é feito um lançamento contábil inverso ao feito na compra com o Histórico de Reversão:
+
+![](images/compras_compra_reversao_comprovante_contabil.jpg)
+
+
+
+#### Ticket
+
+O ticket de compra pode ser impresso para compras Faturadas.
+
+![](images/compras_compra_ticket.jpg)
 
 
 
