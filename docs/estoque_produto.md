@@ -24,7 +24,7 @@ A parte inferior da tela de cadastro é dividida em abas.
 
 {: #fiscaisimpostos}
 
-#### Fiscais/Impostos
+#### Cadastro de Produto- Fiscais/Impostos
 
 Na aba Fiscais/Impostos devem ser parametrizadas as informações fiscais do Item. Os campos de *NCM, Tipo de mercadoria* e *CEST* são levados para o DANFE e XML dos documentos fiscais emitidos.
 
@@ -38,7 +38,7 @@ O Grupo de imposto dos Impostos de Vendas são utilizados para o cálculo dos im
 
 {: #estoque}
 
-#### Estoque
+#### Cadastro de Produto- Estoque
 
 Nesta aba podem ser parametrizadas as dimensões de estoque que o produto irá utilizar. Todas as dimensões criadas no [cadastro de dimensão de estoque](sistema_ajustes_dimensao_estoque.md#dimensaoestoque) ficam disponíveis no cadastro do produto, mas somente as que forem marcadas na aba estoque serão utilizadas pelo produto.
 
@@ -50,7 +50,7 @@ Os parâmetros de *Estoque Máximo* e *Estoque Mínimo* são para o gerenciament
 
 {: #venda}
 
-#### Venda
+#### Cadastro de Produto- Venda
 
 Ao cadastrar um produto novo o campo *Custo Médio*, fica habilitado para ser informado manualmente o valor de custo do produto, caso não seja, ele será preenchido com o valor de custo da primeira entrada de mercadoria, que pode ser feita via compra ou via movimentação manual de estoque.
 
@@ -70,7 +70,7 @@ No campo *Preço de venda*  deve ser informado o valor de venda do produto. O va
 
 {: #informacoesadicionais}
 
-#### Informações Adicionais
+#### Cadastro de Produto- Informações Adicionais
 
 Nesta aba podem ser informadas delimitações de tamanho, localização, série e garantias do produto.
 
@@ -82,7 +82,7 @@ Nesta aba podem ser informadas delimitações de tamanho, localização, série 
 
 {: #observacoes}
 
-#### Observações
+#### Cadastro de Produto- Observações
 
 Neste campo podem ser descritas qualquer outras informações relevantes ao produto. Essas informações são apenas para consulta no cadastro do produto.
 
