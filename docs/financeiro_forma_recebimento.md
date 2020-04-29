@@ -6,9 +6,13 @@
 
 Nesta tela estão disponíveis todas as formas de recebimento disponíveis no sistema. Elas já vem pré-cadastradas com a instalação do sistema.
 
-As formas de recebimento são parametrizadas no [Cadastro de Caixa](caixa_cadastro_caixa.md)
-
 ![](images/financeiro_forma_recebimento.jpg)
+
+
+
+As formas que serão utilizadas pela empresa devem ser marcadas no [Cadastro de Caixa](caixa_cadastro_caixa.md), possibilitando assim que diferentes caixas trabalhem com diferentes formas de recebimento.
+
+![](images/financeiro_forma_recebimento_caixa.jpg)
 
 
 

@@ -14,7 +14,7 @@ Clicando com botão inverso do mouse em cima da conta,  ou no botão `Mais` no l
 
 {: #movimentacaomanual}
 
-#### Movimentação Manual
+#### Movimentação Manual de Banco
 
 Nesta podem ser inseridas todas as movimentações de entrada e saída das contas bancárias que forem além das já feitas nos outros processos do sistema, como por exemplo uma saída devido há uma tarifa bancária, ou uma entrada referente há um adiantamento de Cliente.
 
@@ -38,7 +38,7 @@ Os campos de Créditos em aberto só aparecem se o motivo for parametrizado para
 
 {: #transacoes}
 
-#### Transações
+#### Transações Bancárias
 
 Esta é uma tela de consulta, onde estão disponíveis todas as transações bancárias realizadas.
 
@@ -54,9 +54,15 @@ O Status Cancelado representa as transações que foram canceladas através dos 
 
 {: #saldo}
 
-#### Saldo
+#### Saldo Bancário
 
-Esta é uma tela de consulta, onde está disponível o Saldo bancário registrado no sistema
+Esta é uma tela de consulta, onde está disponível o Saldo bancário registrado no sistema, onde:
+
+*Saldo Conciliado:* Saldo da ultima conciliação bancária feita.
+
+*Saldo não conciliado*: Total das transações não conciliadas
+
+Saldo Atual: Saldo da ultima conciliação bancária feita + Transações não conciliadas
 
 ![](images/financeiro_contas_bancarias_saldo.jpg)
 
@@ -74,7 +80,7 @@ Esta é uma tela de consulta, onde está disponível o histórico das Conciliaç
 
 {: #conciliacao}
 
-#### Conciliação
+#### Conciliação Bancária
 
 Nesta tela é feito o processo de conciliação bancária.
 
@@ -88,7 +94,7 @@ No Campo `Extrato` deve se informar uma identificação para o extrato bancário
 
 Ao selecionar as transações o sistema informa na parte inferior da tela os valores informados, como saldo inicial, as transações selecionadas e se há diferença de valores.
 
-Caso necessário, pode-se incluir nesta mesma tela os lançamentos Manuais de Caixa. 
+Caso necessário, pode-se incluir nesta mesma tela as [Movimentações Manual de Banco](financeiro_conta_bancaria.md##movimentacaomanual)
 
 Não havendo diferenças o Extrato pode ser conciliado.
 

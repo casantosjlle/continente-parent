@@ -4,7 +4,7 @@
 
 ### Motivo Movimentação Manual de Cartão Corporativo
 
-Nesta tela devem ser cadastrados todos os Motivos das movimentações de entrada e saída utilizados para [conciliação do Cartão Corporativo](financeiro_pagamento_cartao.md). 
+Nesta tela devem ser cadastrados todos os Motivos das movimentações de entrada e saída utilizados para [conciliação do Cartão Corporativo](financeiro_cartao_corporativo.md#conciliacao). 
 
 *Exemplo*: tarifas como IOF ou anuidade, juros ou desconto recebidos na fatura.
 

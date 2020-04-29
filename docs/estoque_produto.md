@@ -12,7 +12,7 @@ Na tela de pesquisa vários campos importantes são visíveis na grade. Os Campo
 
 {: #cadastro}
 
-#### Cadastro
+#### Cadastro de Produto
 
 Na parte superior da tela de cadastro de produto estão as informações e classificações básicas do produto, como [Marca](estoque_marca.md#marca) e [Grupo](estoque_grupo_subgrupo.md#grupoproduto).
 

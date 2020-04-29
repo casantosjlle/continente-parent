@@ -53,7 +53,7 @@ Uma vez alterado o vencimento, essa nova informação é salva permanentemente.
 
 {: #receber}
 
-#### Receber
+#### Receber de Crediário
 
 O processo de recebimento no contas a Receber é similar ao faturamento, basta informar a(s) forma(s) de pagamento e faturar. 
 
@@ -75,7 +75,7 @@ A opção dinheiro só fica disponível se o usuário estiver com algum Caixa ab
 
 {: #reversao}
 
-#### Reversão
+#### Reversão de Recebimento
 
 Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil.
 

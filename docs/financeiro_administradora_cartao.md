@@ -6,7 +6,7 @@
 
 {: #cadastro}
 
-#### Cadastro
+#### Cadastro de Administradora de Cartão
 
 Nesta tela devem ser cadastradas todas as operadoras de cartão com que a empresa trabalha bem como as taxas acordadas que serão utilizadas para o cálculo do valor líquido a receber na conciliação de recebimento de cartão.
 
@@ -38,7 +38,7 @@ Caso não haja antecipação, o prazo será 1 dia após o vencimento de cada par
 
 {: #recebimento}
 
-#### Recebimento
+#### Recebimento de Cartão
 
 Com botão inverso do mouse em  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+R` é possível acessar a tela para Recebimento de Cartão.
 
@@ -76,7 +76,7 @@ Com botão inverso do mouse em cima das parcelas,  ou no botão `Mais` no lado i
 
 {: #editar}
 
-##### Editar
+##### Edição de Cartão
 
 Nesta tela pode-se alterar a data de vencimento e data de crédito ou ainda o  valor calculado da taxa administrativa ou da taxa de antecipação.
 
@@ -88,7 +88,7 @@ Quando forem alterados os valores das taxas, o sistema fará no recebimento do c
 
 {: #receber}
 
-##### Receber
+##### Receber Cartão
 
 Nesta tela é informado o valor líquido que será recebido e também a conta que será feito o crédito do valor. A Data do recebimento deverá ser informada manualmente, esta é a data da movimentação no banco.
 
