@@ -2,11 +2,9 @@
 
 {: #produto}
 
-### Produto
+### Pesquisa de Produtos
 
-Nesta  tela devem ser cadastrados todos os produtos que a empresa utiliza em suas transações comerciais. 
-
-Na tela de pesquisa vários campos importantes são visíveis na grade. Os Campos que ficam visíveis na grade são personalizáveis, podendo ser ocultados da grade se desmarcados do menu de personalização da tela.
+Na tela de pesquisa de produtos vários campos importantes são visíveis na grade. Os Campos que ficam visíveis na grade são personalizáveis, podendo ser ocultados da grade se desmarcados do menu de personalização da tela.
 
 ![](images/estoque_produto_pesquisa.jpg)
 
@@ -68,7 +66,7 @@ No campo *Preço de venda*  deve ser informado o valor de venda do produto. O va
 
 {: #informacoesadicionais}
 
-### Cadastro de Produto- Informações Adicionais
+#### Cadastro de Produto- Informações Adicionais
 
 Nesta aba podem ser informadas delimitações de tamanho, localização, série e garantias do produto.
 
