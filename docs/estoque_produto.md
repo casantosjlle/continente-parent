@@ -66,29 +66,19 @@ No campo *Preço de venda*  deve ser informado o valor de venda do produto. O va
 
 ![](images/estoque_produto_cadastro_venda.jpg)
 
-
-
 {: #informacoesadicionais}
 
-#### Cadastro de Produto- Informações Adicionais
+### Cadastro de Produto- Informações Adicionais
 
 Nesta aba podem ser informadas delimitações de tamanho, localização, série e garantias do produto.
 
-
-
 ![](images/estoque_produto_cadastro_informacoesadicionais.jpg)
-
-
 
 {: #observacoes}
 
 #### Cadastro de Produto- Observações
 
 Neste campo podem ser descritas qualquer outras informações relevantes ao produto. Essas informações são apenas para consulta no cadastro do produto.
-
-
-
-
 
 
 
