@@ -6,7 +6,7 @@
 
 {: #pesquisa}
 
-#### Pesquisa
+#### Pesquisa de Compras
 
 Nesta tela estão disponíveis todas as compras cadastradas, as faturadas e as em aberto.
 
@@ -22,7 +22,7 @@ As opções Reversão, Devolução e o Ticket só ficam disponíveis para as Com
 
 {: #cadastro}
 
-#### Cadastro
+#### Cadastro de Compra
 
 *Fornecedor*:  A busca pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pela nome, também digitando-o apenas parcialmente.
 
@@ -158,7 +158,7 @@ Essas informações são obrigatórias para o faturamento da Compra. Ao informar
 
 {: #reversao}
 
-#### Reversão
+#### Reversão de Compra
 
 Nesta tela  é possível fazer a reversão do lançamento de uma compra. Importante ressaltar que não é o cancelamento da Nota Fiscal, até porque a Nota Fiscal foi emitida pelo fornecedor e cabe ao mesmo o cancelamento se necessário.  Esse processo faz a reversão do lançamento da compra no sistema.
 

@@ -1,12 +1,16 @@
 
 
-{: #pesquisa}
-
-### Revalidação de Preço de Venda
+### Acesso para o menu Revalidação de Preço de Venda
 
 O menu Revalidação de Preço de Venda pode ser acessado através do menu próprio em Estoque, ou através do atalho disponível na pesquisa de Compra.
 
 ![](images/estoque_revalidacao_preco_venda_menu_compra.jpg)
+
+
+
+{: #pesquisa}
+
+#### Pesquisa de Revalidações de Preço de Venda
 
 Na tela de pesquisa estão disponíveis os processos que já foram efetuados, os revertidos e também os que se iniciaram mas ainda não foram efetuados. 
 
@@ -16,7 +20,7 @@ Na tela de pesquisa estão disponíveis os processos que já foram efetuados, os
 
 {: #cadastro}
 
-#### Cadastro
+#### Revalidação de Preço de Venda
 
 Ao criar um novo processo de Revalidação de Preço de Venda a partir de uma compra, o sistema irá trazer automaticamente todos os itens da Compra.
 

@@ -18,7 +18,7 @@ Quando o contribuinte for ISENTO de inscrição estadual, deve-se escrever ISENT
 
 {: #credito}
 
-#### Crédito
+#### Crédito de Fornecedor
 
 Através do botão `Mais` no canto direito inferior da tela é possível acessar o menu Crédito.
 
