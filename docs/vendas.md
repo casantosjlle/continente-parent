@@ -1,0 +1,22 @@
+
+
+{: #vendas}
+
+### Vendas
+
+Neste menu são encontrados todos os acessos necessários para as atividades de Vendas.
+
+- [Cliente](vendas_cliente.md#cadastro)
+
+- [Grupo de Cliente](vendas_grupo_cliente.md#cadastro)
+
+- [Promoção](vendas_promocao.md#promocao)
+
+- [Venda](vendas_venda.md#venda)
+
+- [Devolução de Venda](vendas_devolucao_venda.md#devolucaovenda)
+
+  
+
+[Voltar](index.md)
+
