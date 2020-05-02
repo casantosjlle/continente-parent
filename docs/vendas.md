@@ -8,7 +8,7 @@ Neste menu são encontrados todos os acessos necessários para as atividades de 
 
 - [Cliente](vendas_cliente.md#cadastro)
 
-- [Grupo de Cliente](vendas_grupo_cliente.md#cadastro)
+- [Grupo de Cliente](vendas_grupo_cliente.md#grupocliente)
 
 - [Promoção](vendas_promocao.md#promocao)
 
