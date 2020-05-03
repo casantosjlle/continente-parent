@@ -1,8 +1,8 @@
-### 
+Esta é a pagina inicial da documentação do sistema Continente Nuvem. Aqui você vai encontrar o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. 
 
-Esta é a pagina inicial da documentação do sistema Continente Nuvem. Aqui você vai encontrar o detalhamento de cada tela e processo do sistema,  dicas de utilização e conceitos de negócio. A documentação segue a disposição do menu no sistema.
+A documentação segue a disposição do menu no sistema.
 
-Você pode ter acesso a essa documentação quando estiver acessando o Continente Nuvem. Dentro de cada tela, através da tecla `F1`, há um link direto para a documentação referente.
+Você pode ter acesso a essa documentação quando estiver acessando o Continente Nuvem. Dentro de cada tela, através da tecla `F1`, há um link direto para a documentação referente ao seu acesso.
 
 
 
