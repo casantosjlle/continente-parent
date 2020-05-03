@@ -2,7 +2,7 @@
 
 {: #dicas}
 
-## Dicas    ![](images/dicas.jpg)
+## Dicas    ![](images/lamp.jpg)
 
 Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização do Continente Nuvem. Não esqueça de entrar aqui sempre pois estamos constantemente melhorando a usabilidade do CN.
 
