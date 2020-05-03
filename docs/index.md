@@ -1,10 +1,6 @@
 ## Dicas para utilização:
 
-### [Atalhos](atalhos.md)
-
-### [Usabilidade](usabilidade.md)
-
-
+### [Dicas](dicas.md#dicas)
 
 ## Parâmetros iniciais:
 
