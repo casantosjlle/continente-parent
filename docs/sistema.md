@@ -1,8 +1,8 @@
+[^]: Veja documentação completa em http://docs.continentenuvem.com.br/
 
+{: #sistema}                                                                                                                                                      [![](images/dicas.jpg)](dicas.md#dicas)
 
-{: #sistema}
-
-### Sistema
+### Sistema          
 
 No menu Sistema estão algumas parametrizações que devem ser executadas uma única vez no início da utilização do sistema, ou quando houver alguma alteração.
 
