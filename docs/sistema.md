@@ -1,4 +1,4 @@
-​                                                                                                   [![](images/dicas.jpg)](dicas.md#dicas)
+​                                                                                               [![](images/dicas.jpg)](dicas.md#dicas)
 
 {: #sistema}                                                                                                          
 
