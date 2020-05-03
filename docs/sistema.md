@@ -1,4 +1,4 @@
-​                                                                                                                                                                                      [Dicas](dicas.md#dicas)
+<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" width="100" height="100" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
 
 {: #sistema}                                                                                                          
 
