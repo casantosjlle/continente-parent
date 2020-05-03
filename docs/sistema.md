@@ -1,6 +1,4 @@
-[^]: Veja documentação completa em http://docs.continentenuvem.com.br/
-
-​                                                                                                                 [![](images/dicas.jpg)](dicas.md#dicas)
+​                                                                                                   [![](images/dicas.jpg)](dicas.md#dicas)
 
 {: #sistema}                                                                                                          
 
