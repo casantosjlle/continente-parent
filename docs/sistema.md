@@ -1,4 +1,4 @@
-<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" width="40" height="32" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
+<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" width="44" height="36" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
 
 
 
