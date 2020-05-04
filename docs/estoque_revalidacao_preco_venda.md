@@ -8,6 +8,8 @@ O menu Revalidação de Preço de Venda pode ser acessado através do menu próp
 
 
 
+<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
+
 {: #pesquisa}
 
 #### Pesquisa de Revalidações de Preço de Venda
