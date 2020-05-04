@@ -6,11 +6,11 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 
 
-## Dicas para utilização:
+## Utilização
 
-### [Dicas](dicas.md#dicas)
+### [Dicas de usabilidade](dicas.md#dicas)
 
-## Parâmetros iniciais:
+## Parâmetros iniciais
 
 ### [Sistema](sistema.md)
 
