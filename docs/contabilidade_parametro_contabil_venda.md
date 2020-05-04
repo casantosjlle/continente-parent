@@ -2,7 +2,7 @@
 
 {: #venda}
 
-### Parâmetros Contábeis- Venda**
+### Parâmetros Contábeis- Venda
 
 ![](images/contabilidade_parametro_contabil_venda.jpg)
 
