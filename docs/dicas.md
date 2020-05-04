@@ -2,17 +2,27 @@
 
 {: #dicas}
 
-## Dicas    ![](images/lamp.jpg)
+## Dicas de Usabilidade    ![](images/lamp.jpg)
 
 Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização do Continente Nuvem. Não esqueça de entrar aqui sempre pois estamos constantemente melhorando a usabilidade do CN.
 
 
 
-#### Botão Mais
+#### Barra de pesquisa
 
-Sempre que você ver o botão Mais em uma tela, todas as opções de acesso estarão também disponíveis clicando com o botão inverso do mouse, ou ainda através de atalhos específicos que iniciam sempre com a tecla Ctrl.
+Essa é uma daquelas ferramentas aliadas, principalmente para abrir aquelas telas que não são usadas no dia-a -dia e que não estão no seu menu de favoritos.  
 
-![](images/dicas_botaomais.jpg)
+Ao pesquisas na barra de pesquisa pode-se abrir qualquer tela ou relatório, basta digitar parcialmente o nome e não  é necessário direcionar o cursor dentro da barra, quando estiver no meu principal basta digitar em qualquer lugar da tela que o cursor será automaticamente direcionado para barra.
+
+![](images/dicas_busca.jpg)
+
+
+
+#### Favoritos
+
+Essa é outra funcionalidade mão-na-roda do Continente Nuvem, na lateral esquerda da tela, ao clicar na logo do continente, a barra de Menu lateral é aberta, com todas as opções do de Menu que o usuário tem acesso. Ao clicar na estrela no início do menu, ele entra para o menu de favoritos e o acesso estará disponível na tela principal.
+
+![](images/dicas_favoritos.jpg)
 
 
 
@@ -52,8 +62,6 @@ Ctrl+n- preenche a data do primeiro dia do ano até o último dia do ano
 
  ![](images/dicas_data_pesquisa.jpg)
 
-
-
 #### Pesquisa parcial
 
 Todos os campos de pesquisa funcionam por partes fracionadas das palavras, ou, seja o sistema busca por registros que contenham em qualquer parte o registro pesquisado,
@@ -70,10 +78,28 @@ Se o * for utilizado no final da busca o sistema vai trazer todos os registros q
 
 #### Pesquisa campo de caixa de seleção
 
-Para utilizar filtros que estão no formato de caixa de seleção ou *checkbox*  não é necessário marcar todos, se nenhum estiver marcado o sistema irá buscar todos.
+Para utilizar todos os filtros que estão no formato de caixa de seleção ou *checkbox*  não é necessário marcar todos, se nenhum estiver marcado o sistema irá buscar todos.
 
  ![](images/dicas_pesquisa_checkbox.jpg)
 
 
 
-[Voltar](index.md)
+
+
+[Voltar](
+
+
+
+
+
+#### Botão Mais
+
+Sempre que você ver o botão Mais em uma tela, todas as opções de acesso estarão também disponíveis clicando com o botão inverso do mouse, ou ainda através de atalhos específicos que iniciam sempre com a tecla Ctrl.
+
+![](images/dicas_botaomais.jpg)
+
+
+
+
+
+index.md)
