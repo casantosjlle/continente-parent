@@ -40,25 +40,25 @@ Lembre-se destes atalhos sempre que você ver o campo de data. Não importa se l
 
 Para inserção no sistema:
 
-h- preenche a data de hoje
+`h`- preenche a data de hoje
 
-o- preenche a data de ontem
+`o`- preenche a data de ontem
 
-a- preencher a data de amanhã
+`a`- preencher a data de amanhã
 
 
 
 Para consulta de data, Campo De Até:
 
-Ctrl+h- preenche a data de hoje até hoje
+`Ctrl+h`- preenche a data de hoje até hoje
 
-Ctrl+o- preenche a data de ontem até ontem
+`Ctrl+o`- preenche a data de ontem até ontem
 
-Ctrl+s- preenche a data da segunda-feira até domingo
+`Ctrl+s`- preenche a data da segunda-feira até domingo
 
-Ctrl+m- preenche a data do primeiro dia do mês até o último dia do mês
+`Ctrl+m-` preenche a data do primeiro dia do mês até o último dia do mês
 
-Ctrl+n- preenche a data do primeiro dia do ano até o último dia do ano 
+`Ctrl+n`- preenche a data do primeiro dia do ano até o último dia do ano 
 
  ![](images/dicas_data_pesquisa.jpg)
 
