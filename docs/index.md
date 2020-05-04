@@ -32,7 +32,7 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 ### [Gestão Fiscal](gestao_fiscal.md)
 
-### [Venda](venda.md)
+### [Vendas](vendas.md)
 
 
 
