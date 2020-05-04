@@ -84,14 +84,6 @@ Para utilizar todos os filtros que estão no formato de caixa de seleção ou *c
 
 
 
-
-
-[Voltar](
-
-
-
-
-
 #### Botão Mais
 
 Sempre que você ver o botão Mais em uma tela, todas as opções de acesso estarão também disponíveis clicando com o botão inverso do mouse, ou ainda através de atalhos específicos que iniciam sempre com a tecla Ctrl.
@@ -102,4 +94,5 @@ Sempre que você ver o botão Mais em uma tela, todas as opções de acesso esta
 
 
 
-index.md)
+[Voltar](index.md)
+
