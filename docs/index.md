@@ -20,7 +20,7 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 ### [Administração](administracao.md)
 
-### [Caixa](compras.md)
+### [Caixa](caixa.md)
 
 ### [Compras](compras.md)
 
