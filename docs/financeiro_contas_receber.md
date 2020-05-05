@@ -57,15 +57,25 @@ Uma vez alterado o vencimento, essa nova informação é salva permanentemente.
 
 #### Receber de Crediário
 
-O processo de recebimento no contas a Receber é similar ao faturamento, basta informar a(s) forma(s) de pagamento e faturar. 
+O processo de recebimento no contas a Receber é similar ao faturamento, basta informar a(s) forma(s) de pagamento e faturar.
 
-Ver o detalhamento do faturamento por Forma de Recebimento [Aqui](venda.md#formasrecebimento).
+![](images/financeiro_contas_receber_receber.jpg) 
 
-A opção dinheiro só fica disponível se o usuário estiver com algum Caixa aberto.
+*Dinheiro*: A opção dinheiro só fica disponível se o usuário estiver com algum Caixa aberto.
 
-![](images/financeiro_contas_receber_receber.jpg)
+*Crediário*:  O valor recebido como crediário é considerado um reparcelamento. Quando é feito um recebimento parcial, o valor que continua em aberto deve ser informado como crediário para que seja novamente lançado como uma nova parcela no Contas a Receber.
 
+*Cartão:* O valor faturado como Cartão, seja débito, crédito, ou vales será lançado como transações para [recebimento de cartão](financeiro_administradora_cartao.md#recebimento).
 
+*Cheque*:  O valor faturado como cheque será levado para o [Contas a Receber](financeiro_contas_receber.md#contasreceber).
+
+*Depósito:* O valor faturado como depósito será lançado como uma entrada diretamente na conta bancária informada.
+
+*Crédito:* Somente poderá ser faturado como crédito, se houver crédito disponível para o Cliente. Neste caso o recebimento faz o abatimento do crédito no valor informado no campo *consumido*
+
+Após o faturamento o histórico de abatimentos e saldo de crédito para o cliente pode ser visto diretamente no [menu crédito no cadastro do cliente](vendas_cliente.md#credito).
+
+![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/vendas_venda_faturamento_pagamento_credito.jpg)
 
 
 

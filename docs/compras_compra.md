@@ -8,7 +8,7 @@
 
 {: #pesquisa}
 
-#### Pesquisa de Compras
+#### Pesquisa de Compra
 
 Nesta tela estão disponíveis todas as compras cadastradas, as faturadas e as em aberto.
 
@@ -78,7 +78,7 @@ Na grade já é possível visualizar os impostos, IPI e ICMS-ST que foram calcul
 
 ##### Redefinir Impostos
 
-Os impostos de compra são calculados automaticamente através do [Grupos de Impostos de Compra](estoque_produto.md#grupoimpostoscompra) parametrizado no cadastro do produto.  Para editar-os deve clicar com o botão inverso do mouse em cima da linha na grade.
+Os impostos de compra são calculados automaticamente através do [Grupos de Impostos de Compra](estoque_produto.md#fiscaisimpostos) parametrizado no cadastro do produto.  Para editar-os deve clicar com o botão inverso do mouse em cima da linha na grade.
 
 ![](images/compras_compra_cadastro_produtos_redefinirimpostos.jpg)
 
