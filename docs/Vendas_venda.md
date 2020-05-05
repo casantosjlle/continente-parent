@@ -76,7 +76,11 @@ Ou pode-se alterar diretamente o valor do Imposto, Base, CST calculados, para is
 
 Ao alterar os impostos manualmente o sistema não faz nenhum novo cálculo, por exemplo se for alterado a base de cálculo o sistema não recalcula o valor do imposto. 
 
-#### ![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/compras_compra_cadastro_produtos_redefinirimpostos4.jpg)
+![](images/compras_compra_cadastro_produtos_redefinirimpostos4.jpg)
+
+
+
+{: #redefinirdesconotos}
 
 #### Redefinir Descontos
 
@@ -184,7 +188,7 @@ A Nota Fiscal estará disponível também na tela de Gestão de NF-e, nos docume
 
 
 
-{: #faturamento}
+{: #cancelamento}
 
 #### Cancelamento de Venda
 
@@ -211,3 +215,10 @@ A Nota Fiscal atrelada à venda também fica com status  cancelado, ou Descartad
 E as transações financeiras resultantes da Venda também ficam com status Cancelado.
 
 ![](images/vendas_venda_cancelamento_financeiro.jpg)
+
+
+
+
+
+[Voltar](vendas.md#vendas)
+
