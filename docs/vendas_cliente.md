@@ -22,7 +22,7 @@ Um cliente Pessoa Física é automaticamente um consumidor final.
 
 Outro ponto importante no cadastro do cliente é a aba Fiscal, nesta aba pode ser parametrizado o modelo de documento padrão para faturamento. 
 
-Caso nos [ajustes fiscais](sistema_ajuste_fiscal.md#geral) esteja parametrizado que o modelo de documento padrão para faturamento da empresa é NFC-e, pode ser parametrizado em clientes específicos o modelo NF-e e vise-versa.
+Caso nos [ajustes fiscais](sistema_ajustes_fiscal.md#geral) esteja parametrizado que o modelo de documento padrão para faturamento da empresa é NFC-e, pode ser parametrizado em clientes específicos o modelo NF-e e vise-versa.
 
 ![](images/vendas_cliente_fiscal.jpg)
 
