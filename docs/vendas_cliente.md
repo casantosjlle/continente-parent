@@ -8,9 +8,11 @@
 
 Nesta tela devem ser cadastrados todos os Clientes que a  empresa tem e movimenta.
 
-Deve-se atentar aos campos de endereço e Inscrição estadual pois eles sairão na NF-e e NFC-e, caso preenchimento incorreto os documentos fiscais podem ser Rejeitados pelo SEFAZ.
+O sistema identifica através do CPF\CNPJ se cliente é Pessoa Física ou Jurídica e habilita campos específicos para cada Tipo de Cliente, por exemplo o campo Inscrição Estadual não aparece quando o cliente é pessoa física, ou o campo RG não aparece quando cliente é pessoa jurídica.
 
-Quando o contribuinte for ISENTO de inscrição estadual, deve-se escrever ISENTO no campo específico. Quando o contribuinte não tiver inscrição estadual deixar o campo em branco, não marcar o campo Contribuinte ICMS e marcar o campo Consumidor Final.
+Para ambos os tipos de cliente, no cadastramento deve-se atentar aos campos de endereço e Inscrição estadual pois eles sairão na NF-e e NFC-e, caso preenchimento incorreto os documentos fiscais podem ser Rejeitados pelo SEFAZ.
+
+Para clientes pessoa jurídica, quando o contribuinte for ISENTO de inscrição estadual, deve-se escrever ISENTO no campo específico. Quando o contribuinte não tiver inscrição estadual deixar o campo em branco, não marcar o campo Contribuinte ICMS e marcar o campo Consumidor Final.
 
 Um cliente Pessoa Física é automaticamente um consumidor final.
 
