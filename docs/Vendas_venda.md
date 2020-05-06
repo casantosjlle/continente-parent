@@ -8,7 +8,7 @@
 
 {: #pesquisavenda}
 
-#### Pesquisa de Venda
+#### Pesquisa de Vendas
 
 Nesta tela estão disponíveis todas as vendas cadastradas, as faturadas e as em aberto. O fitro padrão ao abrir a tela mostra somente as em Aberto.
 
