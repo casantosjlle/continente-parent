@@ -36,9 +36,9 @@ Marcar todos os registros é muito mais rápido através do atalho `Ctrl+A`
 
 #### Abas
 
-Através do atalho `F8 `  em todas as telas você passar por todas as abas sem precisar usar o mouse.
+Através do atalho `F8 `  em todas as telas você passar as abas sem precisar usar o mouse.
 
- ![](images/dicas_abas.jpg)
+ ![](images/dicas_abas.gif)
 
 
 
