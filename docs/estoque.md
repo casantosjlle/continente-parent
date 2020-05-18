@@ -14,6 +14,8 @@ Neste menu são encontrados todos os acessos necessários para as atividade de c
 
 Estão disponíveis as opções:
 
+
+
 [Consulta de Estoque Disponível](estoque_cosulta_estoque_disponivel.md)
 
 [Grupo e Subgrupos](estoque_grupo_subgrupo.md)
@@ -33,6 +35,10 @@ Estão disponíveis as opções:
 [Transações de Estoque](estoque_transacoes_estoque.md)
 
 [Volumes](estoque_volumes.md)
+
+
+
+
 
 
 
