@@ -14,7 +14,7 @@ Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização d
 
 Essa é uma daquelas ferramentas aliadas, principalmente para abrir aquelas telas que não são usadas no dia-a -dia e que não estão no seu menu de favoritos.  
 
-Ao pesquisas na barra de pesquisa pode-se abrir qualquer tela ou relatório, basta digitar parcialmente o nome e não  é necessário direcionar o cursor dentro da barra, quando estiver no meu principal basta digitar em qualquer lugar da tela que o cursor será automaticamente direcionado para barra.
+Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, basta digitar parcialmente o nome e não  é necessário direcionar o cursor dentro da barra, quando estiver no meu principal basta digitar em qualquer lugar da tela que o cursor será automaticamente direcionado para barra.
 
 ![](images/dicas_busca.gif)
 

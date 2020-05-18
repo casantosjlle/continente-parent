@@ -1,10 +1,12 @@
+[Início](index.md) / [Financeiro](financeiro.md) /  [Contas à Pagar](financeiro.md#financeirocontaspagar) / Forma de Pagamento
+
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
 
 
 
 {: #cadastro}
 
-### Forma de pagamento
+### Forma de Pagamento
 
 Nesta tela estão disponíveis todas as formas de pagamento disponíveis no sistema. Elas já vem pré-cadastradas com a instalação do sistema.
 
