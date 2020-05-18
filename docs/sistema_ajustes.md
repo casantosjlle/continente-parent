@@ -22,7 +22,7 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_fiscal_nfe.jpg)
+![](images/ajustes_fiscal_nfe.jpg)
 
 
 
@@ -46,7 +46,7 @@ Para o estado no PR está disponível no [Portal RECEITA/PR](https://receita.pr.
 
 
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_fiscal_nfce.jpg)
+![](images/ajustes_fiscal_nfce.jpg)
 
 
 
@@ -64,7 +64,7 @@ Esse texto fiscal deverá ser parametrizado com as [variáveis](texto_fiscal_var
 
 
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_fiscal_geral.jpg)
+![](images/ajustes_fiscal_geral.jpg)
 
 
 
@@ -90,25 +90,23 @@ As dimensões de estoque não são obrigatórias, elas são um facilitador para 
 
 Onde o Nome é a Dimensão utilizada e os Valores são as opções disponíveis.
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_dimensao_estoque.jpg)
+![](images/ajustes_dimensao_estoque.jpg)
 
 Podem ser cadastradas até 3 dimensões de estoque, que após criadas devem ser habilitadas nos produtos que as utilizarão:
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_dimensao_estoque_produto.jpg)
+![](images/ajustes_dimensao_estoque_produto.jpg)
 
 
 
 Uma vez parametrizada a dimensão, essa informação é exigida em todos os processos do sistema:
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_dimensao_estoque_venda.jpg)
+![](images/ajustes_dimensao_estoque_venda.jpg)
 
 
 
 O gerenciamento de estoque é feito de acordo com as dimensões parametrizadas por item:
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_dimensao_consulta_saldo.jpg)
-
-
+![](images/ajustes_dimensao_consulta_saldo.jpg)
 
 
 
@@ -120,13 +118,13 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada.
 
 Quando a opção Entrega a Domicílio está habilitada nos parâmetros
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_venda.jpg)
+![](images/ajustes_venda.jpg)
 
 
 
 No processo de Venda a opção Entrega à Domicílio fica disponível, podendo ser marcado, caso a mercadoria seja entregue pelo próprio estabelecimento até o domicilio do cliente.
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_venda_entrega_domicilio.jpg)
+![](images/ajustes_venda_entrega_domicilio.jpg)
 
 
 
@@ -138,15 +136,15 @@ A Interface do usuário vem por padrão o tema Default. Além desta existe o tem
 
 
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_interface_usuario_default.jpg)
+![](images/ajustes_interface_usuario_default.jpg)
 
 
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_interface_usuario_light.jpg)
+![](images/ajustes_interface_usuario_light.jpg)
 
 
 
-![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/ajustes_interface_usuario_dark.jpg)
+![](images/ajustes_interface_usuario_dark.jpg)
 
 
 

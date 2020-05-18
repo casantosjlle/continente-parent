@@ -1,3 +1,5 @@
+[Início](index.md) / Vendas
+
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
 
 
@@ -8,15 +10,15 @@
 
 Neste menu são encontrados todos os acessos necessários para as atividades de Vendas.
 
-- [Cliente](vendas_cliente.md#cadastro)
+- [Cliente](vendas_cliente.md)
 
-- [Grupo de Cliente](vendas_grupo_cliente.md#grupocliente)
+- [Grupo de Cliente](vendas_grupo_cliente.md)
 
-- [Promoção](vendas_promocao.md#promocao)
+- [Promoção](vendas_promocao.md)
 
-- [Venda](vendas_venda.md#venda)
+- [Venda](vendas_venda.md)
 
-- [Devolução de Venda](vendas_devolucao_venda.md#devolucaovenda)
+- [Devolução de Venda](vendas_devolucao_venda.md)
 
   
 
