@@ -32,12 +32,12 @@ Nesta tela são parametrizadas as contas contábeis utilizadas em todas as trans
 
 A organização desta tela é feita em guias, onde temos:
 
-- [Venda](contabilidade_parametro_contabil_venda.md)
-- [Estoque](contabilidade_parametro_contabil_estoque.md)
-- [Contas à Pagar](contabilidade_parametro_contabil_contas_pagar.md)
-- [Contas a Receber](contabilidade_parametro_contabil_contas_receber.md)
-- [Banco](contabilidade_parametro_contabil_banco.md)
-- [Caixa](contabilidade_parametro_contabil_caixa.md)
+- [Venda](contabilidade_parametro_contabil.md#venda)
+- [Estoque](contabilidade_parametro_contabil|.md#estoque)
+- [Contas à Pagar](contabilidade_parametro_contabil.md#contaspagar)
+- [Contas a Receber](contabilidade_parametro_contabil.md#contasreceber)
+- [Banco](contabilidade_parametro_contabil.md#banco)
+- [Caixa](contabilidade_parametro_contabil.md#caixa)
 
 
 

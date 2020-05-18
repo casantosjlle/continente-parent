@@ -1,6 +1,0 @@
-
-
-
-
-[Voltar](contabilidade.md#parametroscontabeis)
-
