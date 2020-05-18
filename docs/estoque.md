@@ -1,3 +1,5 @@
+[Início](index.md) / Estoque
+
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
 
 
@@ -12,25 +14,25 @@ Neste menu são encontrados todos os acessos necessários para as atividade de c
 
 Estão disponíveis as opções:
 
-[Consulta de Estoque Disponível](estoque_cosulta_estoque_disponivel.md#consultaestoque)
+[Consulta de Estoque Disponível](estoque_cosulta_estoque_disponivel.md)
 
-[Grupo e Subgrupos](estoque_grupo_subgrupo.md#grupoproduto)
+[Grupo e Subgrupos](estoque_grupo_subgrupo.md)
 
-[Liberação de Produto](estoque_liberacao_produto.md#liberacaoproduto)
+[Liberação de Produto](estoque_liberacao_produto.md)
 
-[Marca](estoque_marca.md#marca)
+[Marca](estoque_marca.md)
 
-[Motivo Movimentação Manual](estoque_motivo_movimentacao_manual.md#cadastro)
+[Motivo Movimentação Manual](estoque_motivo_movimentacao_manual.md)
 
-[Movimentação manual de Estoque](estoque_movimentacao_manual.md#movimentacaomanual)
+[Movimentação manual de Estoque](estoque_movimentacao_manual.md)
 
-[Produto]()
+[Produto](estoque_produto.md)
 
-[Revalidação de Preço de Venda]()
+[Revalidação de Preço de Venda](estoque_revalidacao_preco_venda.md)
 
-[Transações de Estoque]()
+[Transações de Estoque](estoque_transacoes_estoque.md)
 
-[Volumes](estoque_volumes.md#volumes)
+[Volumes](estoque_volumes.md)
 
 
 
