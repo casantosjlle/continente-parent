@@ -1,10 +1,12 @@
+[Início](index.md) / [Compras](compras.md) / Compra
+
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
 
 
 
 {: #compra}
 
-### Compra
+### ![](images/compra_32x32.png)Compra
 
 {: #pesquisa}
 
