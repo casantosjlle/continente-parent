@@ -11,7 +11,7 @@
 Neste menu são encontrados todos os acessos necessários para as atividades do Compras.
 
 - [Fornecedor](compras_fornecedor.md)
-- [Tipo de Compra](compras_tipocompra.md)
+- [Tipo de Compra](compras_tipo_compra.md)
 - [Compra](compras_compra.md)
 - [Devolução de Compra](compras_devolucao_compra.md)
 
