@@ -6,7 +6,7 @@
 
 {: #venda}
 
-### Venda
+### ![](images/venda_32x32.png) Venda
 
 {: #pesquisavenda}
 

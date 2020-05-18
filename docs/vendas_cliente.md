@@ -6,7 +6,7 @@
 
 {: #cadastro}
 
-### Cliente
+### ![](images/cliente_32x32.png) Cliente
 
 Nesta tela devem ser cadastrados todos os Clientes que a  empresa tem e movimenta.
 

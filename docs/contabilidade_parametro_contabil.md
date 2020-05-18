@@ -1,4 +1,4 @@
-[Início](index.md) / [Contabilidade](contabilidade.md#) / Parâmetros Contábeis
+[Início](index.md) / [Contabilidade](contabilidade.md) / Parâmetros Contábeis
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
