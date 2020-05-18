@@ -6,7 +6,7 @@
 
 {: #cadastro}
 
-### Fornecedor
+### ![](images/fornecedor_32x32.png) Fornecedor
 
 Nesta tela devem ser cadastrados todos as Fornecedores que a  empresa tem e movimenta.
 

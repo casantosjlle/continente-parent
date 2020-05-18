@@ -6,7 +6,7 @@
 
 {: #compra}
 
-### ![](images/compra_32x32.png)Compra
+### ![](images/compra_32x32.png) Compra
 
 {: #pesquisa}
 
