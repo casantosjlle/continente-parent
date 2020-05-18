@@ -1,6 +1,6 @@
 [Início](index.md) / [Compras](compras.md) / Devolução de Compra
 
-<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
+<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
 
 

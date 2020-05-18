@@ -1,6 +1,6 @@
 [Início](index.md) / Contabilidade
 
-<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
+<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
 
 
@@ -33,7 +33,7 @@ Nesta tela são parametrizadas as contas contábeis utilizadas em todas as trans
 A organização desta tela é feita em guias, onde temos:
 
 - [Venda](contabilidade_parametro_contabil.md#venda)
-- [Estoque](contabilidade_parametro_contabil|.md#estoque)
+- [Estoque](contabilidade_parametro_contabil.md#estoque)
 - [Contas à Pagar](contabilidade_parametro_contabil.md#contaspagar)
 - [Contas a Receber](contabilidade_parametro_contabil.md#contasreceber)
 - [Banco](contabilidade_parametro_contabil.md#banco)
