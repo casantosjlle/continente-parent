@@ -8,7 +8,7 @@
 
 {: #produto}
 
-### Pesquisa de Produtos
+### ![](images/produto_32x32.png) Pesquisa de Produtos
 
 Na tela de pesquisa de produtos vários campos importantes são visíveis na grade. Os Campos que ficam visíveis na grade são personalizáveis, podendo ser ocultados da grade se desmarcados do menu de personalização da tela.
 
