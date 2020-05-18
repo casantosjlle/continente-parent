@@ -1,3 +1,5 @@
+[Início](index.md) /Financeiro
+
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.jpg"></a>
 
 
@@ -14,10 +16,10 @@ Neste menu são encontrados todos os acessos necessários para as atividades do 
 
 Para o Contas à Pagar, estão disponíveis as opções:
 
-- [Cartão Corporativo](financeiro_cartao_corporativo.md#cartaocorporativo) 
-- [Motivo Movimentação Manual de Cartão Corporativo](financeiro_motivo_movimentacao_manual_cartao.md#cadastro)
-- [Forma de Pagamento](financeiro_forma_pagamento.md#cadastro)
-- [Contas à Pagar](financeiro_contas_pagar.md#contaspagar)
+- [Cartão Corporativo](financeiro_cartao_corporativo.md) 
+- [Motivo Movimentação Manual de Cartão Corporativo](financeiro_motivo_movimentacao_manual_cartao.md)
+- [Forma de Pagamento](financeiro_forma_pagamento.md)
+- [Contas à Pagar](financeiro_contas_pagar.md)
 
 
 
@@ -25,9 +27,9 @@ Para o Contas à Pagar, estão disponíveis as opções:
 
 Para o Contas à Receber, estão disponíveis as opções:
 
-- [Administradora de Cartão](financeiro_administradora_cartao.md##administradoradecartao)
-- [Contas à Receber](financeiro_contas_receber.md#contasreceber)
-- [Forma de Recebimento](financeiro_forma_recebimento.md#cadastro)
+- [Administradora de Cartão](financeiro_administradora_cartao.md)
+- [Contas à Receber](financeiro_contas_receber.md)
+- [Forma de Recebimento](financeiro_forma_recebimento.md)
 
 
 
@@ -35,8 +37,8 @@ Para o Contas à Receber, estão disponíveis as opções:
 
 Para o Gerenciamento de Contas Bancárias, estão disponíveis as opções:
 
-- [Conta Bancária](financeiro_conta_bancaria.md#contabancaria)
-- [Motivo Movimentação Manual de Banco](financeiro_motivo_movimentacao_manual_banco.md#cadastro)
+- [Conta Bancária](financeiro_conta_bancaria.md)
+- [Motivo Movimentação Manual de Banco](financeiro_motivo_movimentacao_manual_banco.md)
 
 
 
