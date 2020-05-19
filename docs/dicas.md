@@ -4,7 +4,9 @@
 
 {: #dicas}
 
-## ![](images/dicas.png) Dicas de Usabilidade 
+![](images/dicas.png) 
+
+## Dicas de Usabilidade 
 
 Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização do Continente Nuvem. Não esqueça de entrar aqui sempre pois estamos constantemente melhorando a usabilidade do CN.
 
