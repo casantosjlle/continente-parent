@@ -14,7 +14,7 @@ Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como cr
 
 ​             Revertido: Parcelas que foram recebidas e depois o recebimento foi revertido. Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original.
 
-Os valores de juros e multa são calculados pelo sistema através das alíquotas parametrizadas nos [ajustes de Contas à Receber](sistema_ajustes_contas_receber.md#contasreceber), mas podem ser editados manualmente  ao clicar nos próprios campos em cada parcela. O valor de desconto também pode ser alterado manualmente em cada parcela ou através do menu [Desconto Total](financeiro_contas_receber.md#descontototal).
+Os valores de juros e multa são calculados pelo sistema através das alíquotas informadas na [Parametrização do Contas à Receber](sistema_parametrizacao.md#contasreceber), mas podem ser editados manualmente  ao clicar nos próprios campos em cada parcela. O valor de desconto também pode ser alterado manualmente em cada parcela ou através do menu [Desconto Total](financeiro_contas_receber.md#descontototal).
 
 Se editados, os valores de juros, multa e desconto são salvos temporariamente, apenas para que seja feito o recebimento, assim que a tela de Contas a Receber for fechado e reaberto, nas parcelas em aberto o valor do juros e multa são novamente calculados  e o desconto é zerado.
 

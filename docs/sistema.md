@@ -22,17 +22,25 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 
 
 
-{: #ajustes}
+{: #parametrizacao}
 
-#### Ajustes
+#### Parametrização
 
-- [Fiscal](sistema_ajustes.md#fiscal)
-- [Contas a Receber](sistema_ajustes.md#contasreceber)
-- [Dimensão de Estoque](sistema_ajustes.md#dimensaoestoque)
-- [Venda](sistema_ajustes.md#venda)
-- [Interface Usuário](sistema_ajustes.md#interfaceusuario)
+- [Fiscal](sistema_parametrizacao.md#fiscal)
+- [Contas a Receber](sistema_parametrizacao.md#contasreceber)
+- [Dimensão de Estoque](sistema_parametrizacao.md#dimensaoestoque)
+- [Venda](sistema_parametrizacao.md#venda)
+- [Interface Usuário](sistema_parametrizacao.md#interfaceusuario)
 
 
+
+{: #ajuda}
+
+#### Ajuda
+
+Este menu abrirá a página oficial de documentação do CN: http://docs.continentenuvem.com.br/. 
+
+Mas lembre-se que a documentação pode ser acessada a partir de qualquer tela do sistema através do atalho `F1`
 
 
 

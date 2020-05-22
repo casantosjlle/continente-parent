@@ -44,7 +44,7 @@ O Grupo de imposto dos Impostos de Vendas são utilizados para o cálculo dos im
 
 #### Cadastro de Produto- Estoque
 
-Nesta aba podem ser parametrizadas as dimensões de estoque que o produto irá utilizar. Todas as dimensões criadas no [cadastro de dimensão de estoque](sistema_ajustes_dimensao_estoque.md#dimensaoestoque) ficam disponíveis no cadastro do produto, mas somente as que forem marcadas na aba estoque serão utilizadas pelo produto.
+Nesta aba podem ser parametrizadas as dimensões de estoque que o produto irá utilizar. Todas as dimensões criadas no [cadastro de dimensão de estoque](sistema_parametrizacao.md#dimensaoestoque) ficam disponíveis no cadastro do produto, mas somente as que forem marcadas na aba estoque serão utilizadas pelo produto.
 
 Os parâmetros de *Estoque Máximo* e *Estoque Mínimo* são para o gerenciamento do estoque.  A unidade de Medida é a que controle o estoque e também que é informada nos documentos fiscais emitidos.
 

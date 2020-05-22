@@ -12,13 +12,13 @@
 
 #### Pesquisa de Vendas
 
-Nesta tela estão disponíveis todas as vendas cadastradas, as faturadas e as em aberto. O fitro padrão ao abrir a tela mostra somente as em Aberto.
+Nesta tela estão disponíveis todas as vendas cadastradas, as faturadas e as em aberto. O filtro padrão ao abrir a tela mostra somente as em Aberto.
 
 Através do botão mais pode-se acessar os menus relacionados com a venda.
 
-A opção Fatur só fica disponível para as Compras com status Aberto.
+A opção Faturamento só fica disponível para as Compras com status Aberto.
 
-As opções Devolver e Cancelar ficam disponíveis para as Vendasus Faturadas 
+As opções Devolver e Cancelar ficam disponíveis para as Vendas Faturadas 
 
 ![](images/vendas_venda_pesquisa_aberto.jpg)
 
@@ -102,7 +102,7 @@ Na aba Frete devem ser inseridos os valores de Frete e Seguro que compõe o valo
 
 ![](images/vendas_venda_cadastro_frete.jpg)
 
-Na parte de baixo da tela da Venda está sumarizado os totais da Venda e também os detalhes da Venda. O Documento Fiscal é carregado automaticamente conforme parametrizado nos [ajustes fiscais](sistema_ajustes_fiscal.md#geral) ou no cadastro do [cliente](vendas_cliente.md#fiscal), mas pode ser alterado manualmente, exceto quando não houver cliente que sempre será NFCE.
+Na parte de baixo da tela da Venda está sumarizado os totais da Venda e também os detalhes da Venda. O Documento Fiscal é carregado automaticamente conforme informado na [Parametrização Fiscal](sistema_parametrizacao.md#geral) ou no cadastro do [cliente](vendas_cliente.md#fiscal), mas pode ser alterado manualmente, exceto quando não houver cliente que sempre será NFCE.
 
 ![](images/vendas_venda_cadastro_totais.jpg)
 
@@ -174,7 +174,7 @@ Nesta aba podem ser adicionados os textos que serão impressos no rodapé do DAN
 
 *Informações Adicionais*: São informações complementares de interesse do contribuinte. Será impresso no rodapé do DANFE e na tag <infCpl> do XML. Como por exemplo número de Lote, prazo de devolução, etc... 
 
-*Informações Fiscais*: São informações complementares de interesse do Fisco. Será impresso no rodapé do DANFE e na tag <infAdFisco> do XML. Como por exemplo informações de redução de base, empresa optante pelo Simples Nacional, etc. Para NFE esse campo pode ser automaticamente preenchido através do texto parametrizado como padrão nos [ajustes_fiscal](sistema_ajustes_fiscal.md#nfe).
+*Informações Fiscais*: São informações complementares de interesse do Fisco. Será impresso no rodapé do DANFE e na tag <infAdFisco> do XML. Como por exemplo informações de redução de base, empresa optante pelo Simples Nacional, etc. Para NFE esse campo pode ser automaticamente preenchido através do texto parametrizado como padrão na [Parametrização Fiscal](sistema_parametrizacao.md#nfe).
 
 ![](images/vendas_venda_faturamento_informacoesadicionais.jpg)
 
@@ -196,9 +196,9 @@ A Nota Fiscal estará disponível também na tela de Gestão de NF-e, nos docume
 
 Para as vendas com status  Faturado, ao acessar o menu Mais a opção Cancelamento estará disponível.
 
-O período para cancelamento  é parametrizável nos [ajustes fiscais](sistema_ajustes_fiscal.md#nfe) e deve seguir o determinado pelo SEFAZ de cada estado.
+O período para cancelamento  é parametrizável na [Parametrização Fiscal](sistema_parametrizacao.md#nfe) e deve seguir o determinado pelo SEFAZ de cada estado.
 
-Caso a data/hora de faturamento da Venda ultrapasse o período de cancelamento paramertrizado não será possível prosseguir com o cancelamento da Venda.
+Caso a data/hora de faturamento da Venda ultrapasse o período de cancelamento parametrizado não será possível prosseguir com o cancelamento da Venda.
 
 ![](images/vendas_venda_cancelamento_fora_periodo.jpg)
 
