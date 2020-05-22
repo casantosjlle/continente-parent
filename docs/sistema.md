@@ -38,7 +38,7 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 
 #### Ajuda
 
-Este menu abrirá a página oficial de documentação do CN: http://docs.continentenuvem.com.br/. 
+Este menu abrirá a página oficial de documentação do CN: [http://docs.continentenuvem.com.br/](http://docs.continentenuvem.com.br/). 
 
 Mas lembre-se que a documentação pode ser acessada a partir de qualquer tela do sistema através do atalho `F1`
 
