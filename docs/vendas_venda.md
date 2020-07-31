@@ -116,7 +116,7 @@ Ao clicar no botão Gravar a Venda poderá ser faturada no mesmo momento ou ent�
 
 O faturamento de venda só estará disponível se houver um caixa aberto para o usuário. 
 
-Nesta tela é feito o faturamento da Venda, as informações estão dispostas em 4 abas. Para NFC-e somente a aba pagamento fisca disponível.
+Quando for o faturamento de NF-e as informações ficam dispostas em 4 abas quando NFC-e somente a aba pagamento fica disponível.
 
 ![](images/vendas_venda_faturamento.jpg)
 
@@ -150,7 +150,13 @@ Após o faturamento o histórico de abatimentos e saldo de crédito para o clien
 
 ##### Faturamento- aba Produtos
 
-Esta  também é uma aba apenas informativa, onde poderá ser feita a conferência dos produtos que estão sendo devolvidos.
+Nesta aba poderá ser feita a conferência dos produtos e dimensões que estão sendo faturadas. 
+
+###### Informações Adicionais do Item
+
+Clicando com o botão inverso do mouse em cima da linha, é possível acessar a tela de informações Adicionais do Item. Essas informações são impressas como segunda linha do DANFE, abaixo da descrição do produto.
+
+As informações são cadastradas no cadastro do [produto](estoque_produto.md #informacoesadicionais}) mas também podem ser inclusas e alteradas diretamente nesta opção no faturamento.
 
 ![](images/vendas_venda_faturamento_produtos.jpg)
 
@@ -194,15 +200,15 @@ A Nota Fiscal estará disponível também na tela de Gestão de NF-e, nos docume
 
 #### Cancelamento de Venda
 
-Para as vendas com status  Faturado, ao acessar o menu Mais a opção Cancelamento estará disponível.
+Para as vendas com status  Faturado, ao acessar o menu `Mais` a opção Cancelamento estará disponível.
 
-O período para cancelamento  é parametrizável na [Parametrização Fiscal](sistema_parametrizacao.md#nfe) e deve seguir o determinado pelo SEFAZ de cada estado.
+O período para cancelamento de venda é variável de acordo com o tipo, se for uma NF-e ou NFC-e e status do documento Fiscal emitido, se estiver aprovado ou rejeitado. Para cada uma dessas situações existe um campo específico para parametrização do período permitido para cancelamento na tela de [Parametrização Fiscal](sistema_parametrizacao.md#nfe).
 
-Caso a data/hora de faturamento da Venda ultrapasse o período de cancelamento parametrizado não será possível prosseguir com o cancelamento da Venda.
+Quando o período decorrente entre o faturamento até cancelamento da venda ultrapassar o período de cancelamento parametrizado não será possível prosseguir com o cancelamento da Venda.
 
 ![](images/vendas_venda_cancelamento_fora_periodo.jpg)
 
-O processo de Cancelamento da Venda, fará também o Cancelamento da Nota Fiscal atrelada ou o Descarte (Inutilização) da Numeração caso a Nota Fiscal esteja Rejeitada, por isso o motivo do cancelamento deve ser informado manualmente e deve ter entre 15 e 255 caracteres.
+Caso contrário, o campo Motivo ficará habilitado para que seja descrito o motivo do cancelamento da Venda. A  descrição do motivo é obrigatória e deve ter entre 15 e 255 caracteres, que é o limite estabelecido pelo layout da NF-e para o envio do cancelamento para o SEFAZ. O processo de Cancelamento da Venda faz Cancelamento ou o Descarte (Inutilização) da  Nota Fiscal atrelada a Venda. Caso a Nota Fiscal esteja Rejeitada  executa o Descarte (Inutilização) da numeração e caso esteja aprovada processa o cancelamento da NF-e.
 
 ![](images/vendas_venda_cancelamento_motivo.jpg)
 

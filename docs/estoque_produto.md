@@ -76,6 +76,8 @@ No campo *Preço de venda*  deve ser informado o valor de venda do produto. O va
 
 Nesta aba podem ser informadas delimitações de tamanho, localização, série e garantias do produto.
 
+E também as Informações adicionais que serão levadas para a segunda linha do DANFE, abaixo da descrição do produto.
+
 ![](images/estoque_produto_cadastro_informacoesadicionais.jpg)
 
 {: #observacoes}
