@@ -214,7 +214,7 @@ Antes de prosseguir com o cancelamento da venda, deve-se observar qual o modelo 
 
 ###### Tipo de emissão: Normal ou em Contingência
 
-![](images/vendas_venda_cancelamento_nfce_fluxo.png)
+![](images/vendas_venda_cancelamento_NFCE_fluxo.png)
 
 
 
