@@ -186,9 +186,9 @@ Nesta aba podem ser adicionados os textos que serão impressos no rodapé do DAN
 
 
 
-Ao clicar em Faturar uma janela de comunicação com o SEFAZ é aberta, onde pode ser acompanhado o status da NF-e\NFC-e e se aprovado o DANFE pode ser impresso:
+Ao clicar em Faturar uma janela de sincronização com o SEFAZ é aberta, onde pode ser acompanhado o status da NF-e\NFC-e e se aprovado o DANFE pode ser impresso:
 
-![](images/vendas_venda_faturamento_comunicacao_sefaz.jpg)
+![](images/vendas_venda_faturamento_sincronizacao_sefaz.jpg)
 
 A Nota Fiscal estará disponível também na tela de Gestão de NF-e, nos documentos Tipo: Saída
 
