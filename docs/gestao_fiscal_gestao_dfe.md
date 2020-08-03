@@ -60,6 +60,8 @@ Quando a reemissão da NF-e for executada em ambiente diferente da emissão,  a 
 
 *Exemplo*: NF-e 000123 foi emitida  e enviada ao SEFAZ-PR , porém foi rejeitada pois a SEFAZ-PR entrou em contingência. Após a ativação da Contingência a NF-e será reemitida com a numeração 000124 e enviada ao SEFAZ SVC-RS e numeração atual 000123 será inutilizada (descartada) automaticamente pelo sistema no SEFAZ-PR quando a contingência for desativada.
 
+![](images/xml_fluxo_reemitir_NFE.png)
+
 
 
 ###### NFC-e
