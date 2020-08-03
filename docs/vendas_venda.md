@@ -202,6 +202,26 @@ A Nota Fiscal estará disponível também na tela de Gestão de NF-e, nos docume
 
 Para as vendas com status  Faturado, ao acessar o menu `Mais` a opção Cancelamento estará disponível.
 
+Antes de prosseguir com o cancelamento da venda, deve-se observar qual o modelo de documento fiscal amarrado à venda, tipo de emissão e o período de cancelamento.
+
+##### Cancelamento de NF-e
+
+###### Tipo de emissão: Normal ou em Contingência
+
+![](images/vendas_venda_cancelamento_fluxo.png)
+
+##### Cancelamento de NFC-e
+
+###### Tipo de emissão: Normal ou em Contingência
+
+![](images/vendas_venda_cancelamento_nfce_fluxo.png)
+
+
+
+#####  Período Cancelamento
+
+Observadas as regras relacionadas ao Tipo de emissão, deve-se atentar ao período permitido para o cancelamento. 
+
 O período para cancelamento de venda é variável de acordo com o tipo, se for uma NF-e ou NFC-e e status do documento Fiscal emitido, se estiver aprovado ou rejeitado. Para cada uma dessas situações existe um campo específico para parametrização do período permitido para cancelamento na tela de [Parametrização Fiscal](sistema_parametrizacao.md#nfe).
 
 Quando o período decorrente entre o faturamento até cancelamento da venda ultrapassar o período de cancelamento parametrizado não será possível prosseguir com o cancelamento da Venda.
