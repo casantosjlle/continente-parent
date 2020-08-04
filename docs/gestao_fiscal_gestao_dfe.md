@@ -92,7 +92,7 @@ Como a contingência Off-line não realiza comunicação com o SEFAZ, ou seja, t
 
 
 
-​                                                                                                                                                                                      [Voltar ao Início da Página](gestao_fiscal_gestão_dfe)
+​                                                                                                                                         [Voltar ao Início da Página](gestao_fiscal_gestao_dfe)
 
 
 
