@@ -14,13 +14,21 @@
 
 Nesta tela estão disponíveis todas as vendas cadastradas, as faturadas e as em aberto. O filtro padrão ao abrir a tela mostra somente as em Aberto.
 
+![](images/vendas_venda_pesquisa_aberto.jpg)
+
+
+
+#### Processos
+
+Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados a Venda e também a impressão dos Tickets e relatórios.
+
 Através do botão mais pode-se acessar os menus relacionados com a venda.
 
 A opção Faturamento só fica disponível para as Compras com status Aberto.
 
 As opções Devolver e Cancelar ficam disponíveis para as Vendas Faturadas 
 
-![](images/vendas_venda_pesquisa_aberto.jpg)
+
 
 {: #cadastro}
 
@@ -248,5 +256,5 @@ E as transações financeiras resultantes da Venda também ficam com status Canc
 
 
 
-[Voltar](vendas.md#vendas)
+[Voltar à página anterior](vendas.md)                                                                                                                                       [Voltar ao início da página](vendas_venda.md)
 

@@ -12,8 +12,6 @@
 
 Nesta tela consta a relação de todos os documentos fiscais emitidos e recebidos pela empresa.
 
-Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os outros processos relacionados ao documento fiscal e também a impressão dos DANFES e relatórios.
-
 ###### Status
 
 - Aprovado - Documento fiscal eletrônico emitido pela empresa e aprovado pela SEFAZ. *Uma exceção para os documentos tipo NFC-e emitidos em contingência Off-line que tem o Status Aprovado antes de serem enviados ao SEFAZ*
@@ -30,15 +28,29 @@ Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os ou
 
 
 
+#### Processos
+
+Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao documento fiscal e também a impressão dos DANFES e relatórios.
+
+O menu [Reemissão](gestao_fiscal_gestao_dfe.md#reemissao) é habilitado somente se selecionado um documento fiscal com status Rejeitado. 
+
+O menu [Carta de Correção](gestao_fiscal_gestao_dfe.md#cartacorrecao) é habilitado somente se selecionado um documento fiscal modelo 55 (NF-e) com status Rejeitado. 
+
+O menu [Cancelamento](gestao_fiscal_gestao_dfe.md#cancelamento) é habilitado somente se selecionado um documento fiscal com status Aprovado
+
+As opções [Histórico](gestao_fiscal_gestao_dfe.md#historico), [Contingência](gestao_fiscal_gestao_dfe.md#contingencia) e [Exportar](exportar) ficam sempre habilitados.
+
+![](images/gestao_fiscal_gestao_dfe_pesquisa.jpg)
+
+
+
 {: #reemissao}
 
 #### Reemissão
 
-O menu para acesso ao processo de Reemissão de documentos fiscais é habilitado somente para os documentos fiscais com status= Rejeitado. 
-
-![](images/gestao_fiscal_gestao_dfe_reemissao.jpg)
-
 O processo de reemissão pode ser utilizado para todas as NF-e ou NFC-e emitidas pela empresa, através dos processos de Vendas, Devolução de Vendas ou Devolução de Compras.
+
+
 
 
 
@@ -80,6 +92,10 @@ Como a contingência Off-line não realiza comunicação com o SEFAZ, ou seja, t
 
 
 
+​                                                                                                                                                                                      [Voltar ao Início da Página](gestao_fiscal_gestão_dfe)
+
+
+
 {: #historico}
 
 #### Histórico
@@ -96,7 +112,19 @@ Ao lado esquerdo estão disponíveis o histórico de eventos e ao lado direito o
 
 #### Carta de Correção
 
-Para as NF-e com status aprovado no meu `Mais`
+Para as NF-e com status aprovado, que estejam no limite de 720 horas após a emissão, no meu `Mais` da tela de  Gestão de Documentos fiscais está disponível a opção Carta de Correção.
+
+Na tela inicial estão disponíveis as cartas de correção já enviadas. É possível enviar até 20 eventos de carta de correção por NF-e, mas lembramos que **o registro de uma nova Carta de Correção substitui a Carta de Correção anterior, assim a nova Carta de Correção deve conter todas as correções a serem consideradas.** 
+
+ Através do botão `Mais` ou o botão inverso do mouse é possível verificar o DANFE da CC-e. Não existe um padrão de documento auxiliar para a Carta de Correção eletrônica definido pelo governo. O Continente Nuvem disponibiliza a impressão deste documento não fiscal para facilitar a consulta do evento enviado eletronicamente ao SEFAZ.
+
+![](images/gestao_fiscal_gestao_dfe_cartacorrecao.jpg)
+
+Para incluir uma nova Carta de correção basta clicar em `Novo` descrever a correção e clicar em `Gravar` que o evento será enviada a SEFAZ.
+
+A tela faz a validação de quantidade mínima e máxima de caracteres permitidos, de 15 a 1000 e o sistema trata dos caracteres especiais ao enviar o evento, então o texto pode ser escrito normalmente.
+
+![](images/gestao_fiscal_gestao_dfe_cartacorrecao_novo.jpg)
 
 
 
