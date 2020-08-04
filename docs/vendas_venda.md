@@ -38,7 +38,7 @@ O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selec
 
 ### Cadastro de Venda
 
-Ao abrir uma nova venda a primeira informação é o Cliente, o botão vem habilitado para busca de um *Cliente Cadastrado* onde a pesquisa pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pela nome, também digitando-o apenas parcialmente. 
+Ao abrir uma nova venda a primeira informação é o Cliente, o botão vem habilitado para busca de um *Cliente Cadastrado* onde a pesquisa pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pelo nome, também digitando-o apenas parcialmente. 
 
 ![](images/vendas_venda_cadastro_cliente_cadastrado.jpg)
 
