@@ -6,21 +6,21 @@
 
 {: #venda}
 
-### ![](images/venda_32x32.png) Venda
+## ![](images/venda_32x32.png) Venda
 
 {: #pesquisavenda}
 
-#### Pesquisa de Vendas
+### Pesquisa de Vendas
 
-Nesta tela estão disponíveis todas as vendas cadastradas, as faturadas e as em aberto. O filtro padrão ao abrir a tela mostra somente as em Aberto.
+Nesta tela estão disponíveis todas as vendas cadastradas, faturadas e as em aberto. O filtro padrão ao abrir a tela mostra somente as em Aberto.
 
-###### Status
+#### Status
 
 - Aberto- Vendas já iniciadas mas não faturadas. Permitem edição.
 - Faturado - Vendas já faturadas. Não permitem edição.
 - Cancelado - Vendas já faturadas e canceladas. Não permitem edição.
 
-#### Processos
+### Processos
 
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados a Venda e também a impressão dos Tickets e relatórios.
 
@@ -36,7 +36,7 @@ O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selec
 
 {: #cadastro}
 
-#### Cadastro de Venda
+### Cadastro de Venda
 
 Ao abrir uma nova venda a primeira informação é o Cliente, o botão vem habilitado para busca de um *Cliente Cadastrado* onde a pesquisa pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pela nome, também digitando-o apenas parcialmente. 
 
@@ -124,7 +124,7 @@ Ao clicar no botão Gravar a Venda poderá ser faturada no mesmo momento ou ent�
 
 {: #faturamento}
 
-#### Faturamento de Venda
+### Faturamento de Venda
 
 O faturamento de venda só estará disponível se houver um caixa aberto para o usuário. 
 
@@ -136,7 +136,7 @@ Quando for o faturamento de NF-e as informações ficam dispostas em 4 abas quan
 
 {: #pagamento}
 
-##### Faturamento- aba Pagamento
+#### Faturamento- aba Pagamento
 
 ![](images/vendas_venda_faturamento_pagamento.jpg)
 
@@ -160,11 +160,11 @@ Após o faturamento o histórico de abatimentos e saldo de crédito para o clien
 
 {: #produtos}
 
-##### Faturamento- aba Produtos
+#### Faturamento- aba Produtos
 
 Nesta aba poderá ser feita a conferência dos produtos e dimensões que estão sendo faturadas. 
 
-###### Informações Adicionais do Item
+##### Informações Adicionais do Item
 
 Clicando com o botão inverso do mouse em cima da linha, é possível acessar a tela de informações Adicionais do Item. Essas informações são impressas como segunda linha do DANFE, abaixo da descrição do produto.
 
@@ -176,7 +176,7 @@ As informações são cadastradas no cadastro do [produto](estoque_produto.md #i
 
 {: #transporte}
 
-##### Faturamento- aba Transporte
+#### Faturamento- aba Transporte
 
 Caso houver frete destacado na Venda nesta aba devem ser inseridas as informações relacionadas ao Volume da Mercadoria.
 
@@ -186,7 +186,7 @@ Caso houver frete destacado na Venda nesta aba devem ser inseridas as informaç�
 
 {: #informacoesadicionais}
 
-##### Faturamento- aba Informações Adicionais
+#### Faturamento- aba Informações Adicionais
 
 Nesta aba podem ser adicionados os textos que serão impressos no rodapé do DANFE.
 
@@ -210,27 +210,27 @@ A Nota Fiscal estará disponível também na tela de Gestão de NF-e, nos docume
 
 {: #cancelamento}
 
-#### Cancelamento de Venda
+### Cancelamento de Venda
 
 Para as vendas com status  Faturado, ao acessar o menu `Mais` a opção Cancelamento estará disponível.
 
 Antes de prosseguir com o cancelamento da venda, deve-se observar qual o modelo de documento fiscal amarrado à venda, tipo de emissão e o período de cancelamento.
 
-##### Cancelamento de NF-e
+#### Cancelamento de NF-e
 
-###### Tipo de emissão: Normal ou em Contingência
+#### Tipo de emissão: Normal ou em Contingência
 
 ![](images/vendas_venda_cancelamento_fluxo.png)
 
-##### Cancelamento de NFC-e
+#### Cancelamento de NFC-e
 
-###### Tipo de emissão: Normal ou em Contingência
+##### Tipo de emissão: Normal ou em Contingência
 
 ![](images/vendas_venda_cancelamento_NFCE_fluxo.png)
 
 
 
-#####  Período Cancelamento
+#### Período Cancelamento
 
 Observadas as regras relacionadas ao Tipo de emissão, deve-se atentar ao período permitido para o cancelamento. 
 
