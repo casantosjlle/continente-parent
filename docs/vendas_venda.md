@@ -30,8 +30,6 @@ O menu [Cancelar](vendas_venda.md#cancelamento) é habilitado somente se selecio
 
 O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selecionado uma Venda com status Aberto.
 
-A opção [Histórico](vendas_venda.md#historico) fica sempre habilitado.
-
 ![](images/vendas_venda_pesquisa.jpg)
 
 

@@ -4,15 +4,15 @@
 
 
 
-### ![](images/nfe_32x32.png) Gestão de Documentos Fiscais
+## ![](images/nfe_32x32.png) Gestão de Documentos Fiscais
 
 {: #pesquisadocumentosfiscais}
 
-#### Pesquisa de Documentos Fiscais
+### Pesquisa de Documentos Fiscais
 
 Nesta tela consta a relação de todos os documentos fiscais emitidos e recebidos pela empresa.
 
-###### Status
+#### Status
 
 - Aprovado - Documento fiscal eletrônico emitido pela empresa e aprovado pela SEFAZ. *Uma exceção para os documentos tipo NFC-e emitidos em contingência Off-line que tem o Status Aprovado antes de serem enviados ao SEFAZ*
 - Rejeitado - Documento fiscal eletrônico emitido pela empresa e rejeitado pela SEFAZ. Esses documentos devem ser corrigidos e reemitidos ou a venda de origem Cancelada.
@@ -21,14 +21,14 @@ Nesta tela consta a relação de todos os documentos fiscais emitidos e recebido
 - Lançado - Documento fiscal emitido por terceiros e lançado no sistema pelo processo de Compra ou Devolução de Venda. 
 - Revertido - Documento fiscal emitido por terceiros e lançado no sistema através do processo de compra e que teve o processo de compra revertido.
 
-###### Status intermediário
+#### Status intermediário
 
 - Aguardando descarte- Quando o processo de cancelamento da Venda ou reemissão foi efetuado, faltando apenas a conclusão da comunicação com a SEFAZ. Neste caso deve-se aguardar que o sistema concluirá o processo automaticamente, quando o ambiente estiver normal.
 - Aguardando cancelamento - Quando o processo de cancelamento da Venda já foi efetuado, faltando apenas a conclusão da comunicação com a SEFAZ. Neste caso deve-se aguardar que o sistema concluirá o processo automaticamente.
 
 
 
-#### Processos
+### Processos
 
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao documento fiscal e também a impressão dos DANFES e relatórios.
 
@@ -38,7 +38,7 @@ O menu [Carta de Correção](gestao_fiscal_gestao_dfe.md#cartacorrecao) é habil
 
 O menu [Cancelamento](vendas_venda.md#cancelamento) é habilitado somente se selecionado um documento fiscal com status Aprovado
 
-As opções [Histórico](gestao_fiscal_gestao_dfe.md#historico), [Contingência](gestao_fiscal_gestao_dfe.md#contingencia) e [Exportar](exportar) ficam sempre habilitados.
+As opções [Histórico](gestao_fiscal_gestao_dfe.md#historico), [Contingência](gestao_fiscal_gestao_dfe.md#contingencia) e [Exportar](gestao_fiscal_gestao_dfe.md#exportar) ficam sempre habilitados.
 
 ![](images/gestao_fiscal_gestao_dfe_pesquisa.jpg)
 
@@ -46,11 +46,11 @@ As opções [Histórico](gestao_fiscal_gestao_dfe.md#historico), [Contingência]
 
 {: #reemissao}
 
-#### Reemissão
+### Reemissão
 
 O processo de reemissão pode ser utilizado para todas as NF-e ou NFC-e emitidas pela empresa, através dos processos de Vendas, Devolução de Vendas ou Devolução de Compras.
 
-##### Quando usar?
+#### Quando usar?
 
 O processo de reemissão deve ser utilizado somente quando a rejeição retornada pela SEFAZ for referente há:
 
@@ -68,9 +68,9 @@ Se a rejeição for referente há alguma inconsistencia na Venda, como impostos,
 
 
 
-##### Como usar?
+#### Como usar?
 
-###### NF-e
+##### NF-e
 
 Quando a reemissão da NF-e for executada no mesmo ambiente de emissão, a numeração da NF-e será mantida e o XML será reenviado para o SEFAZ, sendo alterado apenas as informações que foram corrigidas nos cadastros.
 
@@ -82,7 +82,7 @@ Quando a reemissão da NF-e for executada em ambiente diferente da emissão,  a 
 
 
 
-###### NFC-e
+##### NFC-e
 
 Como a contingência Off-line não realiza comunicação com o SEFAZ, ou seja, todos os dados são enviados para o mesmo ambiente, não existe a necessidade de troca de numeração em nenhum processo.
 
@@ -90,7 +90,7 @@ Como a contingência Off-line não realiza comunicação com o SEFAZ, ou seja, t
 
 {: #historico}
 
-#### Histórico
+### Histórico
 
 Nesta tela estão dispostos em um fluxo cronológico todas as interações com o SEFAZ. 
 
@@ -102,7 +102,7 @@ Ao lado esquerdo estão disponíveis o histórico de eventos e ao lado direito o
 
 {: #cartacorrecao}
 
-#### Carta de Correção
+### Carta de Correção
 
 Para as NF-e com status aprovado, que estejam no limite de 720 horas após a emissão, no meu `Mais` da tela de  Gestão de Documentos fiscais está disponível a opção Carta de Correção.
 
@@ -120,7 +120,7 @@ A tela faz a validação de quantidade mínima e máxima de caracteres permitido
 
 
 
-#### Cancelamento
+### Cancelamento
 
 O cancelamento da Venda pode ser executado através da tela de Vendas ou através da tela de Gestão de Documentos Fiscais. O  processo está detalhado na documentação dos processos de [venda](vendas_venda.md#cancelamento).
 
@@ -128,13 +128,13 @@ O cancelamento da Venda pode ser executado através da tela de Vendas ou atravé
 
 {: #contingencia}
 
-#### Contingência
+### Contingência
 
 A emissão em contingência é necessária para manter o faturamento das vendas mesmo quando por problemas técnicos ocorrer a impossibilidade de comunicação com a SEFAZ.
 
-##### Quais usamos?
+#### Quais usamos?
 
-###### Contingência Off-line
+##### Contingência Off-line
 
 A contingência off-line é a alternativa para quando a recepção e autorização da NFC-e pela SEFAZ da UF de origem estiver indisponível. 
 
@@ -142,7 +142,7 @@ Neste caso a NFC-e é aprovada automaticamente no faturamento da Venda, imprimin
 
 Nem todos os estados aceitam esse tipo e emissão, essa opção deve ser verificada antes da emissão em contingência.
 
-###### SVC
+##### SVC
 
 O ambiente de autorização da SVC, SEFAZ Virtual de Contingência, é a alternativa para a recepção e autorização de NF-e quando a SEFAZ da UF de origem estiver indisponível.
 
@@ -160,7 +160,7 @@ Autorizadores em contingência:
 
 
 
-##### Quando usar?
+#### Quando usar?
 
 A contingência só deve ser ativada quando houver indicação da SEFAZ para isto. 
 
@@ -170,7 +170,7 @@ Para as indisponibilidades de NFC-e deve ser consultado na SEFAZ de cada UF.
 
 
 
-##### Como ativar\desativar? 
+#### Como ativar\desativar? 
 
 Através do botão `Mais` ou com o lado inverso do mouse dentro da tela de Pesquisa de Documentos Fiscais é acessado a tela para ativar e desativar a contingência.
 
@@ -194,7 +194,7 @@ Na parte inferior da tela constam o histórico das de todas as contingências e 
 
 {: #exportar}
 
-#### Sincronizar
+### Sincronizar
 
 O processo de sincronização com a SEFAZ é feito automaticamente pelo sistema sempre que houver alguma solicitação de integração com a SEFAZ. Isso pode acontecer por meio do Faturamento de Venda, Devolução de Venda ou Devolução de Compra, nos processos de Cancelamento, Reemissão e Carta de Correção ou  ainda na desativação de contingência.
 
