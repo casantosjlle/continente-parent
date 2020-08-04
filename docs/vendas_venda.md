@@ -14,19 +14,25 @@
 
 Nesta tela estão disponíveis todas as vendas cadastradas, as faturadas e as em aberto. O filtro padrão ao abrir a tela mostra somente as em Aberto.
 
-![](images/vendas_venda_pesquisa_aberto.jpg)
+###### Status
 
-
+- Aberto- Vendas já iniciadas mas não faturadas. Permitem edição.
+- Faturado - Vendas já faturadas. Não permitem edição.
+- Cancelado - Vendas já faturadas e canceladas. Não permitem edição.
 
 #### Processos
 
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados a Venda e também a impressão dos Tickets e relatórios.
 
-Através do botão mais pode-se acessar os menus relacionados com a venda.
+O menu [Devolver](vendas_devolucao_venda.md#devolucaovenda) é habilitado somente se selecionado uma Venda com status Faturado.
 
-A opção Faturamento só fica disponível para as Compras com status Aberto.
+O menu [Cancelar](vendas_venda.md#cancelamento) é habilitado somente se selecionado uma Venda com status Faturado.
 
-As opções Devolver e Cancelar ficam disponíveis para as Vendas Faturadas 
+O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selecionado uma Venda com status Aberto.
+
+A opção [Histórico](vendas_venda.md#historico) fica sempre habilitado.
+
+![](images/vendas_venda_pesquisa.jpg)
 
 
 
@@ -34,11 +40,11 @@ As opções Devolver e Cancelar ficam disponíveis para as Vendas Faturadas
 
 #### Cadastro de Venda
 
-*Cliente Cadastrado:*  A busca pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pela nome, também digitando-o apenas parcialmente.
+Ao abrir uma nova venda a primeira informação é o Cliente, o botão vem habilitado para busca de um *Cliente Cadastrado* onde a pesquisa pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pela nome, também digitando-o apenas parcialmente. 
 
 ![](images/vendas_venda_cadastro_cliente_cadastrado.jpg)
 
-*Cliente Não Cadastrado:*  Neste caso pode-se digitar o nome ou alguma identificação para o cliente, mas o cliente não é obrigatório na venda.
+Quando não houver cliente cadastrado basta clicar em cima do botão que o sistema desabilita a busca no cadastro do cliente e torna-o  em *Cliente não Cadastrado*, neste caso se tem a possibilidade de digitar o nome ou alguma identificação para o cliente, mas o cliente não é obrigatório na venda.
 
 ![](images/vendas_venda_cadastro_cliente_nao_cadastrado.jpg)
 
@@ -256,5 +262,5 @@ E as transações financeiras resultantes da Venda também ficam com status Canc
 
 
 
-[Voltar à página anterior](vendas.md)                                                                                                                                       [Voltar ao início da página](vendas_venda.md)
+[Voltar](vendas.md)                                                                                                                                      
 
