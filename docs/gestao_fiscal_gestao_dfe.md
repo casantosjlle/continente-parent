@@ -10,13 +10,23 @@
 
 #### Pesquisa de Documentos Fiscais
 
-Nesta tela estão disponíveis todas as vendas cadastradas, as faturadas e as em aberto. O filtro padrão ao abrir a tela mostra somente as em Aberto.
+Nesta tela consta a relação de todos os documentos fiscais emitidos e recebidos pela empresa.
 
-Através do botão mais pode-se acessar os menus relacionados com a venda.
+Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os outros processos relacionados ao documento fiscal e também a impressão dos DANFES e relatórios.
 
-A opção Faturamento só fica disponível para as Compras com status Aberto.
+###### Status
 
-As opções Devolver e Cancelar ficam disponíveis para as Vendas Faturadas 
+- Aprovado - Documento fiscal eletrônico emitido pela empresa e aprovado pela SEFAZ. *Uma exceção para os documentos tipo NFC-e emitidos em contingência Off-line que tem o Status Aprovado antes de serem enviados ao SEFAZ*
+- Rejeitado - Documento fiscal eletrônico emitido pela empresa e rejeitado pela SEFAZ. Esses documentos devem ser corrigidos e reemitidos ou a venda de origem Cancelada.
+- Cancelado - Documento fiscal eletrônico emitido, aprovado e cancelado na SEFAZ.
+- Descartado - Numeração inutilizada na SEFAZ através dos processos de cancelamento de venda ou remissão.
+- Lançado - Documento fiscal emitido por terceiros e lançado no sistema pelo processo de Compra ou Devolução de Venda. 
+- Revertido - Documento fiscal emitido por terceiros e lançado no sistema através do processo de compra e que teve o processo de compra revertido.
+
+###### Status intermediário
+
+- Aguardando descarte- Quando o processo de cancelamento da Venda ou reemissão foi efetuado, faltando apenas a conclusão da comunicação com a SEFAZ. Neste caso deve-se aguardar que o sistema concluirá o processo automaticamente, quando o ambiente estiver normal.
+- Aguardando cancelamento - Quando o processo de cancelamento da Venda já foi efetuado, faltando apenas a conclusão da comunicação com a SEFAZ. Neste caso deve-se aguardar que o sistema concluirá o processo automaticamente.
 
 
 
@@ -74,8 +84,34 @@ Como a contingência Off-line não realiza comunicação com o SEFAZ, ou seja, t
 
 #### Histórico
 
+Nesta tela estão dispostos em um fluxo cronológico todas as interações com o SEFAZ. 
+
+Ao lado esquerdo estão disponíveis o histórico de eventos e ao lado direito os XMLs de Requisição e Resposta do SEFAZ por evento.
+
+![](images/gestao_fiscal_gestao_dfe_historico.jpg)
+
 
 
 {: #cartacorrecao}
 
 #### Carta de Correção
+
+Para as NF-e com status aprovado no meu `Mais`
+
+
+
+{: #cancelamento}
+
+#### Cancelamento
+
+
+
+{: #contingencia}
+
+#### Contingência
+
+
+
+{: #exportar}
+
+#### Exportar
