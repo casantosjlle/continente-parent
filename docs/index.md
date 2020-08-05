@@ -6,7 +6,7 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 
 
-## Diretório de documentos
+## **Diretório de documentos**
 
 ### [Dicas de usabilidade](dicas.md)
 
