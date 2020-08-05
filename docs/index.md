@@ -1,4 +1,4 @@
-# Continente Nuvem Docs
+**Continente Nuvem Docs**
 
 A docs.continentenuvem.com.br é pagina inicial da documentação do sistema Continente Nuvem. Confira aqui o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. 
 
@@ -6,27 +6,27 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 
 
-## Diretório de documentos
+**Diretório de documentos**
 
-### [Dicas de usabilidade](dicas.md)
+### |[Dicas de usabilidade](dicas.md)
 
-### [Sistema](sistema.md)
+### |[Sistema](sistema.md)
 
-### [Administração](administracao.md)
+### |[Administração](administracao.md)
 
-### [Caixa](caixa.md)
+### |[Caixa](caixa.md)
 
-### [Compras](compras.md)
+### |[Compras](compras.md)
 
-### [Contabilidade](contabilidade.md)
+### |[Contabilidade](contabilidade.md)
 
-### [Estoque](estoque.md)
+### |[Estoque](estoque.md)
 
-### [Financeiro](financeiro.md)
+### |[Financeiro](financeiro.md)
 
-### [Gestão Fiscal](gestao_fiscal.md)
+### |[Gestão Fiscal](gestao_fiscal.md)
 
-### [Vendas](vendas.md)
+### |[Vendas](vendas.md)
 
 
 
