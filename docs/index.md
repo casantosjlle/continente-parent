@@ -1,22 +1,20 @@
-# Continente Nuvem Docs
+### Continente Nuvem Docs
 
-Esta é a pagina inicial da documentação do sistema Continente Nuvem. Aqui você vai encontrar o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. 
-
-A documentação segue a disposição do menu no sistema.
+A docs.continentenuvem.com.br é pagina inicial da documentação do sistema Continente Nuvem. Confira aqui o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. 
 
 Você pode ter acesso a essa documentação quando estiver acessando o Continente Nuvem. Dentro de cada tela, através da tecla `F1`, há um link direto para a documentação referente ao seu acesso.
 
 
 
-## Diretórios de Documentos
+## Diretório de documentos
 
 ## Utilização
 
-###       [Dicas de usabilidade](dicas.md)
+### [Dicas de usabilidade](dicas.md)
 
 ## Parâmetros iniciais
 
-###       [Sistema](sistema.md)
+### [Sistema](sistema.md)
 
 
 
