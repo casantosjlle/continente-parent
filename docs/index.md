@@ -10,13 +10,13 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 |[Dicas de usabilidade](dicas.md)
 
-### |[Sistema](sistema.md)
+|[Sistema](sistema.md)
 
-### |[Administração](administracao.md)
+|[Administração](administracao.md)
 
-### |[Caixa](caixa.md)
+|[Caixa](caixa.md)
 
-### |[Compras](compras.md)
+|[Compras](compras.md)
 
 ### |[Contabilidade](contabilidade.md)
 
