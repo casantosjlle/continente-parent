@@ -8,7 +8,7 @@ Você também pode ter acesso a essa documentação quando estiver acessando o C
 
 Dentro de cada tela, através da tecla `F1`, há um link direto para a documentação referente ao seu acesso.
 
-
+------
 
  <font color="black" size="4em"><b>Diretório de documentos  </font></b>
 
