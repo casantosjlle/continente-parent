@@ -30,7 +30,7 @@ Ao abrir a tela de redefinir impostos, ficam disponíveis o detalhamento dos imp
 
 ![](images/compras_compra_cadastro_produtos_redefinirimpostos2.jpg)
 
-É possível alterar o grupo de impostos, e assim o sistema faz todo o recálculo dos impostos de acordo com o impostos do novo grupo selecionado:
+É possível alterar o grupo de impostos, e assim o sistema faz  recálculo dos impostos de acordo com o impostos do novo grupo selecionado:
 
 ![](images/compras_compra_cadastro_produtos_redefinirimpostos3.jpg)
 
@@ -110,7 +110,7 @@ As informações de referência fiscal são obrigatórias para o faturamento da 
 
 ![](images/vendas_devolucao_venda_faturamento_referencia_fiscal.jpg)
 
- Ao efetuar o faturamento da Devolução de Venda, a Nota Fiscal estará disponível na tela de Gestão de NF-e, Tipo: Entrada:
+ Ao efetuar o faturamento da Devolução de Venda, a Nota Fiscal estará disponível na tela de Gestão de Documentos fiscais e pode ser filtrada pela Origem específica.
 
 ![](images/vendas_devolucao_venda_faturamento_NF-e.jpg)
 
