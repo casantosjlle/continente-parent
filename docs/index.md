@@ -8,7 +8,7 @@ Você também pode ter acesso a toda essa documentação quando estiver acessand
 
 ------
 
-<font color="black" size="4em"> <b>Diretório de documentos </b></font>
+<font color="black" size="4em"><b>Diretório de documentos </b></font>
 
 |[Dicas de usabilidade](dicas.md)
 
@@ -34,5 +34,5 @@ Você também pode ter acesso a toda essa documentação quando estiver acessand
 
 ------
 
- <font color="black" size="4em"> <b>Perguntas Frequentes</b></font>
+<font color="black" size="4em"> <b>Perguntas Frequentes</b></font>
 
