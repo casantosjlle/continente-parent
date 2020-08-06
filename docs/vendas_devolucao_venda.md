@@ -30,7 +30,7 @@ Ao abrir a tela de redefinir impostos, ficam disponíveis o detalhamento dos imp
 
 ![](images/compras_compra_cadastro_produtos_redefinirimpostos2.jpg)
 
-É possível alterar o grupo de impostos, e assim o sistema faz o recálculo dos impostos de acordo com o impostos do novo grupo selecionado:
+É possível alterar o grupo de impostos, e assim o sistema faz todo o recálculo dos impostos de acordo com o impostos do novo grupo selecionado:
 
 ![](images/compras_compra_cadastro_produtos_redefinirimpostos3.jpg)
 
