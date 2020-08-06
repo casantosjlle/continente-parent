@@ -4,6 +4,8 @@ A docs.continentenuvem.com.br é pagina de documentação do sistema Continente 
 
 Aqui você vai encontrar o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. 
 
+<br/>
+
 <font color="black" size="4em"><b>Diretório de documentos </b></font>
 
 <br/>|[Dicas de usabilidade](dicas.md)
