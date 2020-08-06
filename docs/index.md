@@ -1,10 +1,10 @@
-<font color="black" size="6em"><b>Continente Docs </b></font>
+<span style="margin-botton:5px;font-weight:bold;font-size:2.5em">Continente Docs </span>
 
 A docs.continentenuvem.com.br é a pagina de documentação do sistema Continente Nuvem desenvolvida especialmente para o usuário final. Confira aqui o detalhamento de cada tela e processo do sistema, dicas de utilização, FAQs e conceitos de negócio.
 
-Você pode ter acesso a toda essa documentação através do botão F1 diretamente do sistema Continente Nuvem. Cada página de acesso o levará há um link específico na documentação.
+Você também pode ter acesso a toda essa documentação no Continente Nuvem através da tecla F1 do seu teclado. 
 
-<font color="black" size="4em"><b>Diretório de documentos </b></font>
+<span style="margin-botton:5px;font-weight:bold;font-size:1.5em">Diretório de documentos </span>
 
 |[Dicas de usabilidade](dicas.md)
 
@@ -25,6 +25,4 @@ Você pode ter acesso a toda essa documentação através do botão F1 diretamen
 |[Gestão Fiscal](gestao_fiscal.md)
 
 |[Vendasl](vendas.md)
-
-<font color="black" size="4em"> <b>Perguntas Frequentes</b></font>
 
