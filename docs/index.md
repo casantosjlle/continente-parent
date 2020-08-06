@@ -4,11 +4,15 @@ A docs.continentenuvem.com.br é pagina de documentação do sistema Continente 
 
 Aqui você vai encontrar o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. 
 
-Você também pode ter acesso a toda essa documentação quando estiver acessando o Continente Nuvem. Dentro de cada tela, através da tecla `F1`, há um link direto para a documentação referente ao seu acesso.
-
-
-
 <font color="black" size="4em"><b>Diretório de documentos </b></font>
+
+
+
+
+
+
+
+
 
 
 
@@ -31,6 +35,10 @@ Você também pode ter acesso a toda essa documentação quando estiver acessand
 |[Gestão Fiscal](gestao_fiscal.md)
 
 |[Vendas](vendas.md)
+
+
+
+
 
 
 
