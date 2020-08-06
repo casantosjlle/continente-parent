@@ -1,4 +1,4 @@
- <font color="black" size="6em"><b>Continente Docs</font></b>
+ <font color="black" size="6em">Continente Docs </font>
 
 A docs.continentenuvem.com.br é pagina de documentação do sistema Continente Nuvem desenvolvia especialmente para o usuário final. 
 
@@ -10,7 +10,7 @@ Dentro de cada tela, através da tecla `F1`, há um link direto para a documenta
 
 ------
 
- <font color="black" size="4em"><b>Diretório de documentos  </font></b>
+ <font color="black" size="4em"> <b> Diretório de documentos  </font> </b>
 
 |[Dicas de usabilidade](dicas.md)
 
