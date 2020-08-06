@@ -10,17 +10,17 @@
 
 Neste menu são encontrados todos os acessos necessários para as atividades de Vendas.
 
-- [Cliente](vendas_cliente.md)
+|[Cliente](vendas_cliente.md)
 
-- [Grupo de Cliente](vendas_grupo_cliente.md)
+|[Grupo de Cliente](vendas_grupo_cliente.md)
 
-- [Promoção](vendas_promocao.md)
+|[Promoção](vendas_promocao.md)
 
-- [Venda](vendas_venda.md)
+|[Venda](vendas_venda.md)
 
-- [Devolução de Venda](vendas_devolucao_venda.md)
+|[Devolução de Venda](vendas_devolucao_venda.md)
 
-  
+
 
 [Voltar](index.md)
 

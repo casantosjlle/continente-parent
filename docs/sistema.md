@@ -16,9 +16,9 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 
 ![](images/sistema.jpg)
 
-[Sequência Numérica](sistema_sequencia_numerica.md)
+|[Sequência Numérica](sistema_sequencia_numerica.md)
 
-[Certificado Digital](sistema_certificado_digital.md)
+|[Certificado Digital](sistema_certificado_digital.md)
 
 
 
@@ -26,11 +26,15 @@ Estão também localizadas nesse menu as opções de `Trocar Usuário` e `Sair` 
 
 #### Parametrização
 
-- [Fiscal](sistema_parametrizacao.md#fiscal)
-- [Contas a Receber](sistema_parametrizacao.md#contasreceber)
-- [Dimensão de Estoque](sistema_parametrizacao.md#dimensaoestoque)
-- [Venda](sistema_parametrizacao.md#venda)
-- [Interface Usuário](sistema_parametrizacao.md#interfaceusuario)
+|[Fiscal](sistema_parametrizacao.md#fiscal)
+
+|[Contas a Receber](sistema_parametrizacao.md#contasreceber)
+
+|[Dimensão de Estoque](sistema_parametrizacao.md#dimensaoestoque)
+
+|[Venda](sistema_parametrizacao.md#venda)
+
+|[Interface Usuário](sistema_parametrizacao.md#interfaceusuario)
 
 
 

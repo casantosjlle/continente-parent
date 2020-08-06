@@ -16,25 +16,25 @@ Estão disponíveis as opções:
 
 
 
-[Consulta de Estoque Disponível](estoque_cosulta_estoque_disponivel.md)
+|[Consulta de Estoque Disponível](estoque_cosulta_estoque_disponivel.md)
 
-[Grupo e Subgrupos](estoque_grupo_subgrupo.md)
+|[Grupo e Subgrupos](estoque_grupo_subgrupo.md)
 
-[Liberação de Produto](estoque_liberacao_produto.md)
+|[Liberação de Produto](estoque_liberacao_produto.md)
 
-[Marca](estoque_marca.md)
+|[Marca](estoque_marca.md)
 
-[Motivo Movimentação Manual](estoque_motivo_movimentacao_manual.md)
+|[Motivo Movimentação Manual](estoque_motivo_movimentacao_manual.md)
 
-[Movimentação manual de Estoque](estoque_movimentacao_manual.md)
+|[Movimentação manual de Estoque](estoque_movimentacao_manual.md)
 
-[Produto](estoque_produto.md)
+|[Produto](estoque_produto.md)
 
-[Revalidação de Preço de Venda](estoque_revalidacao_preco_venda.md)
+|[Revalidação de Preço de Venda](estoque_revalidacao_preco_venda.md)
 
-[Transações de Estoque](estoque_transacoes_estoque.md)
+|[Transações de Estoque](estoque_transacoes_estoque.md)
 
-[Volumes](estoque_volumes.md)
+|[Volumes](estoque_volumes.md)
 
 
 
