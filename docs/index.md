@@ -18,17 +18,17 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 |[Compras](compras.md)
 
-### |[Contabilidade](contabilidade.md)
+|[Contabilidade](contabilidade.md)
 
-### |[Estoque](estoque.md)
+|[Estoque](estoque.md)
 
-### |[Financeiro](financeiro.md)
+|[Financeiro](financeiro.md)
 
-### |[Gestão Fiscal](gestao_fiscal.md)
+|[Gestão Fiscal](gestao_fiscal.md)
 
-### |[Vendas](vendas.md)
+|[Vendas](vendas.md)
 
 
 
-## Perguntas Frequentes
+<font size="10">Perguntas Frequentes</font>
 
