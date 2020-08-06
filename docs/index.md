@@ -4,7 +4,7 @@ A docs.continentenuvem.com.br é a pagina de documentação do sistema Continent
 
 Você também pode ter acesso a toda essa documentação no Continente Nuvem através da tecla F1 do seu teclado. 
 
-<span style="margin-botton:5px;font-weight:bold;font-size:1.5emcolor:black">Diretório de documentos </span>
+<span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:black">Diretório de documentos </span>
 
 |[Dicas de usabilidade](dicas.md)
 
@@ -24,5 +24,5 @@ Você também pode ter acesso a toda essa documentação no Continente Nuvem atr
 
 |[Gestão Fiscal](gestao_fiscal.md)
 
-|[Vendasl](vendas.md)
+|[Vendas](vendas.md)
 
