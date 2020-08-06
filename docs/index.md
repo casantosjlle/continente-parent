@@ -1,6 +1,8 @@
 <font color="black" size="6em"><b>Continente Docs </b></font>
 
-<font color="black">A docs.continentenuvem.com.br é a pagina de documentação do sistema Continente Nuvem desenvolvida especialmente para o usuário final. Confira aqui o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. </font>
+<font color="black">A docs.continentenuvem.com.br é a pagina de documentação do sistema Continente Nuvem desenvolvida especialmente para o usuário final. Confira aqui o detalhamento de cada tela e processo do sistema, dicas de utilização, FAQs e conceitos de negócio.</font>
+
+<font color="black">Você pode ter acesso a toda essa documentação através do botão F1 diretamente do sistema Continente Nuvem. Cada página de acesso o levará há um link específico na documentação.</font>
 
 <font color="black" size="4em"><b>Diretório de documentos </b></font>
 
