@@ -30,5 +30,5 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 
 
-<font size="8">Perguntas Frequentes</font>
+ <font color="black" size="6">Perguntas Frequentes</font>
 
