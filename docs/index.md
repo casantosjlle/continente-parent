@@ -12,7 +12,7 @@ Dentro de cada tela, através da tecla `F1`, há um link direto para a documenta
 
  <font color="black" size="6">Diretório de documentos  </font>
 
-### 
+ 
 
 |[Dicas de usabilidade](dicas.md)
 
