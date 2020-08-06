@@ -2,7 +2,7 @@
 
 A docs.continentenuvem.com.br é a pagina de documentação do sistema Continente Nuvem desenvolvida especialmente para o usuário final. Confira aqui o detalhamento de cada tela e processo do sistema, dicas de utilização, FAQs e conceitos de negócio.
 
-Você também pode ter acesso a toda essa documentação no Continente Nuvem através da tecla F1 do seu teclado. 
+Você tem acesso rápido a toda essa informação diretamente no Continente Nuvem através da função F1 do seu teclado. 
 
 <span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:black">Diretório de documentos </span>
 
