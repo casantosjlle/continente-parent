@@ -6,9 +6,11 @@ Aqui você vai encontrar o detalhamento de cada tela e processo do sistema,  dic
 
 Você também pode ter acesso a toda essa documentação quando estiver acessando o Continente Nuvem. Dentro de cada tela, através da tecla `F1`, há um link direto para a documentação referente ao seu acesso.
 
-------
+
 
 <font color="black" size="4em"><b>Diretório de documentos </b></font>
+
+
 
 |[Dicas de usabilidade](dicas.md)
 
@@ -32,7 +34,7 @@ Você também pode ter acesso a toda essa documentação quando estiver acessand
 
 
 
-------
+
 
 <font color="black" size="4em"> <b>Perguntas Frequentes</b></font>
 
