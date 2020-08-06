@@ -6,7 +6,7 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 
 
-<font size="6">Diretório de documentos  </font>
+ <font color="black" size="6">Diretório de documentos  </font>
 
 |[Dicas de usabilidade](dicas.md)
 
