@@ -1,4 +1,4 @@
- <font size="10"><b> <p style="color:black"> Continente Docs </b> </p></font> 
+ <font size="10"; "color:black"><b> Continente Docs </b> </font> 
 
 A docs.continentenuvem.com.br é pagina inicial da documentação do sistema Continente Nuvem. Confira aqui o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. 
 
