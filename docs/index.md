@@ -1,4 +1,4 @@
- <font size="14"><b>Continente Nuvem Docs</b></font> 
+ <font size="12"><b>Continente Nuvem Docs</b></font> 
 
 A docs.continentenuvem.com.br é pagina inicial da documentação do sistema Continente Nuvem. Confira aqui o detalhamento de cada tela e processo do sistema,  dicas de utilização, FAQs e conceitos de negócio. 
 
@@ -6,7 +6,7 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 
 
-<font size="10">Diretório de documentos  </font>
+<font size="8">Diretório de documentos  </font>
 
 |[Dicas de usabilidade](dicas.md)
 
@@ -30,5 +30,5 @@ Você pode ter acesso a essa documentação quando estiver acessando o Continent
 
 
 
-<font size="10">Perguntas Frequentes</font>
+<font size="8">Perguntas Frequentes</font>
 
