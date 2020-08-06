@@ -106,5 +106,4 @@ As informações de referência fiscal são obrigatórias para o faturamento da 
 
 
 
-
-
+[Voltar](compras.md)

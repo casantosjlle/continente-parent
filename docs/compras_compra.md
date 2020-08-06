@@ -10,15 +10,25 @@
 
 {: #pesquisa}
 
-#### Pesquisa de Compra
+### Pesquisa de Compra
 
-Nesta tela estão disponíveis todas as compras cadastradas, as faturadas e as em aberto.
+Nesta tela estão disponíveis todas as compras cadastradas, faturadas e as em aberto. 
 
-Através do botão mais pode-se acessar os menus relacionados com a compra. 
+#### Status
 
-A opção Faturamento só fica disponível para as Compras com status Aberto.
+- Aberto- Compras já iniciadas mas não faturadas. Permitem edição.
+- Faturado - Compras já faturadas. Não permitem edição.
+- Revertido - Compras já faturadas e que foram estornadas. Não permitem edição.
 
-As opções Reversão, Devolução e o Ticket só ficam disponíveis para as Compras com status Faturado.
+### Processos
+
+Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados a Compra e também a impressão dos Tickets e relatórios.
+
+O menu [Devolução](compras_devolucao_compra.md#devolucaocompra) é habilitado somente se selecionado uma Compra com status Faturado.
+
+O menu [Reversão](compras_compra.md#reversao) é habilitado somente se selecionado uma Compra com status Faturado.
+
+O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selecionado uma Compra com status Aberto.
 
 ![](images/compras_compra_pesquisa.jpg)
 
@@ -200,4 +210,4 @@ O ticket de compra pode ser impresso para compras Faturadas.
 
 
 
-[Voltar](compras.md#compras)
+[Voltar](compras.md)

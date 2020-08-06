@@ -6,6 +6,8 @@ Aqui você vai encontrar o detalhamento de cada tela e processo do sistema,  dic
 
 <font color="black" size="4em"><b>Diretório de documentos </b></font>
 
+<br/>
+
 |[Dicas de usabilidade](dicas.md)
 
 |[Sistema](sistema.md)
@@ -26,7 +28,7 @@ Aqui você vai encontrar o detalhamento de cada tela e processo do sistema,  dic
 
 |[Vendas](vendas.md)
 
-
+<br/>
 
 <font color="black" size="4em"> <b>Perguntas Frequentes</b></font>
 
