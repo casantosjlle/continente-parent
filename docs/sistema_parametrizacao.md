@@ -16,13 +16,13 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 #### Fiscal - NFe
 
-`Série` deve ser preenchido para as empresa emitentes de [NF-e](nfe.md).
+`Série` deve ser preenchido para as empresa emitentes de [NF-e](http://sped.rfb.gov.br/pagina/show/1328).
 
 `Alíquota Crédito SN` deve ser preenchido com a alíquota para as empresas do [SImples Nacional](http://www8.receita.fazenda.gov.br/SimplesNacional/Documentos/Pagina.aspx?id=3) que permitem crédito de ICMS.
 
-`Período para cancelamento` deve ser preenchido com o período que a empresa deseja permitir fazer o cancelamento de NF-e, deve ser igual ou menor ao período permitido pelo [SEFAZ](sefaz.md). O período aceito pela Sefaz da maioria das UFs é até 24 horas após a emissão da NF-e. A parametrização default é de 24 horas.
+`Período para cancelamento` deve ser preenchido com o período que a empresa deseja permitir fazer o cancelamento de NF-e, deve ser igual ou menor ao período permitido pela Sefaz. O período aceito pela Sefaz da maioria das UFs é até 24 horas após a emissão da NF-e. A parametrização default é de 24 horas.
 
-`Período para carta de correção` deve ser preenchido com o período que a empresa deseja permitir fazer enviar uma carta de correção para uma NF-e anteriormente aprovada, deve ser igual ou menor ao período permitido pelo [SEFAZ](sefaz.md). O período aceito pela Sefaz é até 720 horas após a emissão da NF-e. A parametrização default é de 720 horas.
+`Período para carta de correção` deve ser preenchido com o período que a empresa deseja permitir fazer enviar uma carta de correção para uma NF-e anteriormente aprovada, deve ser igual ou menor ao período permitido pela Sefaz. O período aceito pela Sefaz é até 720 horas após a emissão da NF-e. A parametrização default é de 720 horas.
 
 `Texto Fiscal Padrão` Esse texto é opcional. Deve ser preenchido com algum [Texto fiscal](texto_fiscal.md), tipo [Fisco](texto_fiscal_fisco.md) que será impresso em todas as NF-e emitidas. Essa mensagem será levada para a tag <infAdFisco> do XML. da NF-E.
 
@@ -38,9 +38,9 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 #### Fiscal - NFCe
 
-`Série` deve ser preenchido para as empresa emitentes de [NFC-e](nfce.md)
+`Série` deve ser preenchido para as empresa emitentes de [NFC-e](http://sped.rfb.gov.br/pagina/show/1519)
 
-`CSC Token`  O Código de Segurança do Contribuinte (CSC) token é um código de segurança alfanumérico (uma senha), de conhecimento exclusivo do contribuinte e da [SEFAZ](sefaz.md)  usado para garantir a autoria e a autenticidade do DANFE NFC-e. 
+`CSC Token`  O Código de Segurança do Contribuinte (CSC) token é um código de segurança alfanumérico (uma senha), de conhecimento exclusivo do contribuinte e da Sefaz e é usado para garantir a autoria e a autenticidade do DANFE NFC-e. 
 
 Na maioria dos casos, é obtido pelo site da Sefaz do estado, separando entre ambiente de homologação e de produção. 
 
