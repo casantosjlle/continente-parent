@@ -20,11 +20,15 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 `Alíquota Crédito SN` deve ser preenchido com a alíquota para as empresas do [SImples Nacional](simples_nacional.md) que permitem crédito de ICMS.
 
-`Período para cancelamento` deve ser preenchido com o período que a empresa deseja permitir fazer o cancelamento de NF-e, deve ser igual ou menor ao período permitido pelo [SEFAZ](sefaz.md).
+`Período para cancelamento` deve ser preenchido com o período que a empresa deseja permitir fazer o cancelamento de NF-e, deve ser igual ou menor ao período permitido pelo [SEFAZ](sefaz.md). O período aceito pela Sefaz da maioria das UFs é até 24 horas após a emissão da NF-e. A parametrização default é de 24 horas.
+
+`Período para carta de correção` deve ser preenchido com o período que a empresa deseja permitir fazer enviar uma carta de correção para uma NF-e anteriormente aprovada, deve ser igual ou menor ao período permitido pelo [SEFAZ](sefaz.md). O período aceito pela Sefaz é até 720 horas após a emissão da NF-e. A parametrização default é de 720 horas.
 
 `Texto Fiscal Padrão` Esse texto é opcional. Deve ser preenchido com algum [Texto fiscal](texto_fiscal.md), tipo [Fisco](texto_fiscal_fisco.md) que será impresso em todas as NF-e emitidas. Essa mensagem será levada para a tag <infAdFisco> do XML. da NF-E.
 
 `Logo Danfe` pode ser definido se haverá ou não impressão de Logo no DANFE do NF-E e se será a logo da empresa ou logo da NF-e
+
+`Enviar e-mail para o participante`deve ser marcado quando a empresa deseja enviar automaticamente o DANFE e XML para os participantes, que pode ser um cliente ou fornecedor, da NF-e que foi emitida. Ao marcar este campo, no momento da autorização da NF-e o sistema irá enviar automaticamente os documentos para o(s) endereços de e-mail tipo NF-e informados no cadastro do cliente ou fornecedor.
 
 ![](images/sistema_parametrizacao_fiscal_nfe.jpg)
 
@@ -46,7 +50,7 @@ Para o estado no PR está disponível no [Portal RECEITA/PR](https://receita.pr.
 
 `CSC ID Token` O Código de Segurança do Contribuinte (CSC) ID é um código complementar ao Token e deve ser obtido juntamente com o Token.
 
-`Período para cancelamento` deve ser preenchido com o período que a empresa deseja permitir fazer o cancelamento de NFC-e, deve ser igual ou menor ao período permitido pela SEFAZ.
+`Período para cancelamento` deve ser preenchido com o período que a empresa deseja permitir fazer o cancelamento de NFC-e, deve ser igual ou menor ao período permitido pela SEFAZ. O período aceito pela Sefaz da maioria das UFs é até 30 minutos após a emissão da NFC-e. A parametrização default é de 0,5 horas.
 
 `Logo Danfe` pode ser definido se haverá ou não impressão de Logo no DANFE do NFC-E e se será a logo da empresa ou logo da NFC-E
 
@@ -62,6 +66,8 @@ Para o estado no PR está disponível no [Portal RECEITA/PR](https://receita.pr.
 
 #### Fiscal - Geral
 
+`Ambiente`deve ser parametrizado com o ambiente de emissão dos documentos Fiscais eletrônicos. O ambiente de Homologação não tem validade fiscal.
+
 `Certificado Digital` deve ser parametrizado o certificado digital que foi importado no meu [certificado digital](sistema_certificado_digital.md#certificadodigital).
 
 `Documento Fiscal Padrão` o tipo parametrizado será utilizado como padrão no cadastro dos Clientes, podendo, se necessário, fazer a alteração em cada cliente.
@@ -70,11 +76,11 @@ Para o estado no PR está disponível no [Portal RECEITA/PR](https://receita.pr.
 
 Esse texto fiscal deverá ser parametrizado com as [variáveis](texto_fiscal_variavel.md) que farão o cálculo dos impostos aproximados de acordo com as alíquotas da [Tabela IBPT](ajustes_fiscal_tabela_ibpt.md).
 
+`Período para inutilização` deve ser preenchido com o período que a empresa deseja permitir fazer a inutilização da numeração dos documentos fiscais quando realizado um cancelamento de venda. O período aceito pela Sefaz é até o 10º dia do mês subsequente a emissão. A parametrização default é de 240 horas.
 
 
-![](images/ajustes_fiscal_geral.jpg)
 
-
+![](images/sistema_parametrizacao_fiscal_geral.jpg)
 
 {: #contasreceber}
 
