@@ -24,7 +24,7 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 `Período para carta de correção` deve ser preenchido com o período que a empresa deseja permitir fazer enviar uma carta de correção para uma NF-e anteriormente aprovada, deve ser igual ou menor ao período permitido pela Sefaz. O período aceito pela Sefaz é até 720 horas após a emissão da NF-e. A parametrização default é de 720 horas.
 
-`Texto Fiscal Padrão` Esse texto é opcional. Deve ser preenchido com algum [Texto fiscal](texto_fiscal.md), tipo [Fisco](texto_fiscal_fisco.md) que será impresso em todas as NF-e emitidas. Essa mensagem será levada para a tag <infAdFisco> do XML. da NF-E.
+`Texto Fiscal Padrão` Esse texto é opcional. Deve ser preenchido com algum [texto fiscal](gestao_fiscal_texto_fiscal.md), tipo Fisco que será impresso em todas as NF-e emitidas. Essa mensagem será levada para a tag <infAdFisco> do XML. da NF-E.
 
 `Logo Danfe` pode ser definido se haverá ou não impressão de Logo no DANFE do NF-E e se será a logo da empresa ou logo da NF-e
 
@@ -54,7 +54,7 @@ Para o estado no PR está disponível no [Portal RECEITA/PR](https://receita.pr.
 
 `Logo Danfe` pode ser definido se haverá ou não impressão de Logo no DANFE do NFC-E e se será a logo da empresa ou logo da NFC-E
 
-`Mensagem de Interesse do Contribuinte` Essa mensagem é opcional e será impresso no rodapé do DANFE logo após a informação dos impostos aproximados. Deve ser preenchido com algum [Texto fiscal](texto_fiscal.md), tipo [Complementar](texto_fiscal_complementar.md). Essa mensagem será levada para a tag <infCpl> do XML da NFC-e.
+`Mensagem de Interesse do Contribuinte` Essa mensagem é opcional e será impresso no rodapé do DANFE logo após a informação dos impostos aproximados. Deve ser preenchido com algum [texto fiscal](gestao_fiscal_texto_fiscal.md), tipo Complementar. Essa mensagem será levada para a tag <infCpl> do XML da NFC-e.
 
 
 
@@ -72,9 +72,9 @@ Para o estado no PR está disponível no [Portal RECEITA/PR](https://receita.pr.
 
 `Documento Fiscal Padrão` o tipo parametrizado será utilizado como padrão no cadastro dos Clientes, podendo, se necessário, fazer a alteração em cada cliente.
 
-`Texto Fiscal Impostos Aproximados` deve ser preenchido com algum [Texto fiscal](texto_fiscal.md), tipo [Complementar](texto_fiscal_complementar.md) e será impresso em todas as NF-e em operações com consumidor final e em todas as NFC-e. Essa mensagem será levada para a tag <infCpl> do XML.
+`Texto Fiscal Impostos Aproximados` deve ser preenchido com algum [Texto fiscal](gestao_fiscal_texto_fiscal.md), tipo Complementar e será impresso em todas as NF-e em operações com consumidor final e em todas as NFC-e. Essa mensagem será levada para a tag <infCpl> do XML.
 
-Esse texto fiscal deverá ser parametrizado com as [variáveis](texto_fiscal_variavel.md) que farão o cálculo dos impostos aproximados de acordo com as alíquotas da [Tabela IBPT](ajustes_fiscal_tabela_ibpt.md).
+Esse texto fiscal deverá ser parametrizado com as [variáveis](gestao_fiscal_texto_fiscal.md#variaveis) que farão o cálculo dos impostos aproximados de acordo com as alíquotas da [Tabela IBPT](ajustes_fiscal_tabela_ibpt.md).
 
 `Período para inutilização` deve ser preenchido com o período que a empresa deseja permitir fazer a inutilização da numeração dos documentos fiscais quando realizado um cancelamento de venda. O período aceito pela Sefaz é até o 10º dia do mês subsequente a emissão. A parametrização default é de 240 horas.
 
