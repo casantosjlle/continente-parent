@@ -18,7 +18,7 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 `Série` deve ser preenchido para as empresa emitentes de [NF-e](nfe.md).
 
-`Alíquota Crédito SN` deve ser preenchido com a alíquota para as empresas do [SImples Nacional](simples_nacional.md) que permitem crédito de ICMS.
+`Alíquota Crédito SN` deve ser preenchido com a alíquota para as empresas do [SImples Nacional](http://www8.receita.fazenda.gov.br/SimplesNacional/Documentos/Pagina.aspx?id=3) que permitem crédito de ICMS.
 
 `Período para cancelamento` deve ser preenchido com o período que a empresa deseja permitir fazer o cancelamento de NF-e, deve ser igual ou menor ao período permitido pelo [SEFAZ](sefaz.md). O período aceito pela Sefaz da maioria das UFs é até 24 horas após a emissão da NF-e. A parametrização default é de 24 horas.
 
