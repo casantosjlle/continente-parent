@@ -18,9 +18,7 @@ Neste menu são encontrados todos os acessos necessários para as atividades de 
 
 |[Texto Fiscal](gestao_fiscal_texto_fiscal.md#cadastro)
 
-```html
-<br>
-```
+  <p><br/>
 
 [Voltar](index.md)
 
