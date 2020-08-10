@@ -38,7 +38,7 @@ O menu [Carta de Correção](gestao_fiscal_gestao_dfe.md#cartacorrecao) é habil
 
 O menu [Cancelamento](vendas_venda.md#cancelamento) é habilitado somente se selecionado um documento fiscal com status Aprovado
 
-As opções [Histórico](gestao_fiscal_gestao_dfe.md#historico), [Contingência](gestao_fiscal_gestao_dfe.md#contingencia) e [Exportar](gestao_fiscal_gestao_dfe.md#exportar) ficam sempre habilitados.
+As opções [Histórico](gestao_fiscal_gestao_dfe.md#historico), [Contingência](gestao_fiscal_gestao_dfe.md#contingencia), [Exportar XML](gestao_fiscal_gestao_dfe.md#exportarXML) e [Sincronização](gestao_fiscal_gestao_dfe.md#sincronização) ficam sempre habilitados.
 
 ![](images/gestao_fiscal_gestao_dfe_pesquisa.jpg)
 
@@ -192,13 +192,23 @@ Na parte inferior da tela constam o histórico das de todas as contingências e 
 
 
 
-{: #exportar}
+{: #exportarXML}
 
-### Sincronizar
+### Exportar XML
+
+O XML ou XML e DANFE são enviados automaticamente ao cliente ou fornecedor, se assim parametrizado no campo [Enviar e-mail para o participante](sistema_parametrizacao.md#nfe).
+
+Além desse envio automático, os XMLs das NF-es podem ser extraídos através do menu Exportar xml, onde deve ser informado o período de emissão e o tipo de documento .Os arquivos podem ser salvos ou enviados por e-mail.
+
+![](images/gestao_fiscal_gestao_dfe_exportar_xml.jpg)
+
+{: #sincronizacao}
+
+### Sincronização
 
 O processo de sincronização com a SEFAZ é feito automaticamente pelo sistema sempre que houver alguma solicitação de integração com a SEFAZ. Isso pode acontecer por meio do Faturamento de Venda, Devolução de Venda ou Devolução de Compra, nos processos de Cancelamento, Reemissão e Carta de Correção ou  ainda na desativação de contingência.
 
-Após o envio do XML para a SEFAZ, o sistema faz uma consulta para buscar a resposta, se houver algum atraso ou lentidão no processamento pela SEFAZ a sincronização deve ser executada novamente manualmente para buscar os retornos pendentes.
+Após o envio do XML para a SEFAZ, o sistema faz automaticamente uma consulta para buscar a resposta, se houver algum atraso ou lentidão no processamento pela SEFAZ a sincronização deve ser executada novamente de forma manual para buscar os retornos pendentes.
 
 
 
