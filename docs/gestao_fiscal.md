@@ -8,7 +8,7 @@
 
 Neste menu são encontrados todos os acessos necessários para as atividades de cadastramento e gerenciamento de Impostos e documentos fiscais.
 
-|[CFOP](gestao_fiscal_cfop.md)
+|[CFOP](gestao_fiscal_CFOP.md)
 
 |[Gestão de  DF-e](gestao_fiscal_gestao_dfe.md)
 
@@ -17,6 +17,10 @@ Neste menu são encontrados todos os acessos necessários para as atividades de 
 |[NCM](gestao_fiscal_ncm.md)
 
 |[Texto Fiscal](gestao_fiscal_texto_fiscal.md)
+
+
+
+
 
 
 
