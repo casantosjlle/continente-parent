@@ -90,7 +90,7 @@ As parametrizações do Contas à receber devem ser feitas para cada empresa cad
 
 Parametrizações não obrigatórias. As alíquotas serão utilizadas como base para cálculo do juros e multa no Contas à Receber.
 
-![](images/ajustes_contas_receber.jpg)
+![](images/sistema_parametrizacao_contas_receber.jpg)
 
 
 
@@ -104,23 +104,21 @@ As dimensões de estoque não são obrigatórias, elas são um facilitador para 
 
 Onde o Nome é a Dimensão utilizada e os Valores são as opções disponíveis.
 
-![](images/ajustes_dimensao_estoque.jpg)
+![](images/sistema_parametrizacao_dimensao_estoque.jpg)
 
 Podem ser cadastradas até 3 dimensões de estoque, que após criadas devem ser habilitadas nos produtos que as utilizarão:
 
-![](images/ajustes_dimensao_estoque_produto.jpg)
-
-
+![](images/sistema_parametrizacao_dimensao_estoque_produto.jpg)
 
 Uma vez parametrizada a dimensão, essa informação é exigida em todos os processos do sistema:
 
-![](images/ajustes_dimensao_estoque_venda.jpg)
+![](images/sistema_parametrizacao_dimensao_estoque_venda.jpg)
 
 
 
 O gerenciamento de estoque é feito de acordo com as dimensões parametrizadas por item:
 
-![](images/ajustes_dimensao_consulta_saldo.jpg)
+![](images/sistema_parametrizacao_dimensao_estoque_transacoes_estoque.jpg)
 
 
 
@@ -128,17 +126,15 @@ O gerenciamento de estoque é feito de acordo com as dimensões parametrizadas p
 
 ### Parametrização Venda
 
-As parametrizações fiscais devem ser feitas para cada empresa cadastrada. 
+As parametrizações de venda devem ser feitas para cada empresa cadastrada. 
 
-Quando a opção Entrega a Domicílio está habilitada nos parâmetros
+Quando a opção Entrega a Domicílio estiver habilitada nos parâmetros de venda, esta opção ficará também habilitada na tela de venda, onde se marcada levará a informação de entrega a domicílio para o XML do NFC-e campo <indPres>4. 
 
-![](images/ajustes_venda.jpg)
+Os campos de transportadora, modalidade e valores de frete também poderão ser preenchidos para que sejam levados de maneira default para a venda que tiver entrega a domicílio.
 
+O campo vendedor pode ser marcado como obrigatório nos processos de venda.
 
-
-No processo de Venda a opção Entrega à Domicílio fica disponível, podendo ser marcado, caso a mercadoria seja entregue pelo próprio estabelecimento até o domicilio do cliente.
-
-![](images/ajustes_venda_entrega_domicilio.jpg)
+![](images/sistema_parametrizacao_venda.jpg)
 
 
 
@@ -146,19 +142,13 @@ No processo de Venda a opção Entrega à Domicílio fica disponível, podendo s
 
 ### Parametrização Interface Usuário
 
-A Interface do usuário vem por padrão o tema Default. Além desta existe o tema Light e Dark que podem ser parametrizados por usuário.
+A Interface do usuário vem por padrão o Light. Além desta existe o tema Dark que é indicada para aqueles que já trabalham com o sistema operacional com essa interface.
 
+Ao alterar o tema é necessário sair do sistema e entrar novamente. 
 
+![](images/sistema_parametrizacao_interface_usuario.jpg)
 
-![](images/ajustes_interface_usuario_default.jpg)
-
-
-
-![](images/ajustes_interface_usuario_light.jpg)
-
-
-
-![](images/ajustes_interface_usuario_dark.jpg)
+![](images/sistema_parametrizacao_interface_usuario_dark.jpg)
 
 
 
