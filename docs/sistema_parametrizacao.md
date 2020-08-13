@@ -34,7 +34,7 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 ![](images/sistema_parametrizacao_fiscal_nfe_emaildestinatario.jpg)
 
-Deve-se atentar para que se não houver e-mail parametrizado como NFE no cadastro do participante o e-mail não serão enviado.
+Deve-se atentar para que se não houver e-mail parametrizado como NFE no cadastro do participante o e-mail não será enviado. Pode ser parametrizado mais de um endereço de e-mail como NF-e, assim o sistema fará um envio para cada endereço de e-mail cadastrado.
 
 ![](images/sistema_parametrizacao_nfe_emailparticipante.jpg)
 
