@@ -28,17 +28,21 @@ As parametrizações fiscais devem ser feitas para cada empresa cadastrada e est
 
 `Logo Danfe` pode ser definido se haverá ou não impressão de Logo no DANFE do NF-E e se será a logo da empresa ou logo da NF-e
 
-{: #emailparticipante}
+{: #emaildestinatario}
 
-`Enviar e-mail para o participante`deve ser marcado quando a empresa deseja enviar automaticamente o DANFE e XML para os participantes, que pode ser um cliente ou fornecedor, da NF-e que foi emitida. Ao marcar este campo, no momento da autorização da NF-e o sistema irá enviar automaticamente os documentos para o(s) endereços de e-mail tipo NF-e informados no cadastro do cliente ou fornecedor.
+`Enviar e-mail para o destinatário` deve ser marcado se a empresa deseja ou não enviar automaticamente o DANFE e XML para os participantes da NF-e, que pode ser um cliente ou fornecedor. Ao marcar XML, Danfe ou Ambos,  no momento da autorização da NF-e o sistema irá enviar automaticamente os documentos para o(s) endereços de e-mail tipo NF-e informados no cadastro do cliente ou fornecedor.
 
-![](images/sistema_parametrizacao_fiscal_nfe.jpg)
+![](images/sistema_parametrizacao_fiscal_nfe_emaildestinatario.jpg)
 
-Deve-se atentar que se não houver e-mail parametrizado como NFE no cadastro do participante o e-mail não serão enviado.
+Deve-se atentar para que se não houver e-mail parametrizado como NFE no cadastro do participante o e-mail não serão enviado.
 
 ![](images/sistema_parametrizacao_nfe_emailparticipante.jpg)
 
+Os e-mails enviados podem ser consultados através da tela de pesquisa de e-mails enviados, no menu administração.
 
+Para este caso, pode-se filtrar pela origem "NF-e Autorizada" pelo endereço de e-mail do destinatário ou até mesmo pelo número da NF-e no campo assunto:
+
+![](images/sistema_parametrizacoes_pesquisa_emails_enviados.jpg)
 
 {: #nfce}
 

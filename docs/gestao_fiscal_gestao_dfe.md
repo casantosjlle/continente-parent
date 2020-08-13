@@ -196,7 +196,7 @@ Na parte inferior da tela constam o histórico das de todas as contingências e 
 
 ### Exportar XML
 
-O XML ou XML e DANFE são enviados automaticamente ao cliente ou fornecedor, se assim parametrizado no campo [Enviar e-mail para o participante](sistema_parametrizacao.md#emailparticipante).
+O XML ou XML e DANFE são enviados automaticamente ao cliente ou fornecedor, se assim parametrizado no campo [Enviar e-mail para o destinatario](sistema_parametrizacao.md#emaildestinatario).
 
 Além desse envio automático, os XMLs das NF-es podem ser extraídos através do menu Exportar xml, onde deve ser informado o período de emissão e o tipo de documento .Os arquivos podem ser salvos ou enviados por e-mail.
 
