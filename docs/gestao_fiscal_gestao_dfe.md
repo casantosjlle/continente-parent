@@ -38,7 +38,7 @@ O menu [Carta de Correção](gestao_fiscal_gestao_dfe.md#cartacorrecao) é habil
 
 O menu [Cancelamento](vendas_venda.md#cancelamento) é habilitado somente se selecionado um documento fiscal com status Aprovado
 
-As opções [Histórico](gestao_fiscal_gestao_dfe.md#historico), [Contingência](gestao_fiscal_gestao_dfe.md#contingencia), [Exportar XML](gestao_fiscal_gestao_dfe.md#exportarXML) e [Sincronização](gestao_fiscal_gestao_dfe.md#sincronização) ficam sempre habilitados.
+As opções [Histórico](gestao_fiscal_gestao_dfe.md#historico), [Contingência](gestao_fiscal_gestao_dfe.md#contingencia), [Exportar XML](gestao_fiscal_gestao_dfe.md#exportarxml) e [Sincronização](gestao_fiscal_gestao_dfe.md#sincronização) ficam sempre habilitados.
 
 ![](images/gestao_fiscal_gestao_dfe_pesquisa.jpg)
 
@@ -196,7 +196,7 @@ Na parte inferior da tela constam o histórico das de todas as contingências e 
 
 ### Exportar XML
 
-O XML ou XML e DANFE são enviados automaticamente ao cliente ou fornecedor, se assim parametrizado no campo [Enviar e-mail para o participante](sistema_parametrizacao.md#nfe).
+O XML ou XML e DANFE são enviados automaticamente ao cliente ou fornecedor, se assim parametrizado no campo [Enviar e-mail para o participante](sistema_parametrizacao.md#emailparticipante).
 
 Além desse envio automático, os XMLs das NF-es podem ser extraídos através do menu Exportar xml, onde deve ser informado o período de emissão e o tipo de documento .Os arquivos podem ser salvos ou enviados por e-mail.
 
