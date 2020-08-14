@@ -16,9 +16,11 @@ No cadastro da empresa deve se atentar a correta inserção dos números de regi
 
 ![](images/administracao_empresa_contador.jpg)
 
-`Autorizado no XML emitido - autXML` ao marcar este campo o CPF ou CNPJ informado será levado para o XML na tag <autXML>. Sendo assim autorizado a consulta do XML da NF-e no Portal Nacional por este CPF\CNPJ. 
+`Autorizado no XML emitido - autXML` ao marcar este campo o CPF ou CNPJ informado será levado para o XML na tag <autXML>, autorizando assim a consulta do XML da NF-e no Portal Nacional.
 
 ![](images/administracao_empresa_contador_autxml.jpg)
+
+
 
 `Receber por e-mail DF-e emitidos` ao marcar este campo o sistema fará o envio automático de um e-mail com o XML de todos os Documentos fiscais emitidos no último mês completo juntamente com um relatório de documentos emitidos no mesmo período. 
 
