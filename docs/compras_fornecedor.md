@@ -10,7 +10,7 @@
 
 Nesta tela devem ser cadastrados todos as Fornecedores que a  empresa tem e movimenta.
 
-Deve-se atentar aos campos de endereço e Inscrição estadual pois eles sairão na NF-e no caso de uma Devolução de Compra.
+Deve se atentar a correta inserção dos números de registros e endereço pois serão enviados à Sefaz por meio do documento fiscal eletrônico emitido, no caso de uma Devolução de Compra.
 
 Quando o contribuinte for ISENTO de inscrição estadual, deve-se escrever ISENTO no campo específico. Quando o contribuinte não tiver inscrição estadual deixar o campo em branco e não marcar o campo Contribuinte ICMS.
 
