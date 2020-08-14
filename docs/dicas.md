@@ -16,7 +16,7 @@ Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização d
 
 Essa é uma daquelas ferramentas aliadas, principalmente para abrir aquelas telas que não são usadas no dia-a -dia e que não estão no seu menu de favoritos.  
 
-Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, basta digitar parcialmente o nome e não  é necessário direcionar o cursor dentro da barra, quando estiver no meu principal basta digitar em qualquer lugar da tela que o cursor será automaticamente direcionado para barra.
+Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, basta digitar parcialmente o nome e não  é necessário direcionar o cursor dentro da barra, quando estiver no menu principal basta digitar em qualquer lugar da tela que o cursor será automaticamente direcionado para barra.
 
 ![](images/dicas_busca.gif)
 
@@ -24,7 +24,7 @@ Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, bas
 
 #### Favoritos
 
-Essa é outra funcionalidade mão-na-roda do Continente Nuvem, na lateral esquerda da tela, ao clicar na logo do continente, a barra de Menu lateral é aberta, com todas as opções do de Menu que o usuário tem acesso. Ao clicar na estrela no início do menu, ele entra para o menu de favoritos e o acesso estará disponível na tela principal.
+Essa é outra funcionalidade mão-na-roda do Continente Nuvem, na lateral esquerda da tela, ao clicar na logo do continente, a barra de Menu lateral é aberta, com todas as opções do Menu que o usuário tem acesso. Ao clicar na estrela no início do menu, ele entra para o menu de favoritos e o acesso estará disponível na tela principal.
 
 ![](images/dicas_favoritos.gif)
 
@@ -40,7 +40,7 @@ Marcar todos os registros é muito mais rápido através do atalho `Ctrl+A`
 
 #### Abas
 
-Através do atalho `F8 `  em todas as telas você passar as abas sem precisar usar o mouse.
+Através do atalho `F8 `  em todas as telas você passa as abas sem precisar usar o mouse.
 
  ![](images/dicas_abas.gif)
 
@@ -58,7 +58,7 @@ Para inserção no sistema:
 
 `o` preenche a data de ontem
 
-`a` preencher a data de amanhã
+`a` preenche a data de amanhã
 
 
 
