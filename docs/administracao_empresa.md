@@ -31,3 +31,7 @@ O e-mail será enviado para o endereço informado no campo e-mail as 00:00h do d
 Os e-mails enviados podem ser consultados através da tela de pesquisa de e-mails enviados, no menu administração.
 
 Para este caso, pode-se filtrar pela origem "" pelo endereço de e-mail do destinatário.
+
+
+
+[Voltar](administracao.md)
