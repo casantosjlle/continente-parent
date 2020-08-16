@@ -38,11 +38,9 @@ Deve-se atentar para que se não houver e-mail parametrizado como NFE no cadastr
 
 ![](images/sistema_parametrizacao_nfe_emailparticipante.jpg)
 
-Os e-mails enviados podem ser consultados através da tela de pesquisa de e-mails enviados, no menu administração.
+Os e-mails enviados podem ser consultados através da tela de [Histórico e-mail enviado](administracao_historico_email_enviado.md) no menu Administração. Os e-mails enviados automaticamente na autorização da NF-e tem Origem "NF-e Autorizada". A pesquisa pode ser feita ainda pelo endereço de e-mail do destinatário ou até mesmo pelo número da NF-e no campo assunto:
 
-Para este caso, pode-se filtrar pela origem "NF-e Autorizada" pelo endereço de e-mail do destinatário ou até mesmo pelo número da NF-e no campo assunto:
-
-![](images/sistema_parametrizacoes_pesquisa_emails_enviados.jpg)
+![](images/sistema_parametrizacao_pesquisa_email_enviado.jpg)
 
 {: #nfce}
 

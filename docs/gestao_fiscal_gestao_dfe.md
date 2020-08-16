@@ -202,6 +202,10 @@ Além desse envio automático, os XMLs das NF-es podem ser extraídos através d
 
 ![](images/gestao_fiscal_gestao_dfe_exportar_xml.jpg)
 
+Os e-mails enviados podem ser consultados através da tela de [Histórico e-mail enviado](administracao_historico_email_enviado.md) no menu Administração. Os e-mails enviados pelo processo de Exportar XML tem Origem "Anexo com NF-e". A pesquisa pode ser feita ainda pelo endereço de e-mail do destinatário ou pelo assunto:
+
+![](images/gestao_fiscal_gestao_dfe_historico_email_enviado.jpg)
+
 {: #sincronizacao}
 
 ### Sincronização

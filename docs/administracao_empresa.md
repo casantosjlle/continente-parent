@@ -26,11 +26,9 @@ No cadastro da empresa deve se atentar a correta inserção dos números de regi
 
 O e-mail será enviado para o endereço informado no campo e-mail as 00:00h do dia parametrizado no campo`Todo dia` .
 
+Os e-mails enviados podem ser consultados através da tela de [Histórico e-mail enviado](administracao_historico_email_enviado.md) no menu Administração. Os e-mails enviados pelo processo de Envio automático ao Contador tem Origem "Anexo com NF-e". A pesquisa pode ser feita ainda pelo endereço de e-mail do destinatário ou pelo assunto:
 
-
-Os e-mails enviados podem ser consultados através da tela de pesquisa de e-mails enviados, no menu administração.
-
-Para este caso, pode-se filtrar pela origem "" pelo endereço de e-mail do destinatário.
+![](C:/Users/carin/Documents/GitHub/continente-parent/docs/images/gestao_fiscal_gestao_dfe_historico_email_enviado.jpg)
 
 
 
