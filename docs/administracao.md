@@ -10,8 +10,6 @@ Neste menu são encontrados todos os acessos necessários para as atividades de 
 
 |[Empresa](administracao_empresa.md)
 
-|[Funcionário](administracao_funcionario.md)
-
 |[Histórico e-mail enviado](administracao_historico_email_enviado.md)
 
 |[Período](administracao_periodo.md)
