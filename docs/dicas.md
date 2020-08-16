@@ -8,7 +8,7 @@
 
 ## Dicas de Usabilidade 
 
-Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização do Continente Nuvem. Não esqueça de entrar aqui sempre pois estamos constantemente melhorando a usabilidade do CN.
+Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização do Continente Nuvem. Acompanhe nossas atualizações pois estamos constantemente melhorando a usabilidade do CN.
 
 
 
