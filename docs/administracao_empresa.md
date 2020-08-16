@@ -16,6 +16,8 @@ No cadastro da empresa deve se atentar a correta inserção dos números de regi
 
 ![](images/administracao_empresa_contador.jpg)
 
+{: #autxml}
+
 ##### Autorizado no XML emitido - autXML
 
  Ao marcar este campo o CPF ou CNPJ informado será levado para o XML na tag <autXML>, autorizando assim a consulta do XML da NF-e no Portal Nacional.
@@ -23,6 +25,8 @@ No cadastro da empresa deve se atentar a correta inserção dos números de regi
 ![](images/administracao_empresa_contador_autxml.jpg)
 
 
+
+{: #emailcontador}
 
 ##### Receber por e-mail DF-e emitidos 
 
