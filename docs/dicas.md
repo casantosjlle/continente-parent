@@ -78,7 +78,11 @@ Para consulta de data, Campo De Até:
 
 #### Pesquisa parcial
 
-Todos os campos de pesquisa funcionam por partes fracionadas das palavras, ou, seja o sistema busca por registros que contenham em qualquer parte o registro pesquisado,
+Todos os campos de pesquisa funcionam por partes fracionadas das palavras, ou, seja o sistema busca por registros que contenham em qualquer parte o registro pesquisado. 
+
+Para buscar um valor exato, o valor deve ser inserido entre aspas simples , exemplo '123'.
+
+
 
  ![](images/dicas_pesquisa_parcial.jpg)
 
