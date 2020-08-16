@@ -2,7 +2,7 @@
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
-{: #usuário}
+{: #usuario}
 
 ### Usuário
 
@@ -13,3 +13,7 @@ Através do botão `Mais` ou clicando com o botão inverso do mouse é possível
 
 
 ![](images/administracao_usuario.jpg)
+
+
+
+[Voltar](administracao.md)
