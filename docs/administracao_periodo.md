@@ -28,35 +28,39 @@ A cada movimentação de entrada de um produto no estoque, o sistema realizará 
 
 As movimentações de entrada contempladas são:
 
-Lançamento manual de compra: onde o custo será o Valor dos produtos +Frete+Seguro+ICMS ST+IPI
+Lançamento manual de compra: o custo será o Valor dos produtos +Frete+Seguro+ICMS ST+IPI
 
-Lançamento manual de entrada via Movimentação manual de estoque:, onde o custo será o custo total informado manualmente.
+Lançamento manual de entrada via Movimentação manual de estoque: o custo será o custo total informado manualmente.
 
 ###### *Fórmula:* 
 
-![](images/administracao_periodo_custo_medio_formula.jpg)
+*Custo médio: (Custo total da entrada + Valor do estoque anterior) / (Quantidade da entrada + Saldo de estoque anterior)*
 
-
-
-###### *Registro de estoque:*
-
-![](images/administracao_gerenciamento_periodo_registro_estoque.jpg)
-
-
+​                          
 
 ##### Onde é usado?
 
-É com base no custo médio de cada produto que será executada a transação e contabilização de estoque na Venda. 
+É com base no custo médio de cada produto que será executada a transação e contabilização de estoque na Venda, essa forma de análise é chamada de custo médio ponderado móvel, ou seja, o custo de cada venda, varia a cada alteração no inventário.
 
-###### *Exemplo:*  
+###### *Registro de estoque:*
 
-Vamos analisar a primeira venda executada no exemplo de registro de estoque, onde o produto tem um custo médio de R$5,13 e quantidade vendida foi 300.  Vamos exemplificar com um preço de venda unitário de R$9,50. 
+Abaixo um exemplo de registro de estoque executado pelo custo médio ponderado móvel:
+
+![](images/administracao_gerenciamento_periodo_registro_estoque.jpg)
+
+Pode-se observar que na Venda executada no dia 03/07/2020 a mercadoria saiu do estoque já com o custo médio.
+
+Aplicando a fórmula temos:
+
+​                                            Custo médio: 900,00 + 5000,00 / 150+1000 = 5,13
+
+##### Analisando as transações no CN
+
+Vamos analisar a venda executada no exemplo de registro de estoque, onde o produto tem um custo médio de R$5,13 e quantidade vendida foi 300.  
 
 A transação de saída de estoque será de R$1539,00, que é R$5,13 x 300.
 
 ![](images/administracao_gerenciamento_periodo_transacoes_estoque.jpg)
-
-
 
 A contabilização do estoque na venda será do mesmo valor da transação do estoque, onde teremos então:
 
@@ -66,18 +70,8 @@ A contabilização do estoque na venda será do mesmo valor da transação do es
 
 ![](images/administracao_gerenciamento_periodo_lancamento_contabil.jpg)
 
-
-
-Já a receita de venda será contabilizada de acordo com o preço de venda aplicado, que é R$9,15 x 300.
-
-Contabilização da Receita:   C- Receita de Venda   R$2850,00 
-
-​                                                  D- Duplicatas a Receber  R$2850,00
+​                                    
 
 
 
 [Voltar](administracao.md)
-
-
-
-##### 
