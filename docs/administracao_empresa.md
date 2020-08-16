@@ -8,8 +8,6 @@
 
 No cadastro da empresa deve se atentar a correta inserção dos números de registros e endereço pois serão enviados à Sefaz por meio do documento fiscal eletrônico emitido.
 
-![](images/administracao_empresa.jpg)
-
 {: #dadoscontador}
 
 #### Dados do Contador
