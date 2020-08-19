@@ -135,9 +135,11 @@ Nesta tela  é possível imprimir o comprovante do recebimento. O formato do com
 
 #### Contas à Receber e Recebidos
 
-Neste relatório podem ser filtradas todas as parcelas a Receber ou já pagas. Antes da emissão do relatório é possível inserir uma série de filtros que o ajudarão no gerenciamento das informações.
+Neste relatório podem ser filtradas todas as parcelas à receber ou já recebidas. Antes da emissão do relatório é possível inserir uma série de filtros que o ajudarão no gerenciamento das informações.
 
 ![](images/financeiro_contas_receber_relatorio.jpg)
+
+
 
 [Voltar](financeiro.md#financeirocontasreceber)
 
