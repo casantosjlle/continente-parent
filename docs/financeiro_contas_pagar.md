@@ -13,7 +13,9 @@ Nesta tela estão disponíveis as parcelas à pagar provenientes das compras que
 ##### Status
 
 - Vencido: Parcela que está em aberto dentro do prazo de vencimento.
+
 - À vencer: Parcela que está em aberto e já passou o vencimento.
+
 - Pago: Parcela que já foi paga ou liquidada.
 
 - Cancelado: Quando a compra que originou a parcela foi [revertida](compras_compra.md#reversao).
@@ -36,7 +38,7 @@ Esses valores serão contabilizados conforme conta contábil parametrizada nos [
 
 ##### Desconto
 
-Quando necessário pode ser inclusos clicando diretamente no campo específico na linha na grade o valor do desconto. Esse valor de desconto, assim como os valores de juros e multa, e salvo temporariamente, apenas para que seja feito o pagamento da parcela, assim que a tela do Contas à Pagar for fechada e reaberta os valores são zerados.
+Quando necessário, o valor de desconto obtido, pode ser incluso clicando diretamente no campo específico na linha na grade. Esse valor de desconto, assim como os valores de juros e multa, e salvo temporariamente, apenas para que seja feito o pagamento da parcela, assim que a tela do Contas à Pagar for fechada e reaberta os valores são zerados.
 
 Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
 
