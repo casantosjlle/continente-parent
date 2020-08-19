@@ -1,8 +1,6 @@
-[Início](index.md) / [Financeiro](financeiro.md) /  [Contas à Pagar](financeiro.md#financeirocontaspagar) / Contas à Pagar
+- [Início](index.md) / [Financeiro](financeiro.md) /  [Contas à Pagar](financeiro.md#financeirocontaspagar) / Contas à Pagar
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
-
-
 
 {: #contaspagar}
 
@@ -14,13 +12,13 @@ Nesta tela estão disponíveis as parcelas à pagar provenientes das compras que
 
 - À vencer: Parcela que está em aberto dentro do prazo de vencimento.
 
--  Vencido: Parcela que está em aberto e já passou o vencimento.
+- Vencido: Parcela que está em aberto e já passou o vencimento.
 
--  Pago: Parcela que já foi paga ou liquidada.
+- Pago: Parcela que já foi paga ou liquidada.
 
 - Cancelado: Quando a compra que originou a parcela foi [revertida](compras_compra.md#reversao).
 
-   Revertido: Parcelas que foram pagas e depois o pagamento foi revertido. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original.
+- Revertido: Parcelas que foram pagas e depois o pagamento foi revertido. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original.
 
 {: #jurosemulta}
 
@@ -96,15 +94,11 @@ Após o faturamento o histórico de abatimentos e saldo de crédito para o forne
 
 {: #reverterpagamento}
 
-#### Reveter Pagamento
+#### Reverter Pagamento
 
 Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil.
 
-Se duas parcelas foram recebidas juntas, as duas são revertidas.
-
-
-
-Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original
+Se duas parcelas foram recebidas juntas, as duas são revertidas. Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original
 
 
 
