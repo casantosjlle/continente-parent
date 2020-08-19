@@ -1,4 +1,4 @@
-- [Início](index.md) / [Financeiro](financeiro.md) /  [Contas à Pagar](financeiro.md#financeirocontaspagar) / Contas à Pagar
+[Início](index.md) / [Financeiro](financeiro.md) /  [Contas à Pagar](financeiro.md#financeirocontaspagar) / Contas à Pagar
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
@@ -16,13 +16,13 @@ Nesta tela estão disponíveis as parcelas à pagar provenientes das compras que
 
 -  Vencido: Parcela que está em aberto e já passou o vencimento.
 
-- Pago: Parcela que já foi paga ou liquidada.
+-  Pago: Parcela que já foi paga ou liquidada.
 
 - Cancelado: Quando a compra que originou a parcela foi [revertida](compras_compra.md#reversao).
 
-- Revertido: Parcelas que foram pagas e depois o pagamento foi revertido. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original.
+   Revertido: Parcelas que foram pagas e depois o pagamento foi revertido. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original.
 
-   {: #jurosemulta}
+{: #jurosemulta}
 
 ##### Juros e Multa
 
