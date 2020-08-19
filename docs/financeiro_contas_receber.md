@@ -12,8 +12,8 @@ Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como cr
 
 ##### Status: 
 
-- Vencido: Parcela que está em aberto dentro do prazo de vencimento.
-- À vencer: Parcela que está em aberto e já passou o vencimento.
+- À vencer: Parcela que está em aberto dentro do prazo de vencimento.
+- Vencido: Parcela que está em aberto e já passou o vencimento.
 - Recebido: Parcela que já foi recebida ou liquidada.
 - Cancelado: Parcelas oriundas de Vendas que foram canceladas.
 - Revertido: Parcelas que foram recebidas e depois o recebimento foi revertido. Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original.

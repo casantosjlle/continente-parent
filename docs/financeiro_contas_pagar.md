@@ -12,9 +12,9 @@ Nesta tela estão disponíveis as parcelas à pagar provenientes das compras que
 
 ##### Status
 
-- Vencido: Parcela que está em aberto dentro do prazo de vencimento.
+- À vencer: Parcela que está em aberto dentro do prazo de vencimento.
 
-- À vencer: Parcela que está em aberto e já passou o vencimento.
+-  Vencido: Parcela que está em aberto e já passou o vencimento.
 
 - Pago: Parcela que já foi paga ou liquidada.
 
