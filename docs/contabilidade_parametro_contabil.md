@@ -45,13 +45,13 @@
 
   Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de estoque
 
-  ![](images/contabilidade_parametro_contabil_estoque_motivo2.jpg)
+  ![](images/contabilidade_parametro_contabil_estoque_motivo.jpg)
 
   
 
   ficará visível também nos Parâmetros contábeis e vice-versa.
 
-  ![](images/contabilidade_parametro_contabil_estoque_motivo.jpg)
+  ![](images/contabilidade_parametro_contabil_estoque_motivo2.jpg)
 
 
 
@@ -65,15 +65,13 @@
 
 ![](images/contabilidade_parametro_contabil_contas_pagar.jpg)
 
-- Cartão corporativo: onde é lançado as compras feitas em cartão de crédito corporativo. Exemplo:
+- Cartão corporativo: onde é lançado as compras feitas em cartão de crédito corporativo. Conta Contábil do Passivo Circulante.
 
-  ![](images/contabilidade_parametro_contabil_contas_pagar_cartao.jpg)
-
-- Fornecedor: onde é lançado os valores à pagar para fornecedores, Conta Contábil do Passivo Circulante.
-
+- Fornecedor: onde é lançado os valores à pagar para fornecedores. Conta Contábil do Passivo Circulante.
 - Multa pago: onde é lançado os valores de multa pagos para fornecedores. Conta Contábil de Resultado (Despesa).
-
 - Juros pago: onde é lançado os valores de juros pagos para fornecedores. Conta Contábil de Resultado (Despesa) 
+- Mov. manual de cartão corp: onde é lançado as transações feitas pela movimentação manual no processo de Conciliação de Cartão Corporativo. Cada motivo de Movimentação manual deve ser amarrado há uma conta contábil. Essa parametrização poder ser feita diretamente no cadastro do motivo ou nos Parâmetros Contábeis.
+- Desconto Obtido: onde é lançado os valores de desconto obtidos no pagamento de uma parcela no Contas à Pagar. Conta Contábil de Resultado-Receitas.
 
 
 
@@ -126,6 +124,8 @@
   Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de banco
 
   ![](images/contabilidade_parametro_contabil_banco_cadastro.jpg)
+
+  
 
   ficará visível também nos Parâmetros contábeis e vice-versa.
 
