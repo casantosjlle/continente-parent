@@ -15,7 +15,6 @@ Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como cr
 - Vencido: Parcela que está em aberto dentro do prazo de vencimento.
 - À vencer: Parcela que está em aberto e já passou o vencimento.
 - Recebido: Parcela que já foi recebida ou liquidada.
-
 - Cancelado: Parcelas oriundas de Vendas que foram canceladas.
 - Revertido: Parcelas que foram recebidas e depois o recebimento foi revertido. Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original.
 
@@ -39,15 +38,15 @@ Se editados, os valores de juros, multa e desconto são salvos temporariamente, 
 
 ### Processos
 
-Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao Contas à Receber e também a impressão dos Tickets e relatórios.
+Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao Contas à Receber e também à impressão dos Tickets e relatórios.
 
 O menu [Receber todas as marcadas](financeiro_contas_receber.md#receber) é habilitado somente se marcado uma parcela com status À vencer ou vencido.
 
 O menu [Desconto Total](financeiro_contas_receber.md#descontototal) é habilitado somente se selecionada uma ou mais parcelas com status À vencer ou vencido.
 
-O menu [Reagendar Vencimento](financeiro_contas_recebimento.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
+O menu [Reagendar Vencimento](financeiro_contas_receber.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
 
-O menu [Reverter Recebimento](financeiro_contas_recebimento.md#reversao) é habilitado somente se marcado uma parcela com status Recebido.
+O menu [Reverter Recebimento](financeiro_contas_receber.md#reversao) é habilitado somente se marcado uma parcela com status Recebido.
 
 
 
@@ -106,7 +105,7 @@ Uma vez alterado o vencimento, essa nova informação é salva permanentemente.
 
 #### Reverter Recebimento
 
-Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil.
+Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil. A Reversão será realizada com a data que se está fazendo a reversão.
 
 Se duas parcelas foram recebidas juntas, as duas são revertidas.
 
