@@ -1,4 +1,4 @@
-[Início](index.md) / [Financeiro](financeiro.md) /  [Contas à Pagar](financeiro.md#financeirocontaspagar) / Contas à Pagar
+- [Início](index.md) / [Financeiro](financeiro.md) /  [Contas à Pagar](financeiro.md#financeirocontaspagar) / Contas à Pagar
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
@@ -8,27 +8,23 @@
 
 ### Contas à Pagar
 
-Nesta tela estão disponíveis as parcelas à pagar que foram faturadas como [parcelamento](compras_compra.md#faturamento).
+Nesta tela estão disponíveis as parcelas à pagar provenientes das compras que foram faturadas como [parcelamento](compras_compra.md#faturamento).
 
-Status: Cancelado: Quando a compra que originou a parcela foi [revertida](compras_compra.md#reversao).
+##### Status
 
-​    
+- Vencido: Parcela que está em aberto dentro do prazo de vencimento.
+- À vencer: Parcela que está em aberto e já passou o vencimento.
+- Pago: Parcela que já foi paga ou liquidada.
 
-{: #reagendarvencimento}
+- Cancelado: Quando a compra que originou a parcela foi [revertida](compras_compra.md#reversao).
 
-#### Reagendar vencimento
+- Revertido: Parcelas que foram pagas e depois o pagamento foi revertido. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original.
 
-Clicando com botão inverso em cima da parcela,  ou no botão `Mais`  pode-se reagendar o vencimento da fatura.
+   {: #jurosemulta}
 
-![](images/financeiro_contas_pagar_vencimento.jpg)
+##### Juros e Multa
 
-
-
-{: #jurosemulta}
-
-#### Juros e Multa
-
-O juros e multa **não** são calculados pelo sistema, quando necessário podem ser inclusos clicando diretamente no campo específico na linha na grade. Esses  valores de juros e multa são salvos temporariamente, apenas para que seja feito o pagamento da parcela, assim que a tela do Contas à Pagar for fechado e reaberto os valores são zerarados.
+O juros e multa **não** são calculados pelo sistema, quando necessário podem ser inclusos clicando diretamente no campo específico na linha na grade. Esses  valores de juros e multa são salvos temporariamente, apenas para que seja feito o pagamento da parcela, assim que a tela do Contas à Pagar for fechada e reaberta os valores são zerados.
 
 Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
 
@@ -36,15 +32,41 @@ Esses valores serão contabilizados conforme conta contábil parametrizada nos [
 
 
 
+   {: #desconto}
+
+##### Desconto
+
+Quando necessário pode ser inclusos clicando diretamente no campo específico na linha na grade o valor do desconto. Esse valor de desconto, assim como os valores de juros e multa, e salvo temporariamente, apenas para que seja feito o pagamento da parcela, assim que a tela do Contas à Pagar for fechada e reaberta os valores são zerados.
+
+Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
+
+#### Processos
+
+Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao Contas à Pagar e também a impressão dos Tickets e relatórios.
+
+O menu [Reagendar Vencimento](financeiro_contas_pagar.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
+
+O menu [Pagar todas as marcadas](financeiro_contas_pagar.md#pagamento) é habilitado somente se marcado uma parcela com status À vencer ou vencido.
+
+O menu [Reverter Pagamento](financeiro_contas_pagar.md#reverterpagamento) é habilitado somente se marcado uma parcela com status Pago.
+
+
+
+{: #reagendarvencimento}
+
+#### Reagendar vencimento
+
+A alteração do vencimento é feito por parcela de maneira definitiva, ao alterar a data de vencimento o sistema irá gravar essa nova data.
+
+![](images/financeiro_contas_pagar_vencimento.jpg)
+
+
+
 {: #pagamento}
 
-#### Pagamento
+#### Pagar todas as marcadas
 
-Clicando com botão inverso,  ou no botão `Mais` no lado inferior direito da tela, ou ainda através dos atalhos  `Ctrl+P` pode-se fazer o pagamento das parcelas selecionadas.
-
-![](images/financeiro_contas_pagar_pagamento.jpg)
-
-Os valores informados são sumarizados nos totalizadores no final da tela.  Os valores informados podem ser removidos através do botão Remover no final de cada condição de pagamento.
+O valor das parcelas selecionadas é sumarizado nos totalizadores no final da tela.  Os valores informados por condição de pagamento podem ser removidos através do botão Remover no final de cada condição de pagamento.
 
 *Dinheiro:* Esta forma de pagamento só fica disponível se houver um Caixa aberto para o usuário que está fazendo o pagamento e se no cadastro do caixa estiver parametrizado para fazer pagamento em Dinheiro.
 
@@ -65,6 +87,26 @@ Os valores informados são sumarizados nos totalizadores no final da tela.  Os v
 Após o faturamento o histórico de abatimentos e saldo de crédito para o fornecedor pode ser visto diretamente no [menu crédito no cadastro do fornecedor](compras_fornecedor.md#credito).
 
 ![](images/compras_compra_faturamento_pagamento_credito.jpg)
+
+
+
+
+
+{: #reverterpagamento}
+
+#### Reveter Pagamento
+
+Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil.
+
+Se duas parcelas foram recebidas juntas, as duas são revertidas.
+
+
+
+Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original
+
+
+
+
 
 
 
