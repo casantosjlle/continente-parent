@@ -1,4 +1,4 @@
-- [Início](index.md) / [Financeiro](financeiro.md) / Contas à Pagar
+[Início](index.md) / [Financeiro](financeiro.md) / Contas à Pagar
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
@@ -40,9 +40,9 @@ Esses valores serão contabilizados conforme conta contábil parametrizada nos [
 
 ### Mais
 
-##### Processos
-
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao Contas à Pagar e também a impressão dos Tickets e relatórios.
+
+##### Processos
 
 O menu [Reagendar Vencimento](financeiro_contas_pagar.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
 
