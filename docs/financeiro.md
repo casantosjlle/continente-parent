@@ -26,9 +26,15 @@ Para o Contas à Pagar, estão disponíveis as opções:
 
 
 
+
+
 {: #financeirocontasreceber}
 
+
+
 Para o Contas à Receber, estão disponíveis as opções:
+
+
 
 |[Administradora de Cartão](financeiro_administradora_cartao.md)
 

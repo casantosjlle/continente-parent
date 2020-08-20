@@ -38,17 +38,16 @@ Quando necessário, o valor de desconto obtido, pode ser incluso clicando direta
 
 Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
 
-### Mais
+### Mais 
 
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao Contas à Pagar e também a impressão dos Tickets e relatórios.
 
 ##### Processos
 
-O menu [Reagendar Vencimento](financeiro_contas_pagar.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
+[Reagendar Vencimento](financeiro_contas_pagar.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
+[Pagar todas as marcadas](financeiro_contas_pagar.md#pagamento) é habilitado somente se marcado uma parcela com status À vencer ou vencido.
 
-O menu [Pagar todas as marcadas](financeiro_contas_pagar.md#pagamento) é habilitado somente se marcado uma parcela com status À vencer ou vencido.
-
-O menu [Reverter Pagamento](financeiro_contas_pagar.md#reverterpagamento) é habilitado somente se marcado uma parcela com status Pago.
+[Reverter Pagamento](financeiro_contas_pagar.md#reverterpagamento) é habilitado somente se marcado uma parcela com status Pago.
 
 ##### Relatórios
 
