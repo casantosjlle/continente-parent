@@ -13,7 +13,7 @@ Nesta tela estão disponíveis as parcelas à pagar provenientes das compras que
 - À vencer: Parcela que está em aberto dentro do prazo de vencimento.
 - Vencido: Parcela que está em aberto e já passou o vencimento.
 - Pago: Parcela que já foi paga ou liquidada.
-- Cancelado: Quando a compra que originou a parcela foi [revertida](compras_compra.md#reversao).
+- Cancelado: Quando a compra que originou a parcela foi revertida.
 - Revertido: Parcelas que foram pagas e depois o pagamento foi revertido. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original.
 
 {: #jurosemulta}
