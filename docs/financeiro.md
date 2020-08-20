@@ -6,7 +6,7 @@
 
 {: #financeiro}
 
-### Financeiro
+## Financeiro
 
 Neste menu são encontrados todos os acessos necessários para as atividades do contas à Pagar, contas à Receber e o gerenciamento de contas bancárias.
 
@@ -14,7 +14,7 @@ Neste menu são encontrados todos os acessos necessários para as atividades do 
 
 {: #financeirocontaspagar}
 
-Para o Contas à Pagar, estão disponíveis as opções:
+### Contas à Pagar
 
 |[Cartão Corporativo](financeiro_cartao_corporativo.md) 
 
@@ -30,11 +30,7 @@ Para o Contas à Pagar, estão disponíveis as opções:
 
 {: #financeirocontasreceber}
 
-
-
-Para o Contas à Receber, estão disponíveis as opções:
-
-
+### Contas à Receber
 
 |[Administradora de Cartão](financeiro_administradora_cartao.md)
 
@@ -46,7 +42,7 @@ Para o Contas à Receber, estão disponíveis as opções:
 
 {: #financeirobanco}
 
-Para o Gerenciamento de Contas Bancárias, estão disponíveis as opções:
+### Bancos
 
 |[Conta Bancária](financeiro_conta_bancaria.md)
 
