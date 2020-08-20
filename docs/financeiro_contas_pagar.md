@@ -11,13 +11,9 @@ Nesta tela estão disponíveis as parcelas à pagar provenientes das compras que
 ##### Status
 
 - À vencer: Parcela que está em aberto dentro do prazo de vencimento.
-
 - Vencido: Parcela que está em aberto e já passou o vencimento.
-
 - Pago: Parcela que já foi paga ou liquidada.
-
 - Cancelado: Quando a compra que originou a parcela foi [revertida](compras_compra.md#reversao).
-
 - Revertido: Parcelas que foram pagas e depois o pagamento foi revertido. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original.
 
 {: #jurosemulta}
@@ -86,7 +82,7 @@ O valor das parcelas selecionadas é sumarizado nos totalizadores no final da te
 
 Após o faturamento o histórico de abatimentos e saldo de crédito para o fornecedor pode ser visto diretamente no [menu crédito no cadastro do fornecedor](compras_fornecedor.md#credito).
 
-![](images/compras_compra_faturamento_pagamento_credito.jpg)
+![](images/financeiro_contas_pagar_credito.jpg)
 
 
 
@@ -96,9 +92,9 @@ Após o faturamento o histórico de abatimentos e saldo de crédito para o forne
 
 #### Reverter Pagamento
 
-Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil.
+Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do pagamento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil.
 
-Se duas parcelas foram recebidas juntas, as duas são revertidas. Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original
+As parcelas serão revertidas conforme o pagamento, ou seja, se foram pagas duas parcelas juntas, as duas serão revertidas. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original
 
 
 
