@@ -4,9 +4,11 @@
 
 {: #contaspagar}
 
-### Contas à Pagar
+## Contas à Pagar
 
-Nesta tela estão disponíveis as parcelas à pagar provenientes das compras que foram faturadas como [parcelamento](compras_compra.md#faturamento).
+### Pesquisa
+
+Nesta tela estão disponíveis as parcelas à pagar decorrentes do faturamentos como [parcelamento](compras_compra.md#faturamento).
 
 ##### Status
 
@@ -24,7 +26,7 @@ O juros e multa **não** são calculados pelo sistema, quando necessário podem 
 
 Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
 
-![](images/financeiro_contas_pagar_juros_multa.jpg)
+##### ![](images/financeiro_contas_pagar_juros_multa.jpg)
 
 
 
@@ -36,7 +38,9 @@ Quando necessário, o valor de desconto obtido, pode ser incluso clicando direta
 
 Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
 
-### Processos
+### Mais
+
+##### Processos
 
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao Contas à Pagar e também a impressão dos Tickets e relatórios.
 
@@ -46,7 +50,13 @@ O menu [Pagar todas as marcadas](financeiro_contas_pagar.md#pagamento) é habili
 
 O menu [Reverter Pagamento](financeiro_contas_pagar.md#reverterpagamento) é habilitado somente se marcado uma parcela com status Pago.
 
+##### Relatórios
 
+[Contas à Pagar e Pagos](financeiro_contas_pagar.md#contaspagarepagos) é um relatório que detalha todas as parcelas, tanto as em aberto quanto as já liquidadas.
+
+
+
+### Processos
 
 {: #reagendarvencimento}
 
@@ -98,6 +108,14 @@ Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a r
 As parcelas serão revertidas conforme o pagamento, ou seja, se foram pagas duas parcelas juntas, as duas serão revertidas. Ao reverter o pagamento o sistema atualiza o status que antes estava Pago para Revertido e gera um novo título em aberto igual ao original
 
 
+
+#### Relatórios
+
+#### Contas à Pagar e Pagos
+
+Neste relatório podem ser filtradas todas as parcelas à pagar e pagas. Antes da emissão do relatório é possível inserir uma série de filtros que o ajudarão no gerenciamento das informações.
+
+![](images/financeiro_contas_pagar_relatorio.jpg)
 
 
 
