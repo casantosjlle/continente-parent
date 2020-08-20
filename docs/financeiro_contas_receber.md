@@ -1,4 +1,4 @@
-[Início](index.md) / [Financeiro](financeiro.md) /  [Contas à Receber](financeiro.md#financeirocontasreceber) / Contas à Receber
+[Início](index.md) / [Financeiro](financeiro.md) / Contas à Receber
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
