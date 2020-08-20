@@ -6,9 +6,11 @@
 
 {: #contasreceber}
 
-### Contas à Receber
+## Contas à Receber
 
-Nesta tela estão disponíveis as parcelas a Receber que foram faturadas como crediário ou cheque.
+### Pesquisa
+
+Nesta tela estão disponíveis as parcelas a receber, que são decorrentes de faturamento como crediário ou cheque.
 
 ##### Status: 
 
@@ -36,19 +38,29 @@ Se editados, os valores de juros, multa e desconto são salvos temporariamente, 
 
 
 
-### Processos
+### Mais
 
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao Contas à Receber e também à impressão dos Tickets e relatórios.
 
-O menu [Receber todas as marcadas](financeiro_contas_receber.md#receber) é habilitado somente se marcado uma parcela com status À vencer ou vencido.
+##### Processos
 
-O menu [Desconto Total](financeiro_contas_receber.md#descontototal) é habilitado somente se selecionada uma ou mais parcelas com status À vencer ou vencido.
+[Receber todas as marcadas](financeiro_contas_receber.md#receber) é habilitado somente se marcado uma parcela com status À vencer ou vencido.
 
-O menu [Reagendar Vencimento](financeiro_contas_receber.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
+[Desconto Total](financeiro_contas_receber.md#descontototal) é habilitado somente se selecionada uma ou mais parcelas com status À vencer ou vencido.
 
-O menu [Reverter Recebimento](financeiro_contas_receber.md#reversao) é habilitado somente se marcado uma parcela com status Recebido.
+[Reagendar Vencimento](financeiro_contas_receber.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
+
+[Reverter Recebimento](financeiro_contas_receber.md#reversao) é habilitado somente se marcado uma parcela com status Recebido.
+
+##### Relatórios
+
+[Comprovante](financeiro_contas_receber.md#comprovante) é o ticket de que detalha o recebimento das parcelas.
+
+[Contas à Receber e Recebidos](financeiro_contas_receber.md#contasreceberrecebidos) é um relatório que detalha todas as parcelas, tanto as em aberto quanto as já liquidadas.
 
 
+
+### Processos
 
 {: #receber}
 
