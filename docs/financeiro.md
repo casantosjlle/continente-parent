@@ -26,8 +26,6 @@ Neste menu são encontrados todos os acessos necessários para as atividades do 
 
 
 
-
-
 {: #financeirocontasreceber}
 
 ### Contas à Receber
@@ -48,7 +46,7 @@ Neste menu são encontrados todos os acessos necessários para as atividades do 
 
 |[Motivo Movimentação Manual de Banco](financeiro_motivo_movimentacao_manual_banco.md)
 
-
+<p>
 
 [Voltar](index.md)
 
