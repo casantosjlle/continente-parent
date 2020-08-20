@@ -4,13 +4,13 @@
 
 {: #contaspagar}
 
-## Contas à Pagar
+<span style="margin-botton:5px;font-weight:bold;font-size:2.0em;color:black">Contas à Pagar</span>
 
-### Pesquisa
+<span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:black">Pesquisa</span>
 
 Nesta tela estão disponíveis as parcelas à pagar decorrentes do faturamentos como [parcelamento](compras_compra.md#faturamento).
 
-##### Status
+<span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:black">Status</span>
 
 - À vencer: Parcela que está em aberto dentro do prazo de vencimento.
 - Vencido: Parcela que está em aberto e já passou o vencimento.
