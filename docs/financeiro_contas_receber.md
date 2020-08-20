@@ -44,9 +44,12 @@ Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os pr
 
 ##### Processos
 
-[Receber todas as marcadas](financeiro_contas_receber.md#receber) é habilitado somente se marcado uma parcela com status À vencer ou vencido.
+[Receber todas as marcadas](financeiro_contas_receber.md#receber) é habilitado somente se marcado uma ou mais parcelas com status À vencer ou vencido.
+
 [Desconto Total](financeiro_contas_receber.md#descontototal) é habilitado somente se selecionada uma ou mais parcelas com status À vencer ou vencido.
+
 [Reagendar Vencimento](financeiro_contas_receber.md#reagendarvencimento) é habilitado somente se selecionado uma parcela com status À vencer ou vencido.
+
 [Reverter Recebimento](financeiro_contas_receber.md#reversao) é habilitado somente se marcado uma parcela com status Recebido.
 
 ##### Relatórios
