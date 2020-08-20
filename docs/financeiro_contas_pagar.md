@@ -10,7 +10,7 @@
 
 Nesta tela estão disponíveis as parcelas à pagar decorrentes do faturamentos como [parcelamento](compras_compra.md#faturamento).
 
-<span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:black">Status</span>
+<span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:grey">Status</span>
 
 - À vencer: Parcela que está em aberto dentro do prazo de vencimento.
 - Vencido: Parcela que está em aberto e já passou o vencimento.
@@ -20,7 +20,7 @@ Nesta tela estão disponíveis as parcelas à pagar decorrentes do faturamentos 
 
 {: #jurosemulta}
 
-##### Juros e Multa
+<span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:grey">Juros e Multa</span>
 
 O juros e multa **não** são calculados pelo sistema, quando necessário podem ser inclusos clicando diretamente no campo específico na linha na grade. Esses  valores de juros e multa são salvos temporariamente, apenas para que seja feito o pagamento da parcela, assim que a tela do Contas à Pagar for fechada e reaberta os valores são zerados.
 
