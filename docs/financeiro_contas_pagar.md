@@ -36,7 +36,7 @@ Quando necessário, o valor de desconto obtido, pode ser incluso clicando direta
 
 Esses valores serão contabilizados conforme conta contábil parametrizada nos [parâmetros contábeis](contabilidade_parametro_contabil_contas_pagar.md#contaspagar).
 
-#### Processos
+### Processos
 
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados ao Contas à Pagar e também a impressão dos Tickets e relatórios.
 
@@ -68,13 +68,14 @@ O valor das parcelas selecionadas é sumarizado nos totalizadores no final da te
 
 ![](images/financeiro_contas_pagar_pagamento2.jpg)
 
+{: #formaspagamento}
 
+##### Formas de Pagamento
 
 *Parcelamento*:  O valor faturado como parcelamento será levado para o [Contas a Pagar](financeiro_contas_pagar.md#contaspagar).
 
-*Cartão:* O valor faturado como Cartão de Débito será lançado como uma saída diretamente na conta bancária amarrada ao [cadastro de cartão corporativo](financeiro_cartao_corporativo.md#cadastro).
-
-​             O valor faturado como Cartão de Crédito será lançado como transações na [conciliação de Cartão Corporativo](financeiro_cartao_corporativo.md#conciliacao).
+*Cartão:* O valor faturado como Cartão de Débito será lançado como uma saída diretamente na conta bancária amarrada ao [cadastro de cartão corporativo](financeiro_cartao_corporativo.md#cadastro). 
+              O valor faturado como Cartão de Crédito será lançado como transações na [conciliação de Cartão Corporativo](financeiro_cartao_corporativo.md#conciliacao).
 
 *Depósito:* O valor faturado como depósito será lançado como uma saída diretamente na conta bancária informada.
 

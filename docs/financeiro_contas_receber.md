@@ -54,9 +54,13 @@ O menu [Reverter Recebimento](financeiro_contas_receber.md#reversao) é habilita
 
 #### Receber todas as marcadas
 
-O processo de recebimento no contas a Receber é similar ao faturamento, basta informar a(s) forma(s) de pagamento e faturar.
+O processo de recebimento no contas à receber é similar ao faturamento, basta informar a(s) forma(s) de pagamento e faturar.
 
 ![](images/financeiro_contas_receber_receber.jpg) 
+
+{: #formasrecebimento}
+
+##### Formas de Recebimento
 
 *Dinheiro*: A opção dinheiro só fica disponível se o usuário estiver com algum Caixa aberto.
 
@@ -69,7 +73,6 @@ O processo de recebimento no contas a Receber é similar ao faturamento, basta i
 *Depósito:* O valor faturado como depósito será lançado como uma entrada diretamente na conta bancária informada.
 
 *Crédito:* Somente poderá ser faturado como crédito, se houver crédito disponível para o Cliente. Neste caso o recebimento faz o abatimento do crédito no valor informado no campo *consumido*
-
 Após o faturamento o histórico de abatimentos e saldo de crédito para o cliente pode ser visto diretamente no [menu crédito no cadastro do cliente](vendas_cliente.md#credito).
 
 ![](images/financeiro_contas_receber_credito.jpg)
@@ -88,9 +91,7 @@ Nesta tela é possível informar um valor único de desconto que o sistema fará
 
 #### Reagendar Vencimento
 
-
 Nesta tela  é possível alterar o vencimento de uma parcela.
-
 Uma vez alterado o vencimento, essa nova informação é salva permanentemente.
 
 
@@ -107,15 +108,9 @@ Uma vez alterado o vencimento, essa nova informação é salva permanentemente.
 
 Nesta tela  é possível fazer a reversão de um recebimento. O processo faz a reversão financeira e contábil do recebimento, basta informar o motivo da reversão. Esse motivo é utilizado como histórico no comprovante contábil. A Reversão será realizada com a data que se está fazendo a reversão.
 
-Se duas parcelas foram recebidas juntas, as duas são revertidas.
+As parcelas serão revertidas conforme o recebimento, ou seja, se recebidas duas parcelas juntas, as duas serão revertidas. Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original
 
 ![](images/financeiro_contas_receber_reversao.jpg)]
-
-
-
-Ao reverter o recebimento o sistema atualiza o status que antes estava Recebido para Revertido e gera um novo título em aberto igual ao original.
-
-
 
 
 
