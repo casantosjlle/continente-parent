@@ -6,7 +6,7 @@
 
 {: #financeiro}
 
-## Financeiro
+<span style="margin-botton:5px;font-weight:bold;font-size:2.0em;color:black">Financeiro</span>
 
 Neste menu são encontrados todos os acessos necessários para as atividades do contas à Pagar, contas à Receber e o gerenciamento de contas bancárias.
 
