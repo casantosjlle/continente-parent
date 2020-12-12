@@ -8,6 +8,10 @@ Você tem acesso rápido a toda essa informação diretamente do Continente Nuve
 
 |[Primeiro Acesso](primeiro_acesso.md)
 
+|[Configurações para emissão de NF-e](configuracoes_emissao_nfe.md)
+
+|[Configurações para emissão de NFC-e](configuracoes_emissao_nfce.md)
+
 |[Dicas de usabilidade](dicas.md)
 
 |[Configuarações-Sistema](sistema.md)
