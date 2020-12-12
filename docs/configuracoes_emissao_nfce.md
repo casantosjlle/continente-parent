@@ -36,7 +36,7 @@ Neste mesmo mesmo menu existem outros parâmetros referente a emissão de NF-e q
 
 Acesse o Menu Sistema>>Parametrização>>Fiscal>>NFC-e e o CSC Token e o ID do Token.
 
-Para mais informações como solicitar o CSC acesse: http://www.sped.fazenda.pr.gov.br/modules/conteudo/conteudo.php?conteudo=103
+Para mais informações como solicitar o CSC acesse: [http://www.sped.fazenda.pr.gov.br/modules/conteudo/conteudo.php?conteudo=103](http://www.sped.fazenda.pr.gov.br/modules/conteudo/conteudo.php?conteudo=103)
 
 ![](images/configuracoes_nfce_csc.gif)
 
