@@ -6,53 +6,49 @@
 
 {: #configuracoes_emissao_nfe}
 
-## Primeiro Acesso
+## Configurações para Emissao NF-e
 
-Siga o passo a passo a seguir para o seu primeiro acesso no Continente Nuvem. Fique tranquilo que são poucas etapas.
-
-
-
-Ao realizar a instalação do Continente Nuvem, um ícone de acesso será instalado em sua área de trabalho.
-
- Acesse o sistema com as seguintes informações:
-
-Usuário: admin@admin
-
-Senha: admin
-
-Código do Cliente:  *nós lhe informaremos o seu código do cliente*
-
-![](images/primeiro_acesso_login.gif)
+Siga o passo a passo a seguir para configurar o sistema para emissão de NF-e.
 
 
 
-#### 1º Alterar os dados da Empresa temporária
+#### 1º Importar o Certificado Digital
 
-Acesse o Menu Administração>>Empresa: Edite os dados da empresa temporária para os dados da sua empresa. No campo domínio você deve alterar o  “admin” e informar o domínio que você irá acessar o sistema. O domínio pode ser um dos nomes de sua empresa, ou algo que identifique a empresa que você está acessando.
+Acesse o Menu Sistema>>Certificado Digital e faça a importação do certificado digital de sua empresa e informe a senha de acesso ao certificado.
 
-![](images/primeiro_acesso_empresa.gif)
-
-
-
-#### 2º Crie os usuários
-
-Acesse o Menu Administração>>Usuário: Crie o(s) usuário(s) e senha(s). Esses serão os usuários de acesso ao sistema.. Ex.: Se você criou o usuário “asilva” e informou o domínio “continente”: seu acesso ao sistema será asilva@continente. 
-
-![](images/primeiro_acesso_usuario.gif)
+![](images/configuracoes_nfe_importar_certificado.gif)
 
 
 
-#### 3º Acesse o sistema com o novo usuário
+#### 2º Informar a Série da NF-e
 
-Acesse o Menu Sistema e clique em **Trocar usuário** e pronto! Agora é só acessar com o novo usuário que você criou. Obs. *Não esqueça de informar o @domínio junto ao seu usuário.*
+Acesse o Menu Sistema>>Parametrização>>Fiscal>>NF-e e informe a Série da NF-e que será emitida.
 
-![](images/primeiro_acesso_trocas_usuario.gif)
+Neste mesmo mesmo menu existem outros parâmetros referente a emissão de NF-e que já vem pré-configurados com a instalação do sistema mas que podem ser alterados se necessário. Veja na documentação específica do menu [sistema](sistema_parametrizacao#nfe) a funcionalidade de cada campo.
+
+![](images/configuracoes_nfe_serie.gif)
+
+#### 3º Parametrize o Certificado Digital 
+
+Acesse o Menu Sistema>>Parametrização>>Fiscal>>Geral e parametrize o Certificado Digital importado anteriormente.
+
+Neste mesmo mesmo menu existem outros parâmetros referente a emissão de NF-e que já vem pré-configurados com a instalação do sistema mas que podem ser alterados se necessário. Veja na documentação específica do menu [sistema](sistema_parametrizacao#geral) a funcionalidade de cada campo.
+
+Se você ainda não emitiu nenhuma NF-e anteriormente as configurações para emissão de NF-e terminam aqui. Se você já é um emissor de NF-e siga para próxima etapa.
+
+![](images/configuracoes_nfe_parametrizar_certificado.gif)
 
 
 
+#### 4º Atualize a Sequência Numérica
+
+Acesse o Menu Sistema>>Sequência Numérica, pesquise pela entidade NFe e clique em editar. No campo Próximo Sequencial informe qual deve ser o número de NF-e a ser emitido pelo Continente. Uma vez parametrizado o sistema irá dar continuidade nesta numeração.
+
+![](images/configuracoes_nfe_sequencia_numerica.gif)
 
 
- Agora que sua empresa está no Continente Nuvem, veja também nossas orientações  de [Configurações para Emissão de NF-e](configuracoes_emissao_nfe) e [Configurações para emissão de NFC-e](configuracoes_emissao_nfce)
+
+Se você for um emissor de NFC-e veja as também as [Configurações para emissão de NFC-e](configuracoes_emissao_nfce).
 
 
 
