@@ -22,31 +22,39 @@ Usuário: admin@admin
 
 Senha: admin
 
-Código do Cliente:  *será repassado por e-mail*
+Código do Cliente:  *você recebera o código do cliente em seu e-mail*
 
 ![](images/primeiro_acesso_login.gif)
 
 
 
-1º   Acesse o Menu Administração>>Empresa: Edite os dados da empresa temporária para os dados da sua empresa. No campo domínio você deve alterar o  “admin” e informar o domínio que você irá acessar o sistema. O domínio pode ser um dos nomes de sua empresa, ou algo que identifique a empresa que você está acessando.
+### 1º Alterar os dados da Empresa temporária
+
+Acesse o Menu Administração>>Empresa: Edite os dados da empresa temporária para os dados da sua empresa. No campo domínio você deve alterar o  “admin” e informar o domínio que você irá acessar o sistema. O domínio pode ser um dos nomes de sua empresa, ou algo que identifique a empresa que você está acessando.
 
 ![](images/primeiro_acesso_empresa.gif)
 
 
 
-2º  Acesse o Menu Administração>>Usuário: Crie o(s) usuário(s) e defina a(s) senha(s). Esses serão os usuários de acesso ao sistema.. Ex.: Se você criou o usuário “asilva” e informou o domínio “continente”: seu acesso ao sistema será asilva@continente. 
+### 2º Crie os usuários
+
+Acesse o Menu Administração>>Usuário: Crie o(s) usuário(s) e senha(s). Esses serão os usuários de acesso ao sistema.. Ex.: Se você criou o usuário “asilva” e informou o domínio “continente”: seu acesso ao sistema será asilva@continente. 
 
 ![](images/primeiro_acesso_usuario.gif)
 
 
 
-3º Acesse o Menu Sistema e clique em **Trocar usuário** e pronto! Agora sua empresa está no Continente Nuvem e você já pode acessar através do usuário e senha que você criou. Obs. *Não esqueça de informar o @domínio junto ao seu usuário.*
+### 3º Acesse o sistema com o novo usuário
+
+Acesse o Menu Sistema e clique em **Trocar usuário** e pronto! Agora é só acessar com o novo usuário que você criou. Obs. *Não esqueça de informar o @domínio junto ao seu usuário.*
 
 ![](images/primeiro_acesso_trocas_usuario.gif)
 
 
 
-Agora que você já está acessando o sistema, veja também nossa orientações  de [Configurações para Emissão de NF-e]() e [Configurações para emissão de NFC-e]()
+
+
+ Agora que sua empresa está no Continente Nuvem, veja também nossas orientações  de [Configurações para Emissão de NF-e]() e [Configurações para emissão de NFC-e]()
 
 
 
