@@ -8,9 +8,7 @@
 
 ## Primeiro Acesso
 
-Este é o Guia de instruções para o seu primeiro acesso no Continente Nuvem.
-
-Siga o passo a passo a seguir, mas fique tranquilo que são poucas etapas.
+Siga o passo a passo a seguir para o seu primeiro acesso no Continente Nuvem. Fique tranquilo que são poucas etapas.
 
 
 
@@ -22,13 +20,13 @@ Usuário: admin@admin
 
 Senha: admin
 
-Código do Cliente:  *você recebera o código do cliente em seu e-mail*
+Código do Cliente:  *nós lhe informaremos o seu código do cliente*
 
 ![](images/primeiro_acesso_login.gif)
 
 
 
-### 1º Alterar os dados da Empresa temporária
+#### 1º Alterar os dados da Empresa temporária
 
 Acesse o Menu Administração>>Empresa: Edite os dados da empresa temporária para os dados da sua empresa. No campo domínio você deve alterar o  “admin” e informar o domínio que você irá acessar o sistema. O domínio pode ser um dos nomes de sua empresa, ou algo que identifique a empresa que você está acessando.
 
@@ -36,7 +34,7 @@ Acesse o Menu Administração>>Empresa: Edite os dados da empresa temporária pa
 
 
 
-### 2º Crie os usuários
+#### 2º Crie os usuários
 
 Acesse o Menu Administração>>Usuário: Crie o(s) usuário(s) e senha(s). Esses serão os usuários de acesso ao sistema.. Ex.: Se você criou o usuário “asilva” e informou o domínio “continente”: seu acesso ao sistema será asilva@continente. 
 
@@ -44,7 +42,7 @@ Acesse o Menu Administração>>Usuário: Crie o(s) usuário(s) e senha(s). Esses
 
 
 
-### 3º Acesse o sistema com o novo usuário
+#### 3º Acesse o sistema com o novo usuário
 
 Acesse o Menu Sistema e clique em **Trocar usuário** e pronto! Agora é só acessar com o novo usuário que você criou. Obs. *Não esqueça de informar o @domínio junto ao seu usuário.*
 
