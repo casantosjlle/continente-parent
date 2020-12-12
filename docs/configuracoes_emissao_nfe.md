@@ -1,4 +1,4 @@
-[Início](index.md) / Primeiro Acesso
+[Início](index.md) / Configurações para Emissão de NF-e
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
