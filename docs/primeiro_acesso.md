@@ -10,7 +10,7 @@
 
 Este é o Guia de instruções para o seu primeiro acesso no Continente Nuvem.
 
-Siga o passo a passo a seguir para ter sua empresa no CN, fique tranquilo que são poucas etapas.
+Siga o passo a passo a seguir, mas fique tranquilo que são poucas etapas.
 
 
 
