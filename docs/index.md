@@ -14,7 +14,7 @@ Você tem acesso rápido a toda essa informação diretamente do Continente Nuve
 
 |[Dicas de usabilidade](dicas.md)
 
-|[Configuarações-Sistema](sistema.md)
+|[Sistema](sistema.md)
 
 |[Administração](administracao.md)
 
