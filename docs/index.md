@@ -6,9 +6,11 @@ Você tem acesso rápido a toda essa informação diretamente do Continente Nuve
 
 <span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:black">Diretório de documentos </span>
 
+|[Primeiro Acesso](primeiro_acesso.md)
+
 |[Dicas de usabilidade](dicas.md)
 
-|[Sistema](sistema.md)
+|[Configuarações-Sistema](sistema.md)
 
 |[Administração](administracao.md)
 
