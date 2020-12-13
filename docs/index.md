@@ -4,15 +4,11 @@ A docs.continentenuvem.com.br é a página inicial de documentação do sistema 
 
 Você tem acesso rápido a toda essa informação diretamente do Continente Nuvem através da função F1 do seu teclado. 
 
-<span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:black">Diretório de documentos </span>
+<span style="margin-botton:5px;font-weight:bold;font-size:1.8em;color:Black">Diretório de documentos </span>
 
+## <span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:grey">Antes de começar:</span>
 
-
-
-
-## <span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:grey">Antes de começar:</span>
-
-O Continente Nuvem é totalmente pré-configurado para que você já consiga utilizar o sistema desde seu primeiro acesso, sem precisar fazer muitas parametrizações, porém existem algumas informações que são específicas de sua empresa e pois isso recomendamos que você leia esses documentos antes de você começar a utilizar o sistema:
+O Continente Nuvem é totalmente pré-configurado, porém existem algumas informações que são específicas de sua empresa e pois isso recomendamos que você leia esses documentos antes de você começar a utilizar o sistema:
 
 |[Primeiro Acesso](primeiro_acesso.md)
 
@@ -22,17 +18,17 @@ O Continente Nuvem é totalmente pré-configurado para que você já consiga uti
 
 
 
-## <span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:grey">Mantenha-se atualizado:</span>
+## <span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:grey">Mantenha-se atualizado:</span>
 
-Estamos constantemente trabalhando para que você tenha sempre a melhor experiência ao usar o Continente Nuvem por isso fique sempre por dentro das nossas dicas:
+Estamos constantemente trabalhando para que você tenha sempre a melhor experiência como um usuário Continente Nuvem por isso fique sempre por dentro das nossas dicas:
 
 |[Dicas de usabilidade](dicas.md)
 
 
 
-## <span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:grey">Quando ficar na dúvida:</span>
+## <span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:grey">Quando ficar na dúvida:</span>
 
-Quando surgir aquela dúvida em algum campo ou processo específico, consulte nossa documentação que está organizada conforme os menus do Sistema: 
+Quando surgir aquela dúvida em algum campo ou processo específico, consulte nossa documentação:
 
 |[Sistema](sistema.md)
 
