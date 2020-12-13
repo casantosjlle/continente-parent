@@ -14,7 +14,7 @@ Você tem acesso rápido a toda essa informação diretamente do Continente Nuve
 
 <span style="margin-botton:5px;font-weight:bold;font-size:1.8em;color:Black">Diretório de documentos </span>
 
-## <span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:Black">Antes de começar:</span>
+## Antes de começar:
 
 Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistema e como parametrizar aquelas informações que são específicas de sua empresa:
 
@@ -26,7 +26,7 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 
 
-## <span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:Black">Mantenha-se atualizado:</span>
+## Mantenha-se atualizado:
 
 Estamos constantemente trabalhando para que você tenha sempre a melhor experiência como um usuário Continente Nuvem por isso fique sempre por dentro das nossas dicas:
 
@@ -34,7 +34,7 @@ Estamos constantemente trabalhando para que você tenha sempre a melhor experiê
 
 
 
-## <span style="margin-botton:5px;font-weight:bold;font-size:1.0em;color:Black">Quando ficar na dúvida:</span>
+## Quando ficar na dúvida:
 
 Quando surgir aquela dúvida em algum campo ou processo específico, explore nossa documentação:
 
