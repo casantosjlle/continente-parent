@@ -1,6 +1,4 @@
-
-
-<a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/icone.png"></a>
+<img align="right" src="http://docs.continentenuvem.com.br/images/icone.png"></a>
 
 ## Bem-vindo(a) ao 
 
