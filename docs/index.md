@@ -24,7 +24,7 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 ## Mantenha-se atualizado:
 
-Estamos constantemente trabalhando para que você tenha sempre a melhor experiência como um usuário Continente Nuvem, por isso fique sempre por dentro das nossas dicas:
+Estamos constantemente trabalhando melhorar sua experiência como usuário Continente Nuvem, por isso fique sempre por dentro das nossas dicas:
 
 |[Dicas de usabilidade](dicas.md)
 
