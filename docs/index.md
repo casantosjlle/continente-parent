@@ -10,7 +10,9 @@ Você tem acesso rápido a toda essa informação diretamente do Continente Nuve
 
 
 
-## Antes de começar:
+## <span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:grey">Antes de começar:</span>
+
+O Continente Nuvem é totalmente pré-configurado para que você já consiga utilizar o sistema desde seu primeiro acesso, sem precisar fazer muitas parametrizações, porém existem algumas informações que são específicas de sua empresa e pois isso recomendamos que você leia esses documentos antes de você começar a utilizar o sistema:
 
 |[Primeiro Acesso](primeiro_acesso.md)
 
@@ -20,13 +22,17 @@ Você tem acesso rápido a toda essa informação diretamente do Continente Nuve
 
 
 
-## Mantenha-se atualizado:
+## <span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:grey">Mantenha-se atualizado:</span>
+
+Estamos constantemente trabalhando para que você tenha sempre a melhor experiência ao usar o Continente Nuvem por isso fique sempre por dentro das nossas dicas:
 
 |[Dicas de usabilidade](dicas.md)
 
 
 
-## Quando ficar na dúvida:
+## <span style="margin-botton:5px;font-weight:bold;font-size:1.5em;color:grey">Quando ficar na dúvida:</span>
+
+Quando surgir aquela dúvida em algum campo ou processo específico, consulte nossa documentação que está organizada conforme os menus do Sistema: 
 
 |[Sistema](sistema.md)
 
