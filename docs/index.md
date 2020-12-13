@@ -1,5 +1,3 @@
-<img align="right" src="http://docs.continentenuvem.com.br/images/icone.png"></a>
-
 ## Bem-vindo(a) ao 
 
 <span style="margin-botton:5px;font-weight:bold;font-size:2.5em;color:black">Continente docs </span>
