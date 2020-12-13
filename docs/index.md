@@ -4,7 +4,7 @@
 
 ## Bem-vindo(a) ao 
 
-<span style="margin-botton:5px;font-weight:bold;font-size:2.5em;color:black">Continente Docs </span>
+<span style="margin-botton:5px;font-weight:bold;font-size:2.5em;color:black">Continente docs </span>
 
 A docs.continentenuvem.com.br é a página de documentação do sistema Continente Nuvem.
 
