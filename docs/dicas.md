@@ -102,6 +102,14 @@ Para utilizar todos os filtros que estão no formato de caixa de seleção ou *c
 
 
 
+#### Copia e Cola
+
+Você pode utilizar o atalho Ctrl + C para copiar a informação de algum campo e o Ctrl + V para colar
+
+![](images/dicas_copiar_colar.gif)
+
+
+
 #### Botão Mais
 
 Sempre que você ver o botão Mais em uma tela, todas as opções de acesso estarão também disponíveis clicando com o botão inverso do mouse, ou ainda através de atalhos específicos que iniciam sempre com a tecla Ctrl.
