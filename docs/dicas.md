@@ -14,8 +14,6 @@ Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização d
 
 #### Barra de pesquisa
 
-Essa é uma daquelas ferramentas aliadas, principalmente para abrir aquelas telas que não são usadas no dia-a -dia e que não estão no seu menu de favoritos.  
-
 Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, basta digitar parcialmente o nome e não  é necessário direcionar o cursor dentro da barra, quando estiver no menu principal basta digitar em qualquer lugar da tela que o cursor será automaticamente direcionado para barra.
 
 ![](images/dicas_busca.gif)
@@ -24,7 +22,7 @@ Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, bas
 
 #### Favoritos
 
-Essa é outra funcionalidade mão-na-roda do Continente Nuvem, na lateral esquerda da tela, ao clicar na logo do continente, a barra de Menu lateral é aberta, com todas as opções do Menu que o usuário tem acesso. Ao clicar na estrela no início do menu, ele entra para o menu de favoritos e o acesso estará disponível na tela principal.
+Ao clicar na estrela no início do menu, ele entra para o menu de favoritos e o acesso estará disponível na tela principal.
 
 ![](images/dicas_favoritos.gif)
 
