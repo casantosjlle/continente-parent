@@ -100,7 +100,13 @@ Parametrizações não obrigatórias. As alíquotas serão utilizadas como base 
 
 ![](images/sistema_parametrizacao_contas_receber.jpg)
 
+{: #estoque}
 
+### Parametrização Estoque
+
+A única parametrização para estoque atualmente é o campo "Permite estoque negativo". Esse campo vem originalmente desmarcado **e é altamente recomendável que não seja habilitado**, pois as transações efetuadas com estoque negativo alteram o cálculo do Custo médio dos produtos e não há como corrigir o custo médio as transações efetuadas com custo médio incorreto. 
+
+![](images/sistema_parametrizacao_estoque.jpg)
 
 {: #dimensaoestoque}
 
@@ -138,9 +144,11 @@ As parametrizações de venda devem ser feitas para cada empresa cadastrada.
 
 Quando a opção Entrega a Domicílio estiver habilitada nos parâmetros de venda, esta opção ficará também habilitada na tela de venda, onde se marcada levará a informação de entrega a domicílio para o XML do NFC-e campo <indPres>4. 
 
-Os campos de transportadora, modalidade e valores de frete também poderão ser preenchidos para que sejam levados de maneira default para a venda que tiver entrega a domicílio.
+Os campos de transportadora, modalidade e valores de frete e seguro também poderão ser preenchidos para que sejam levados de maneira automática para a venda que tiver entrega a domicílio. 
 
-O campo vendedor pode ser marcado como obrigatório nos processos de venda.
+O campo vendedor pode ser marcado como obrigatório ou opcional nos processos de venda.
+
+O campo "Permite Cancelamento de venda ou reversão no Cartão" deve ser habilitado para serem realizados Cancelamento das Vendas ou Reversão de Recebimento feitas no Cartão. 
 
 ![](images/sistema_parametrizacao_venda.jpg)
 
@@ -150,9 +158,9 @@ O campo vendedor pode ser marcado como obrigatório nos processos de venda.
 
 ### Parametrização Interface Usuário
 
-A Interface do usuário vem por padrão o Light. Além desta existe o tema Dark que é indicada para aqueles que já trabalham com o sistema operacional com essa interface.
+A Interface do usuário vem por padrão o tema Claro, além deste existe o tema Escuro.
 
-Ao alterar o tema é necessário sair do sistema e entrar novamente. 
+Modo de Janelas vem por padrão Única, com essa configuração somente uma janela do sistema por ser aberta de cada vez. O Modo de Janelas Múltiplas permite abrir várias janelas no sistema ao mesmo tempo. 
 
 ![](images/sistema_parametrizacao_interface_usuario.jpg)
 
@@ -160,7 +168,19 @@ Ao alterar o tema é necessário sair do sistema e entrar novamente.
 
 
 
+{: #caixa}
 
+### Parametrização Caixa
+
+Os parâmetros "Necessário caixa para faturamento " e "Necessário caixa para recebimento" vem marcados por padrão, esses parâmetros obrigam ter uma Caixa Aberto para realizar o faturamento de venda ou recebimento do Contas a Receber. 
+
+Caso sejam desmarcados será possível realizar o faturamento de Vendas e Recebimento de Contas a Receber sem um Caixa aberto, porém a forma de recebimento "Dinheiro" não estará disponível. Nestes casos o recebimento em espécie poderá ser executado através da forma de pagamento Banco, através da Conta "Caixinha".
+
+O parâmetro "Habilita fundo de troco" vem desmarcado por padrão, se habilitado, no processo de fechamento de Caixa será possível deixar no Caixa um valor destinado ao  fundo de troco, que ficará disponível no caixa, como saldo inicial na próxima abertura.
+
+
+
+![](images/sistema_parametrizacao_caixa.jpg)
 
 [Voltar](sistema.md#ajustes)
 
