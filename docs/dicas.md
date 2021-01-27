@@ -24,7 +24,7 @@ Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, bas
 
 Ao clicar na estrela no início do menu, ele entra para o menu de favoritos e o acesso estará disponível na tela principal.
 
-![](images/dicas_favoritos.gif)
+![](images/dicas_favoritos2.gif)
 
 
 
@@ -32,7 +32,7 @@ Ao clicar na estrela no início do menu, ele entra para o menu de favoritos e o 
 
 Marcar todos os registros é muito mais rápido através do atalho `Ctrl+A`
 
- ![](images/dicas_marcar_todos.jpg)
+ ![](images/dicas_marcar_todos3.gif)
 
 
 
