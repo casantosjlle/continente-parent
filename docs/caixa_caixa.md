@@ -22,7 +22,7 @@ Através do botão `Mais`é possível acessar o histórico de todos os Caixas fe
 
 
 
-Ao clicar em histórico será aberta uma lista com a relação de Caixas fechados e com um duplo click em cima será consultar o histórico do Caixa.
+Ao clicar em histórico será aberta uma lista com a relação de Caixas fechados e com um duplo click em cima pode-se consultar o histórico do Caixa.
 
 
 
@@ -54,7 +54,7 @@ Este é outro parâmetro não obrigatório você pode aplicar uma regra e um val
 
 `Alerta`: na tela de Operação de Caixa vai aparecer um alerta informando que o Valor de Dinheiro em Caixa está excedido, porém vai permitir continuar as transações.
 
-`Bloquear`na tela de Operação de Caixa também vai aparecer um alerta informando que o Valor de Dinheiro em Caixa está excedido, só que neste caso não vai permitir continuar as transações.
+`Bloquear`: na tela de Operação de Caixa também vai aparecer um alerta informando que o Valor de Dinheiro em Caixa está excedido, só que neste caso não vai permitir continuar as transações.
 
 
 
