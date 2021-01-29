@@ -10,7 +10,7 @@
 
 ### Pesquisa
 
-Nesta tela estão disponíveis as parcelas a receber, que são decorrentes de faturamento como crediário ou cheque.
+Nesta tela estão disponíveis as parcelas a receber que são decorrentes de faturamento como crediário ou cheque.
 
 ##### Status: 
 

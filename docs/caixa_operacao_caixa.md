@@ -32,7 +32,7 @@ Na parte superior do Caixa está o painel de operações, neste é possível rea
 
 #### Faturamento
 
-A opção de faturamento fica habilitada quando selecionada alguma venda para faturamento no painel de faturamento. (abaixo do painel de operações).  O faturamento de Venda pode ser realizado por esse botão de faturamento na tela de Operação de Caixa, ou diretamente na Venda através do botão `Mais`. Para maior detalhamento veja em: [Faturamento de venda](venda_venda.md#faturamento)
+A opção de faturamento fica habilitada quando selecionada alguma venda para faturamento no painel de faturamento. (abaixo do painel de operações).  O faturamento de Venda pode ser realizado por esse botão de faturamento na tela de Operação de Caixa, ou diretamente na Venda através do botão `Mais`. Para maior detalhamento veja em: [Faturamento de venda](vendas_venda.md#faturamento)
 
 #### Contas a Receber
 
