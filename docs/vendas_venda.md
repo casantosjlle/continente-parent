@@ -38,33 +38,39 @@ O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selec
 
 ### Cadastro de Venda
 
+#### Cliente cadastrado
+
 Ao abrir uma nova venda a primeira informação é o Cliente, o botão vem habilitado para busca de um *Cliente Cadastrado* onde a pesquisa pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pelo nome, também digitando-o apenas parcialmente. 
 
-![](images/vendas_venda_cadastro_cliente_cadastrado.jpg)
+![](images/vendas_venda_cadastro_cliente_cadastrado.gif)
+
+#### Cliente não cadastrado
 
 Quando não houver cliente cadastrado basta clicar em cima do botão que o sistema desabilita a busca no cadastro do cliente e torna-o  em *Cliente não Cadastrado*, neste caso se tem a possibilidade de digitar o nome ou alguma identificação para o cliente, mas o cliente não é obrigatório na venda.
 
 ![](images/vendas_venda_cadastro_cliente_nao_cadastrado.jpg)
 
+#### Produto por código de barras
 
+Incluir produtos por leitura de código de barras  é o jeito mais fácil e rápido de incluir o produto na venda, para informar a quantidade basta informar o número e* e ler o código de barras
 
-*Produto:*  A busca pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pela nome, também digitando-o apenas parcialmente.
+Exemplo: se a quantidade é 3 basta informar 3* e bipar o código de barras e enter que o produto será incluído na venda:
+
+![](images/vendas_venda_cadastro_produto_quantidade_codigo_barras.gif)
+
+caso o produto tenha dimensões de estoque vai abrir uma janela para informar a dimensão:
+
+![](images/vendas_venda_cadastro_produto_quantidade_codigo_barras_dimensao.gif)
+
+####  Produto sem código de barras
+
+Quando o produto não tem código de barras a busca pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pela nome, também digitando-o apenas parcialmente no campo produto:
 
 
 
 ![](images/vendas_venda_cadastro_produto.jpg)
 
-*Produto por código de barras:* esse é o jeito mais fácil e rápido de incluir o produto na venda, para informar a quantidade basta informar o número e *
 
-![](images/vendas_venda_cadastro_produto_quantidade_codigo_barras.jpg)
-
-e então basta ler o código de barras:
-
-![](images/vendas_venda_cadastro_produto_quantidade_codigo_barras2.jpg)
-
-o sistema entende assim a quantidade é o produto informado
-
-![](images/vendas_venda_cadastro_produto_grade.jpg)
 
 
 
@@ -126,11 +132,17 @@ Ao clicar no botão Gravar a Venda poderá ser faturada no mesmo momento ou ent�
 
 ### Faturamento de Venda
 
-O faturamento de venda só estará disponível se houver um caixa aberto para o usuário. 
+No faturamento de venda o sistema identifica automaticamente através do [documento fiscal padrão](sistema_parametrizacao.md#geral) qual documento fiscal será emitido.
 
-Quando for o faturamento de NF-e as informações ficam dispostas em 4 abas quando NFC-e somente a aba pagamento fica disponível.
+Quando o faturamento da venda resultar na emissão de uma NF-e as informações ficam dispostas em 4 abas conforme imagem abaixo: ![](images/vendas_venda_faturamento_nfe.jpg)
 
-![](images/vendas_venda_faturamento.jpg)
+
+
+Quando o faturamento da venda resultar na emissão de uma NFC-e somente a aba pagamento fica disponível conforme imagem abaixo. Quando NFC-e também fica disponível o campo CPF/CNPJ que caso seja um cliente cadastrado vem preenchido mas pode ser editado ou excluído. Quando o cliente não for cadastrado pode ser informado o CPF/CNPJ manualmente.
+
+Quando informando o CPF/CNPJ ele será informado na NFC-e.
+
+![](images/vendas_venda_faturamento_nfce.jpg)
 
 
 
@@ -150,7 +162,7 @@ Quando for o faturamento de NF-e as informações ficam dispostas em 4 abas quan
 
 *Depósito:* O valor faturado como depósito será lançado como uma entrada diretamente na conta bancária informada.
 
-*Crédito:* Somente poderá ser faturado como crédito, se houver crédito disponível para o Cliente. Neste caso o faturamento faz o abatimento do crédito no valor informado no campo *consumido*
+*Crédito:* Somente poderá ser faturado como crédito, se houver crédito disponível para o Cliente. Neste caso o faturamento faz o abatimento do crédito no valor informado no campo Valor Abatido.
 
 Após o faturamento o histórico de abatimentos e saldo de crédito para o cliente pode ser visto diretamente no [menu crédito no cadastro do cliente](vendas_cliente.md#credito).
 
