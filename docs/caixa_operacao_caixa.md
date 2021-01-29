@@ -18,9 +18,7 @@ Nos caixas fechados a opção abrir também fica disponível, ao clicar em abrir
 
 
 
-![](images/caixa_listagem_caixa.JPG)
-
-#### 
+![](images/caixa_listagem_caixa.jpg)
 
 {: #painel}
 

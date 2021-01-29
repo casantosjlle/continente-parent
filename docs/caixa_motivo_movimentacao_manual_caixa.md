@@ -12,7 +12,7 @@ Nesta estão cadastrados todos os Motivos das movimentações manual de entrada 
 
 Os motivos de códigos MTCX-001 ao MTCX-007 vem cadastrados por padrão, mas podem ser removidos ou alterados se necessário.
 
-![](images/caixa_motivo_movimentacao_manual_pesquisa.JPG)
+![](images/caixa_motivo_movimentacao_manual_pesquisa.jpg)
 
 
 
