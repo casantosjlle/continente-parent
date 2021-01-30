@@ -136,6 +136,42 @@ O campo Fundo de Troco só é habilitado caso o parâmetro [Habilita fundo de tr
 
 ![](images/caixa_caixa_operacao_caixa_fechamento.jpg)
 
+
+
+Após  o fechamento de caixa é impresso automaticamente um comprovante com os dados do fechamento. Essa conferência pode ser impressa também através da consulta de histórico de caixa.
+
+![](images/caixa_caixa_operacao_caixa_fechamento_comprovante.jpg)
+
+{: #abafaturamento}
+
+### Faturamento
+
+Na aba de Faturamento estão listadas todas as vendas disponíveis para faturamento,  no painel direito está o detalhamento da operação com detalhes do cliente e dos produtos.
+
+Para executar o faturamento da venda basta selecionar a linha e clicar no botão Faturamento no painel de Operações.
+
+O faturamento de Venda pode ser realizado aqui pelo caixa, ou diretamente na Venda através do botão `Mais`. Para maior detalhamento sobre faturamento de venda veja em: [Faturamento de venda](vendas_venda.md#faturamento)
+
+![](images/caixa_caixa_operacao_caixa_faturamento.jpg)
+
+{: #abatransacoes}
+
+### Transações
+
+Na aba de Transações estão listadas todas as operações que o caixa realizou, no painel direito está o detalhamento da operação. As linhas ~~riscadas~~ são referentes à operações canceladas.
+
+![](images/caixa_caixa_operacao_caixa_transacoes.jpg)
+
+{: #graficos}
+
+### Gráficos
+
+No lado esquerdo é apresentado com um gráfico que representa as retiradas de dinheiro por movimentação manual em Laranja e em Azul as entradas de caixa por vendas, Contas a Receber e Movimentação Manual .
+
+Do lado direito é apresentado um outro gráfico que representa a quantidade de dinheiro em caixa. Se no cadastro do caixa for informado um valor limite de dinheiro em caixa, será indicado neste gráfico.
+
+![](images/caixa_caixa_operacao_caixa_grafico.jpg)
+
 [Voltar](caixa.md)
 
 

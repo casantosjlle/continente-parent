@@ -2,6 +2,12 @@
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
+
+
+## Parâmetros Contábeis
+
+No Continente Nuvem todas as transações são contabilizadas e aqui nos parâmetros contábeis é feita a parametrização das contas contábeis para todas as transações. O plano de contas e os parâmetros contábeis vem configurados com a instalação do sistema, mas caso seja necessário podem ser alterados, fale com o seu contador.
+
 {: #venda}
 
 ### Parâmetros Contábeis- Venda
@@ -133,11 +139,23 @@
 
   
 
--  Quebra de caixa: onde é lançado o valor da diferença entre o dinheiro conferido e o registrado no fechamento de caixa. 
+- Quebra de caixa: onde é lançado o valor da diferença entre o dinheiro conferido e o registrado no fechamento de caixa. 
+
+  Se a diferença for para maior, ou seja, o valor conferido for maior que o registrado, o valor da diferença será creditado na conta de quebra de caixa e debitado da conta Caixa.  
+
+  Se a diferença for para menor, ou seja, o valor conferido for menor que o registrado, o valor da diferença  será debitado na conta de quebra de caixa e creditado da conta Caixa
 
   
 
 - Fechamento de caixa: onde é lançado o valor informado como conferido no fechamento de caixa.
+
+  
+
+Exemplo de Contabilização de um fechamento de Caixa com quebra de caixa, onde o valor conferido foi maior que o registrado:
+
+![](images/contabilidade_parametro_contabil_caixa_fechamento.jpg)
+
+
 
 
 
