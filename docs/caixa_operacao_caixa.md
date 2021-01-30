@@ -102,13 +102,11 @@ No agrupamento de Saldo de fechamento estão os saldos por forma de recebimento,
 
 #### Fechamento de Caixa
 
-o processo de fechamento de caixa é obrigatório para fechar o caixa.  
+O processo de fechamento de caixa é obrigatório para fechar o caixa.  
 
 Cada forma de pagamento deve ser conferida, mesmo que o valor seja zerado. 
 
 Para realizar a conferência basta clicar em cima da forma de pagamento e uma janela com as transações será exibida e então basta clicar em conferir. 
-
-Após a conferência a forma de pagamento fica com ícone de verificado, caso haja diferença fica com  ícone de alerta. 
 
 `Dinheiro` O valor pode ser informado por Nota e Moeda ou por Valor Total
 
@@ -122,15 +120,15 @@ Após a conferência a forma de pagamento fica com ícone de verificado, caso ha
 
 `Credito` É  um informativo das Vendas e do Contas a receber que foram liquidados contra um crédito de Cliente.
 
-
+Após a conferência, a forma de pagamento fica com ícone de verificado, caso haja diferença fica com  ícone de alerta. 
 
 Caso haja diferença na conferência do dinheiro o caixa, o botão Fechar Caixa só ficará habilitado se a opção `Fechar caixa com quebra` estiver marcado. 
 
-Se o caixa for fechado com diferença na conferência em dinheiro, o valor da diferença será contabilizada na conta contábil de [Quebra de caixa](contabilidade_parametro_contabil.md#caixa) .
+Se o caixa for fechado com diferença na conferência em dinheiro, o valor da diferença será contabilizada na conta contábil de [Quebra de caixa](contabilidade_parametro_contabil.md#caixa).
 
 O valor conferido em dinheiro será contabilizado na conta de [Fechamento de Caixa](contabilidade_parametro_contabil.md#caixa).
 
-O campo Fundo de Troco só é habilitado caso o parâmetro [Habilita fundo de troco](sistema_parametrizacao.md#caixa)  for marcado. Se for informado um valor neste campo, esse valor será descontado do valor em dinheiro no fechamento de caixa e ficará disponível como saldo inicial na próxima abertura.
+O campo Fundo de Troco só é habilitado caso o parâmetro [Habilita fundo de troco](sistema_parametrizacao.md#caixa)  for marcado. Se for informado valor no campo Fundo de Troco, esse valor será descontado do valor em dinheiro no fechamento de caixa e ficará disponível como saldo inicial na próxima abertura.
 
 
 
@@ -138,7 +136,7 @@ O campo Fundo de Troco só é habilitado caso o parâmetro [Habilita fundo de tr
 
 
 
-Após  o fechamento de caixa é impresso automaticamente um comprovante com os dados do fechamento. Essa conferência pode ser impressa também através da consulta de histórico de caixa.
+Após  o fechamento de caixa, um comprovante de Conferência de Caixa é impresso automaticamente . Essa conferência pode ser impressa também através da consulta de histórico de caixa.
 
 ![](images/caixa_caixa_operacao_caixa_fechamento_comprovante.jpg)
 
