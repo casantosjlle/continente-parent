@@ -43,19 +43,9 @@
 
 - Mov. manual de estoque: onde é lançado as transações feitas pela movimentação manual de estoque. Cada motivo de Movimentação manual de estoque deve ser amarrado há uma conta contábil. Essa parametrização poder ser feita diretamente no cadastro do motivo ou nos Parâmetros Contábeis.
 
-  Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de estoque
-
-  ![](images/contabilidade_parametro_contabil_estoque_motivo.jpg)
+  Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de estoque ficará visível também nos Parâmetros contábeis e vice-versa.
 
   
-
-  ficará visível também nos Parâmetros contábeis e vice-versa.
-
-  ![](images/contabilidade_parametro_contabil_estoque_motivo2.jpg)
-
-
-
-
 
 {: #contaspagar}
 
@@ -121,15 +111,7 @@
 
 - Mov. manual de banco: onde é lançado as transações feitas pela movimentação manual de banco. Cada motivo de Movimentação manual de banco deve ser amarrado há uma conta contábil. Essa parametrização poder ser feita diretamente no cadastro do motivo ou nos Parâmetros Contábeis.
 
-  Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de banco
-
-  ![](images/contabilidade_parametro_contabil_banco_cadastro.jpg)
-
-  
-
-  ficará visível também nos Parâmetros contábeis e vice-versa.
-
-  ![](images/contabilidade_parametro_contabil_banco_cadastro2.jpg)
+  Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de banco ficará visível também nos Parâmetros contábeis e vice-versa.
 
   
 
@@ -147,21 +129,15 @@
 
 - Mov. Manual de Caixa: onde é lançado as transações feitas pela movimentação manual de caixa. Cada motivo de Movimentação manual de caixa deve ser amarrado há uma conta contábil. Essa parametrização poder ser feita diretamente no cadastro do motivo ou nos Parâmetros Contábeis.
 
-  Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de caixa
-
-  ![](images/contabilidade_parametro_contabil_caixa_motivo.jpg)
-
-  ficará visível também nos Parâmetros contábeis e vice-versa.
-
-  ![](images/contabilidade_parametro_contabil_caixa_motivo2.jpg)
+  Ou seja, a conta contábil parametrizada no cadastro do motivo de movimentação manual de caixa ficará visível também nos Parâmetros contábeis e vice-versa.
 
   
 
-- Quebra de caixa:
+-  Quebra de caixa: onde é lançado o valor da diferença entre o dinheiro conferido e o registrado no fechamento de caixa. 
 
   
 
-- Fechamento de caixa:
+- Fechamento de caixa: onde é lançado o valor informado como conferido no fechamento de caixa.
 
 
 

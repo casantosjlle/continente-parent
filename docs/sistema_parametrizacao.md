@@ -172,11 +172,11 @@ Modo de Janelas vem por padrão Única, com essa configuração somente uma jane
 
 ### Parametrização Caixa
 
-Os parâmetros "Necessário caixa para faturamento " e "Necessário caixa para recebimento" vem marcados por padrão, esses parâmetros obrigam ter uma Caixa Aberto para realizar o faturamento de venda ou recebimento do Contas a Receber. 
+Os parâmetros `Necessário caixa para faturamento`  e `Necessário caixa para recebimento` vem marcados por padrão, esses parâmetros obrigam ter uma Caixa Aberto para realizar o faturamento de venda ou recebimento do Contas a Receber. 
 
 Caso sejam desmarcados será possível realizar o faturamento de Vendas e Recebimento de Contas a Receber sem um Caixa aberto, porém a forma de recebimento "Dinheiro" não estará disponível. Nestes casos o recebimento em espécie poderá ser executado através da forma de pagamento Banco, através da Conta "Caixinha".
 
-O parâmetro "Habilita fundo de troco" vem desmarcado por padrão, se habilitado, no processo de fechamento de Caixa será possível deixar no Caixa um valor destinado ao  fundo de troco, que ficará disponível no caixa, como saldo inicial na próxima abertura.
+O parâmetro `Habilita fundo de troco` vem desmarcado por padrão, se habilitado, no processo de fechamento de Caixa será possível deixar no Caixa um valor destinado ao  fundo de troco, que ficará disponível no caixa, como saldo inicial na próxima abertura.
 
 
 
