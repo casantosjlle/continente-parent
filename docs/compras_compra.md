@@ -40,16 +40,6 @@ O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selec
 
 *Fornecedor*:  A busca pode ser feita tanto pelo código, digitando-o apenas parcialmente ou pela nome, também digitando-o apenas parcialmente.
 
-
-
-![](images/compras_compra_cadastro_fornecedor_codigo.jpg)
-
-
-
-![](images/compras_compra_cadastro_fornecedor_nome.jpg)
-
-
-
 *Nota Fiscal de Compra*: Essas informações não são obrigatórias no cadastro da compra. Elas podem ser inseridas nesse formulário ou na tela de  Faturamento. Se preenchido no formulário de compra, os dados serão levados para a tela de faturamento. Essas informações são obrigatórias para o faturamento da Compra. Ao informar a chave de acesso os campos de Modelo, Número e Série são preenchidos automaticamente. A data de Emissão é a data que o fornecedor emitiu a Nota fiscal e a data de Lançamento é a data que é feita a entrada da mercadoria bem como a contabilização da compra.
 
 ![](images/compras_compra_cadastro_nota_fiscal.jpg)
@@ -60,19 +50,19 @@ O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selec
 
 Ao clicar em Novo os campos para adição do produto ficam disponíveis.
 
-![](images/compras_compra_cadastro_produtos_novo.jpg)
+![](images/compras_compra_cadastro_produtos.jpg)
 
-Quantidade: Campo informado manualmente. Quantidade de produto que entrará no estoque.        
+`Quantidade`: Campo informado manualmente. Quantidade de produto que entrará no estoque.        
 
-Produto: Campo informado manualmente. O campo produto pode ser pesquisado tanto pelo código quanto a descrição do produto.
+`Produto`: Campo informado manualmente. O campo produto pode ser pesquisado tanto pelo código quanto a descrição do produto.
 
 Caso o produto esteja parametrizado para utilizar dimensão de estoque, os campos ficam disponíveis após o produto. No exemplo abaixo a dimensão de estoque é o Tamanho.
 
-![](images/compras_compra_cadastro_produtos.jpg)
+![](images/compras_compra_cadastro_produtos_inclusao.jpg)
 
-Valor Unitário: Campo informado manualmente. Valor unitário do produto. Os valores de frete e impostos (ICMS-ST e IPI) também somam ao custo do produto.
+`Valor Unitário`: Campo informado manualmente. Valor unitário do produto. Os valores de frete e impostos (ICMS-ST e IPI) também somam ao custo do produto.
 
-CFOP: Campo preenchido automaticamente através do grupo de Impostos de compra amarrado ao produto, mas pode ser editado manualmente.
+`CFOP`: Campo preenchido automaticamente através do grupo de Impostos de compra amarrado ao produto, mas pode ser editado manualmente.
 
 *Informações Adicionais:*
 
@@ -80,7 +70,11 @@ O grupo de impostos e Unidade de medida do produto são visualizados nas Informa
 
 Ao clicar em atualizar os dados são atualizados na grade e um novo produto pode ser inserido.
 
-Na grade já é possível visualizar os impostos, IPI e ICMS-ST que foram calculados e o valor do custo total.
+Na grade já é possível visualizar os impostos, IPI e ICMS-ST que foram calculados através do grupo de imposto amarrado ao produto. 
+
+O valor do Frete e Seguro informado na aba Frete também são rateados automaticamente entre os itens.
+
+O valor do produto + ICMS_ST +IPI +FRETE+ SEGURO vão compor o valor do custo do produto.
 
 ![](images/compras_compra_cadastro_produtos_novo2.jpg)
 
