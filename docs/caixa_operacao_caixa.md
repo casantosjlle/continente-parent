@@ -10,7 +10,9 @@
 
 Ao clicar em operação de Caixa, caso não haja caixa aberto para o seu usuário, irá abrir a listagem dos caixas.
 
-Nos caixas já abertos por outros usuários, apenas a opção de histórico fica disponível, onde será possível acessar o histórico do seu usuário neste caixa. Nos caixas fechados a opção abrir também fica disponível.
+Nos caixas já abertos por outros usuários, apenas a opção de [histórico](caixa_caixa.md#historico) fica disponível, onde neste caso será possível acessar somente os históricos dos seu usuário nos caixas. Para acessar o histórico de todos os usuários nos caixas deve-se acessar o cadastro do caixa.
+
+Nos caixas fechados a opção abrir também fica disponível.
 
 #### Abertura de Caixa
 
