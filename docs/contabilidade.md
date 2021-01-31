@@ -18,7 +18,7 @@ Neste menu estão todas as opções relacionadas a Contabilidade, desde relatór
 
 Nesta tela podem ser consultados todos os lançamentos contábeis que o sistema executa por transação.
 
-O número do Comprovante contábil, tem por objetivo agrupar de forma unívoca, todos os registros que integram um mesmo lançamento contábil. Essa numeração segue o parametrizado no cadastro de [Sequência Numérica](sistema_sequencia_numerica.md)
+O número do Comprovante contábil, tem por objetivo agrupar de forma unívoca, todos os registros que integram um mesmo lançamento contábil. Essa numeração segue o parametrizado no cadastro de [Sequência Numérica](sistema_sequencia_numerica.md).
 
 ![](images/contabilidade_lancamento_contabil.jpg)
 
@@ -52,15 +52,11 @@ A organização desta tela é feita em guias, onde temos:
 
 Para inserir, editar ou remover uma conta deve clicar com o botão inverso do mouse ou utilizar os atalhos  visíveis na tela acima.
 
-
-
-
-
 {: #planocontas}
 
 ## Plano de Contas
 
-O plano de contas vem previamente cadastrado na instalação do sistema. Devendo ser manutenido conforme a necessidade de cada empresa.
+O plano de contas vem previamente cadastrado na instalação do sistema, podendo ser alterado conforme a necessidade de cada empresa.
 
 A Conta Pai é a conta sintética superior a que está sendo inserida.
 
