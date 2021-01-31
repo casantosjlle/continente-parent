@@ -116,12 +116,6 @@ Na aba Frete devem ser inseridos os valores de Frete e Seguro que compõe o valo
 
 ![](images/compras_compra_cadastro_frete.jpg)
 
-Ao clicar no botão Gravar a Compra é salva e pode ser editada em outro momento ou faturada.
-
-
-
-![](images/compras_compra_cadastro_gravar.jpg)
-
 
 
 {: #faturamento}
@@ -132,25 +126,23 @@ Nesta tela é feito o faturamento da compra, ou seja, após o faturamento o prod
 
 Os valores informados são sumarizados nos totalizadores no final da tela.  Os valores informados podem ser removidos através do botão Remover no final de cada condição de pagamento.
 
-*Dinheiro:* Esta forma de pagamento só fica disponível se houver um Caixa aberto para o usuário que está fazendo o pagamento e se no cadastro do caixa estiver parametrizado para fazer pagamento em Dinheiro.
-
 ![](images/compras_compra_faturamento_pagamento.jpg)
 
 
 
 *Parcelamento*:  O valor faturado como parcelamento será levado para o [Contas a Pagar](financeiro_contas_pagar.md#contaspagar).
 
-*Cartão:* O valor faturado como Cartão de Débito será lançado como uma saída diretamente na conta bancária amarrada ao [cadastro de cartão corporativo](financeiro_cartao_corporativo.md#cadastro).
+*Cartão Corporativo* O valor faturado como Cartão de Débito será lançado como uma saída diretamente na conta bancária amarrada ao [cadastro de cartão corporativo](financeiro_cartao_corporativo.md#cadastro). O valor faturado como Cartão de Crédito será lançado como transações na [Conciliação de Cartão Corporativo](financeiro_cartao_corporativo.md#conciliacao).
 
-​             O valor faturado como Cartão de Crédito será lançado como transações na [conciliação de Cartão Corporativo](financeiro_cartao_corporativo.md#conciliacao).
+Conta Bancária: Na conta bancária pode ser escolhido em qual conta bancária será lançada a saída. Na conta bancária podem ser cadastrados os bancos de instituições financeiras ou também o "Caixinha" da empresa, também chamado de "Fundo Fixo".
 
-*Depósito:* O valor faturado como depósito será lançado como uma saída diretamente na conta bancária informada.
+*Crédito:* Somente poderá ser faturado como crédito, se houver crédito disponível para o Fornecedor. Neste caso o faturamento irá liquidar os créditos do fornecedor.
 
-*Crédito:* Somente poderá ser faturado como crédito, se houver crédito disponível para o Fornecedor. Neste caso o faturamento faz o abatimento do crédito.
+Os créditos de fornecedor são gerados por movimentação manual de Caixa ou Banco ou através de uma devolução de compra. 
 
 Após o faturamento o histórico de abatimentos e saldo de crédito para o fornecedor pode ser visto diretamente no [menu crédito no cadastro do fornecedor](compras_fornecedor.md#credito).
 
-![](images/compras_compra_faturamento_pagamento_credito.jpg)
+
 
 
 
@@ -159,6 +151,8 @@ Após o faturamento o histórico de abatimentos e saldo de crédito para o forne
 #### Nota Fiscal
 
 Essas informações são obrigatórias para o faturamento da Compra. Ao informar a chave de acesso os campos de Modelo, Número e Série serão preenchidos automaticamente. A data de Emissão é a data que o fornecedor emitiu a Nota fiscal e a data de Lançamento é a data que será feita a entrada da mercadoria bem como a contabilização da compra.
+
+Não é possível executar o faturamento de mais de uma compra utilizado a mesma chave de acesso.
 
 ![](images/compras_compra_faturamento_nota_fiscal.jpg)
 
@@ -170,25 +164,29 @@ Essas informações são obrigatórias para o faturamento da Compra. Ao informar
 
 Nesta tela  é possível fazer a reversão do lançamento de uma compra. Importante ressaltar que não é o cancelamento da Nota Fiscal, até porque a Nota Fiscal foi emitida pelo fornecedor e cabe ao mesmo o cancelamento se necessário.  Esse processo faz a reversão do lançamento da compra no sistema.
 
-Deve-se informar o motivo da reversão e clicar em efetuar.
+Para realizar a reversão basta informar o motivo da reversão e clicar em efetuar. 
+
+Ao efetuar a reversão da Compra o status da Compra e da Nota Fiscal no Gestão de NF-e ficam Revertido:
 
 ![](images/compras_compra_reversao.jpg)
 
 
 
-Ao efetuar a reversão da Compra o status da Compra e da Nota Fiscal no Gestão de NF-e ficam Revertido:
-
-![](images/compras_compra_statusrevertido.jpg)
-
 ![](images/compras_compra_statusrevertido2.jpg)
 
 
 
-O financeiro gerado pela compra, por exemplo Contas à Pagar, transação de cartão corporativo ou transação bancária ficam com  status Cancelado:
+O Contas a Pagar gerado pela compra ficam com  status Cancelado:
 
 ![](images/compras_compra_status_cancelado_contas_pagar.jpg)
 
- Na contabilidade é feito um lançamento contábil inverso ao feito na compra com o Histórico de Reversão:
+Se a compra revertida foi faturada com pagamento por Conta Bancária ou Cartão Corporativo,  será lançado uma transação para reverter a compra.
+
+![](images/compras_compra_status_cancelado_cartao_corporativo.jpg)
+
+
+
+Na contabilidade é feito um lançamento contábil inverso ao feito na compra com o Histórico de Reversão. Importante ressaltar que as transações geradas pela reversão terão a data da execução da reversão.
 
 ![](images/compras_compra_reversao_comprovante_contabil.jpg)
 
@@ -196,7 +194,7 @@ O financeiro gerado pela compra, por exemplo Contas à Pagar, transação de car
 
 #### Ticket
 
-O ticket de compra pode ser impresso para compras Faturadas.
+Após o faturamento de compra, através do botão `Mais`pode ser impresso o Comprovante de Compra, que mostra um detalhamento dos produtos, valores e formas de pagamento da Compra.
 
 ![](images/compras_compra_ticket.jpg)
 
