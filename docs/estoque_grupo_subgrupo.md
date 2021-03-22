@@ -22,10 +22,6 @@ A utilização de grupo de produtos não é obrigatória, mas quando os produtos
 
 Ao cadastrar um grupo de produtos, pode-se também associar subgrupos de produtos, que servem para um maior detalhamento do grupo de produto.
 
-
-
-
-
 ![](images/estoque_grupo_produto_cadastro.jpg)
 
 

@@ -22,6 +22,12 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 
 
+## Como fazer?
+
+|[Como cadastrar um produto?](como_fazer_cadastrar_produto.md)
+
+
+
 ## Mantenha-se atualizado:
 
 Estamos constantemente trabalhando para melhorar sua experiência como usuário Continente Nuvem, por isso fique sempre por dentro das nossas dicas:
