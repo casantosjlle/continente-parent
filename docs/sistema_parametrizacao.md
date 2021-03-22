@@ -116,9 +116,11 @@ As parametrizações de Dimensão de Estoque são feitas uma única vez para tod
 
 As dimensões de estoque não são obrigatórias, elas são um facilitador para controle e gerenciamento do estoque.
 
-Onde o Nome é a Dimensão utilizada e os Valores são as opções disponíveis.
+Onde o Nome é a Dimensão utilizada e os Valores são as opções disponíveis. 
 
-![](images/sistema_parametrizacao_dimensao_estoque.jpg)
+Para adicionar os valores basta escrever o nome  e separar com "," vírgula:
+
+![](images/sistema_parametrizacao_dimensao_estoque.gif)
 
 Podem ser cadastradas até 3 dimensões de estoque, que após criadas devem ser habilitadas nos produtos que as utilizarão:
 
