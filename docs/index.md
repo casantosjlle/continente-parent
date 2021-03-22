@@ -16,6 +16,8 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 |[Primeiro Acesso](primeiro_acesso.md)
 
+|[Dicas de usabilidade](dicas.md)
+
 |[Configurações para emissão de NF-e](configuracoes_emissao_nfe.md)
 
 |[Configurações para emissão de NFC-e](configuracoes_emissao_nfce.md)
@@ -25,14 +27,6 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 ## Como fazer?
 
 |[Como cadastrar um produto?](como_fazer_cadastrar_produto.md)
-
-
-
-## Mantenha-se atualizado:
-
-Estamos constantemente trabalhando para melhorar sua experiência como usuário Continente Nuvem, por isso fique sempre por dentro das nossas dicas:
-
-|[Dicas de usabilidade](dicas.md)
 
 
 
