@@ -20,7 +20,27 @@ Orientamos que todo grupo de imposto criado tenha no mínimo esses 4 impostos, m
 
 ![](images/gestao_fiscal_grupo_imposto_icms.jpg)
 
+No campo alíquota deve ser informada a alíquota de ICMS interestadual, ou seja, do estado de destino da mercadoria.
+
+No Campo UF os estado da alíquota.
+
+
+
 ###### ICMS-ST
+
+Atualmente o Continente Nuvem faz o cálculo apenas do ICMS-ST sobre MVA. 
+
+No campo alíquota deve ser informada a alíquota de ICMS interestadual, ou seja, do estado de destino da mercadoria.
+
+No Campo UF os estado da alíquota.
+
+No campo MVA o percentual da margem de valor agregado.
+
+No campo Redução MVA deve ser informado o percentual de redução de MVA, se não houver deixar 0
+
+No campo ICMS próprio informar a alíquota interna do estado do adquirente.
+
+No campo Redução de Base informar o percentual de redução de base de imposto, se não houver deixar 0.
 
 ![](images/gestao_fiscal_grupo_imposto_icms-st.jpg)
 
