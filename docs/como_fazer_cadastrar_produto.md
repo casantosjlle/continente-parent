@@ -1,12 +1,10 @@
-[Início](index.md) / Cadastro de produto
+[Início](index.md) / Como cadastrar um produto
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
 
 
-
-
-### ![](images/produto_32x32.png) Como Cadastrar um produto?
+### ![](images/produto_32x32.png)Como cadastrar um produto?
 
 Acesse Menu: Estoque>>Produto e clique em novo.
 
@@ -18,7 +16,7 @@ Informe a descrição e  também as informações de [Marca](estoque_marca.md#ma
 
 Informe a NCM, você pode buscar por uma descrição parcial da NCM.
 
-Informe o Grupo de Impostos de Compra e Venda. Os grupos de impostos padrão são cadastrados  com a instalação do sistema. [clique aqui](como_fazer_alterar_grupo_imposto.md) para ver como alterá-los.
+Informe o Grupo de Impostos de Compra e Venda. Os grupos de impostos padrão do sistema tem CSOSN 103. Se seus produtos estão enquadrados em outra situação tributária [clique aqui](como_fazer_alterar_CSOSN_ICMS.md) para ver como alterá-los.
 
 Na aba estoque, se houver, informe as [dimensões de estoque](sistema_parametrizacao.md#dimensaoestoque) que o produto será controlado, como tamanho ou cor. Após a gravação do item essa informação não poderá mais ser alterada.
 
