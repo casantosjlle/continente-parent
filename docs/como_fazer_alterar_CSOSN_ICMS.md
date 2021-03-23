@@ -14,7 +14,7 @@ Se sua empresa está no regime do Simples Nacional e seus produtos estão enquad
 
 
 
-![](images/como_fazer_pesquisa_grupo_imposto.jpg)
+![](images/como_fazer_pesquisa_grupo_imposto2.jpg)
 
 
 
