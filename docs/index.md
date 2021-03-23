@@ -28,7 +28,7 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 |[Como cadastrar um produto?](como_fazer_cadastrar_produto.md)
 
-|[Como alterar a CSOSN do ICMS ?](como_fazer_alterar_CSOSN_ICMS.md)
+|[Como alterar o CSOSN do ICMS ?](como_fazer_alterar_CSOSN_ICMS.md)
 
 
 

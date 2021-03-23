@@ -6,15 +6,17 @@
 
 ### Como alterar o CSOSN do ICMS
 
-O Continente Nuvem utiliza as informações contidas nos grupos de impostos para emissão dos documentos fiscais. 
-
 Você pode alterar os valores de impostos e CSOSN em cada venda, mas o ideal é deixar a configuração correta em cada grupo de imposto, que será amarrado ao cadastro do produto.
 
 Os dois grupos de impostos abaixo são padrão do sistema e já vem cadastrados quando você instala o Continente Nuvem. 
 
 Se sua empresa está no regime do Simples Nacional e seus produtos estão enquadrados na situação tributária "*103	Isenção do ICMS no Simples para receita bruta"* você não precisa alterá-los e pode utilizá-los no [cadastro de produtos](como_fazer_cadastrar_produto.md).
 
+
+
 ![](images/como_fazer_pesquisa_grupo_imposto.jpg)
+
+
 
 
 
