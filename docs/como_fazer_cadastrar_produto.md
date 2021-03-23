@@ -6,9 +6,7 @@
 
 
 
-{: #produto}
-
-### ![](C:\Users\carin\Documents\GITHUB\continente-parent\docs\images\produto_32x32.png) Como Cadastrar um produto?
+### ![](images/produto_32x32.png) Como Cadastrar um produto?
 
 Acesse Menu: Estoque>>Produto e clique em novo.
 
@@ -20,19 +18,17 @@ Informe a descrição e  também as informações de [Marca](estoque_marca.md#ma
 
 Informe a NCM, você pode buscar por uma descrição parcial da NCM.
 
-Informe o Grupo de Impostos de Compra e Venda. Os grupos de impostos padrão são cadastrados  com a instalação do sistema. clique aqui para ver como altera-los.
+Informe o Grupo de Impostos de Compra e Venda. Os grupos de impostos padrão são cadastrados  com a instalação do sistema. [clique aqui](como_fazer_alterar_grupo_imposto.md) para ver como alterá-los.
 
 Na aba estoque, se houver, informe as [dimensões de estoque](sistema_parametrizacao.md#dimensaoestoque) que o produto será controlado, como tamanho ou cor. Após a gravação do item essa informação não poderá mais ser alterada.
 
-Na Aba venda informe o preço de venda, ou a margem que deve ser acrescida em cima do custo para formar o preço de venda. Exemplo se você informar uma margem de 100%, após feito o lançamento da compra, onde o preço de custo for 100 reais, o sistema vai sugerir um preço de venda de 200 reais.
+Na Aba venda informe o preço de venda, ou a margem que deve ser acrescida em cima do custo para formar o preço de venda. 
 
 Clique em gravar.
 
-![](C:\Users\carin\Documents\GITHUB\continente-parent\docs\images\como_fazer_cadastro_produto.gif)
+![](images/como_fazer_cadastro_produto.gif)
 
-
-
-Para mais informações sobre todos os campos do cadastro de produto acesse [clique aqui](estoque_produto.md).
+Para mais informações sobre todos os campos do cadastro de produto  [clique aqui](estoque_produto.md).
 
 [Voltar](index.md)
 
