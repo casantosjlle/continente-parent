@@ -30,7 +30,7 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 |[Como alterar o CSOSN do ICMS ?](como_fazer_alterar_CSOSN_ICMS.md)
 
-
+|[Como cadastrar um cliente](como_fazer_cadastrar_cliente.md)
 
 ## Quando ficar na dúvida:
 
