@@ -34,6 +34,8 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 |[Como cadastrar uma venda?](como_fazer_cadastrar_venda.md)
 
+|[Como cadastrar um fornecedor?](como_fazer_cadastrar_fornecedor.md)
+
 ## Quando ficar na dúvida:
 
 Quando surgir aquela dúvida em algum campo ou processo específico, explore nossa documentação:

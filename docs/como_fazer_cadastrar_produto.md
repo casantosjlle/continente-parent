@@ -8,7 +8,7 @@
 
 Acesse Menu: Estoque>>Produto e clique em novo.
 
-O código do produto será preenchido automaticamente de acordo com a [sequencia numérica](sistema_sequencia_numerica.md), caso queira preencher o código com outra numeração basta remover a sequencia numérica de produto.
+O código do produto será preenchido automaticamente de acordo com a [sequencia numérica](sistema_sequencia_numerica.md) podendo ser alterada ou substituída por outro código, para isto basta remover a sequencia numérica de produto.
 
 O código de barras  não é obrigatório, mas irá ajudar a cadastrar suas vendas de maneira ágil.
 
