@@ -18,6 +18,8 @@ Informe a Inscrição Estadual se houver e marque o campo Contribuinte de ICMS s
 
 *os dados são consultados na base de dados da Receita Federal do Brasil e podem ter uma atualização de até 3 meses antes.
 
+Clique em gravar.
+
 
 
 ![](images/como_fazer_cadastro_fornecedor.gif)
