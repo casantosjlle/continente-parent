@@ -26,9 +26,7 @@ Os produtos podem ser inclusos também através da busca manual dos produtos:
 
 
 
-Depois de informar os produtos é só clicar em gravar e pronto, sua venda está cadastrada!
-
-
+Depois de informar os produtos é só clicar em gravar e pronto, sua venda está pronta para ser faturada, [clique aqui](como_fazer_como_faturar_venda.md) para saber como.
 
 Para mais informações sobre todos os campos do cadastro de venda [clique aqui](vendas_venda.md).
 
