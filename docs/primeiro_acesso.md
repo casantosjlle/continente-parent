@@ -14,7 +14,9 @@ Siga o passo a passo a seguir para o seu primeiro acesso no Continente Nuvem. Fi
 
 #### 1º Acessar
 
- Ao realizar a instalação do Continente Nuvem, um ícone de acesso será instalado em sua área de trabalho. Acesse o sistema com o usuário e senha que você cadastrou, e informe o código do cliente você recebeu no e-mail de liberação de acesso.
+ Ao realizar a instalação do Continente Nuvem, um ícone de acesso será instalado em sua área de trabalho. 
+
+Acesse o sistema com o usuário e senha que você cadastrou e informe o código do cliente você recebeu no e-mail de liberação de acesso.
 
 ![](images/primeiro_acesso_login.gif)
 
@@ -23,6 +25,8 @@ Siga o passo a passo a seguir para o seu primeiro acesso no Continente Nuvem. Fi
 #### 2º Completar os dados da empresa
 
 Acesse o Menu Administração>>Empresa:
+
+![](images/primeiro_acesso_menu_empresa.gif)
 
 Complete os dados da sua empresa, lembre-se que estes dados sairão nos documentos fiscais emitidos.
 
@@ -53,8 +57,6 @@ Ao marcar este campo o sistema fará o envio automático de um e-mail com o XML 
 
 
  Agora que sua empresa está no Continente Nuvem, veja também nossas orientações  de [Configurações para Emissão de NF-e](configuracoes_emissao_nfe) e [Configurações para emissão de NFC-e](configuracoes_emissao_nfce)
-
-
 
 
 
