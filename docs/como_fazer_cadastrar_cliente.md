@@ -16,6 +16,8 @@ O sistema identifica através do CPF\CNPJ se cliente é pessoa física ou Juríd
 
 O único campo obrigatório é a Razão Social ou Nome porém lembre-se que para emissão de NF-e os campos de IE e todos os campos de endereço são obrigatórios.
 
+Para clientes pessoa jurídica, quando o contribuinte for ISENTO de inscrição estadual, deve-se escrever ISENTO no campo específico. Quando o contribuinte não tiver inscrição estadual deixar o campo em branco, não marcar o campo Contribuinte ICMS e marcar o campo Consumidor Final.
+
 Outro campo que deve-se atentar é o e-mail, para os clientes jurídicos que terão faturamento via NF-e deve ser informar o e-mail para onde será enviada automaticamente a  NF-e quando faturado. O e-mail deve ser parametrizado como tipo "NF-e" para isto basta clicar o o botão inverso do mouse em cima.
 
 Após preencher todos os campos clique em gravar.
