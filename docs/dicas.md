@@ -50,7 +50,7 @@ Através do atalho `F8 `  em todas as telas você passa as abas sem precisar usa
 
 Lembre-se destes atalhos sempre que você ver o campo de data. Não importa se letra maiúscula ou minúscula:
 
-Para inserção no sistema:
+Para informar uma data:
 
 `h` preenche a data de hoje
 
@@ -60,7 +60,7 @@ Para inserção no sistema:
 
 
 
-Para consulta de data, Campo De Até:
+Para consultar uma data, Campo De Até:
 
 `Ctrl+h` preenche a data de hoje até hoje
 
@@ -72,7 +72,7 @@ Para consulta de data, Campo De Até:
 
 `Ctrl+n` preenche a data do primeiro dia do ano até o último dia do ano 
 
- ![](images/dicas_data_pesquisa.jpg)
+ ![](images/dicas_data_pesquisa.gif)
 
 #### Pesquisa parcial
 
@@ -80,15 +80,11 @@ Todos os campos de pesquisa funcionam por partes fracionadas das palavras, ou, s
 
 Para buscar um valor exato, o valor deve ser inserido entre aspas simples , exemplo '123'.
 
-
-
- ![](images/dicas_pesquisa_parcial.jpg)
+ ![](images/dicas_pesquisa_parcial.gif)
 
 Para limitar a busca ao início ou final da frase você pode utilizar o *. 
 
 Se o * for utilizado no final da busca o sistema vai trazer todos os registros que iniciam, se o * for utilizado no início da busca o sistema vai trazer todos os registros que terminam.
-
- ![](images/dicas_pesquisa_parcial_limitada.jpg)
 
 
 
