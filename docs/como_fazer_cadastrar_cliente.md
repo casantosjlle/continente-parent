@@ -10,13 +10,13 @@ Acesse Menu: Vendas>>Cliente e clique em novo.
 
 Informe o CPF ou CNPJ do cliente, não é necessário informar a pontuação, clique OK.
 
-Se for informado um CNPJ vai abrir o cadastro Cliente Jurídico, se  for informado um CPF vai abrir o cadastro Cliente Físico.
-
 O código do cliente será preenchido automaticamente de acordo com a [sequencia numérica](sistema_sequencia_numerica.md) podendo ser alterada ou substituída por outro código, para isto basta remover a sequencia numérica de cliente.
 
-Alguns campos variam de acordo se o cliente é físico ou jurídico, por exemplo, o campo Inscrição estadual, Regime tributário, Natureza jurídica só aparecem quando informando um CNPJ, já os campos RG, Gênero, Estado civil só aparecem quando informado CPF.
+O sistema identifica através do CPF\CNPJ se cliente é pessoa física ou Jurídica e habilita campos específicos para cada tipo de cliente, por exemplo o campo Inscrição Estadual não aparece quando o cliente é pessoa física, ou o campo RG não aparece quando cliente é pessoa jurídica.
 
 O único campo obrigatório é a Razão Social ou Nome porém lembre-se que para emissão de NF-e os campos de IE e todos os campos de endereço são obrigatórios.
+
+Outro campo que deve-se atentar é o e-mail, para os clientes jurídicos que terão faturamento via NF-e deve ser informar o e-mail para onde será enviada automaticamente a  NF-e quando faturado. O e-mail deve ser parametrizado como tipo "NF-e" para isto basta clicar o o botão inverso do mouse em cima.
 
 Após preencher todos os campos clique em gravar.
 
