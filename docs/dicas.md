@@ -12,21 +12,17 @@ Aqui você vai encontrar as dicas que vão facilitar ainda mais a utilização d
 
 
 
-#### Barra de pesquisa
-
-Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, basta digitar parcialmente o nome e não  é necessário direcionar o cursor dentro da barra, quando estiver no menu principal basta digitar em qualquer lugar da tela que o cursor será automaticamente direcionado para barra.
-
-![](images/dicas_busca.gif)
-
-
-
 #### Favoritos
 
 Ao clicar na estrela no início do menu, ele entra para o menu de favoritos e o acesso estará disponível na tela principal.
 
 ![](images/dicas_favoritos2.gif)
 
+#### Barra de pesquisa
 
+Ao pesquisar na barra de pesquisa pode-se abrir qualquer tela ou relatório, basta digitar parcialmente o nome e não  é necessário direcionar o cursor dentro da barra, basta digitar em qualquer lugar da tela principal que o cursor será automaticamente direcionado para barra.
+
+![](images/dicas_busca.gif)
 
 #### Marcar Todos
 
