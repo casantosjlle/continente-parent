@@ -12,43 +12,43 @@ Siga o passo a passo a seguir para o seu primeiro acesso no Continente Nuvem. Fi
 
 
 
-Ao realizar a instalação do Continente Nuvem, um ícone de acesso será instalado em sua área de trabalho.
+#### 1º Acessar
 
- Acesse o sistema com as seguintes informações:
-
-Usuário: admin@admin
-
-Senha: admin
-
-Código do Cliente:  *nós lhe informaremos o seu código do cliente*
+ Ao realizar a instalação do Continente Nuvem, um ícone de acesso será instalado em sua área de trabalho. Acesse o sistema com o usuário e senha que você cadastrou, e informe o código do cliente você recebeu no e-mail de liberação de acesso.
 
 ![](images/primeiro_acesso_login.gif)
 
 
 
-#### 1º Alterar os dados da Empresa temporária
+#### 2º Completar os dados da empresa
 
-Acesse o Menu Administração>>Empresa: Edite os dados da empresa temporária para os dados da sua empresa. No campo domínio você deve alterar o  “admin” e informar o domínio que você irá acessar o sistema. O domínio pode ser um dos nomes de sua empresa, ou algo que identifique a empresa que você está acessando.
+Acesse o Menu Administração>>Empresa:
 
-![](images/primeiro_acesso_empresa.gif)
+Complete os dados da sua empresa, lembre-se que estes dados sairão nos documentos fiscais emitidos.
 
+Na aba Contador informe os dados do seu Contador
 
+#### Dados do Contador
 
-#### 2º Crie os usuários
+![](images/administracao_empresa_contador.jpg)
 
-Acesse o Menu Administração>>Usuário: Crie o(s) usuário(s) e senha(s). Esses serão os usuários de acesso ao sistema.. Ex.: Se você criou o usuário “asilva” e informou o domínio “continente”: seu acesso ao sistema será asilva@continente. 
+{: #autxml}
 
-![](images/primeiro_acesso_usuario.gif)
+##### Autorizado no XML emitido - autXML
 
+ Ao marcar este campo o CPF ou CNPJ informado será levado para o XML na tag <autXML>, autorizando assim a consulta do XML da NF-e no Portal Nacional.
 
-
-#### 3º Acesse o sistema com o novo usuário
-
-Acesse o Menu Sistema e clique em **Trocar usuário** e pronto! Agora é só acessar com o novo usuário que você criou. Obs. *Não esqueça de informar o @domínio junto ao seu usuário.*
-
-![](images/primeiro_acesso_trocas_usuario.gif)
+![](images/administracao_empresa_contador_autxml.jpg)
 
 
+
+{: #emailcontador}
+
+##### Receber por e-mail DF-e emitidos 
+
+Ao marcar este campo o sistema fará o envio automático de um e-mail com o XML de todos os Documentos fiscais emitidos no último mês completo juntamente com um relatório de documentos emitidos no mesmo período. O e-mail será enviado para o endereço informado no campo e-mail as 00:00h do dia parametrizado no campo `Todo dia` .
+
+![](images/administracao_empresa_contador_emailcontador.jpg)
 
 
 
