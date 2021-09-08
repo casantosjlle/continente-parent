@@ -54,7 +54,7 @@ Ao clicar no botão Gravar a Devolução de Venda poderá ser faturada no mesmo 
 
 {: #faturamento}
 
-#### Faturamento
+#### Faturamento de Devolução de Venda
 
 Nesta tela é feito o faturamento da Devolução de Vendas, as informações estão dispostas em 6 abas:
 

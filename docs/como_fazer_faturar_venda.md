@@ -8,8 +8,25 @@ A tela de faturamento será aberta, onde para NFC-e existe a possibilidade de in
 
 Os valores devem ser informados em cada forma de recebimento, podendo ser informada uma ou mais formas de recebimento.
 
-![](images/como_fazer_faturar_venda_nfce.jpg)
+![](images/como_fazer_faturar__venda_nfce1.gif)
 
 
 
 Para o faturamento de uma NF-e, as abas Produtos, Transporte e informações adicionais também ficam disponíveis.
+
+Caso houver frete destacado na Venda devem ser inseridas as informações relacionadas ao Volume da Mercadoria na aba Transporte.
+
+Na aba informações Adicionais podem ser adicionados os textos que serão impressos no rodapé do DANFE. [Clique aqui](vendas_venda.md#informacoesadicionais) e entenda a diferença entre informações adicionais e informações fiscais.
+
+Agora é só clicar em faturar e pronto a sua venda será faturada. O  estoque será registrado com a saída da mercadoria e o documento fiscal poderá ser emitido automaticamente em seguida.
+
+Se os recursos financeiros estiverem habilitados as transações financeiras também serão geradas nesse momento, podendo ser de contas a receber no caso de recebimento à prazo ou de entrada no caixa ou banco nas transações à vista.
+
+
+
+Para mais informações sobre o faturamento de venda [clique aqui](vendas_venda.md#faturamento).
+
+
+
+[Voltar](index.md)
+
