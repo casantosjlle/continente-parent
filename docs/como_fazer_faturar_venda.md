@@ -1,15 +1,15 @@
 ### ![](C:\Users\carin\Documents\GITHUB\continente-parent\docs\images\venda_32x32.png)Como faturar uma Venda?
 
-Acesse Menu: Vendas>>venda, selecione uma venda, clique em Mais e Faturamento
+Acesse Menu: Vendas>>venda, pesquise a venda que você quer faturar.
 
-Todo faturamento é associado há um documento fiscal, que pode ser uma NF-e ou uma NFC-e.
+Selecione a venda e clique no menu `Mais`>>Faturamento ou digite F2.
 
-Para NFC-e existe a possibilidade de informar o CPF\CNPJ na NFC-e, caso haja um cliente cadastrado essa informação vem preenchida podendo ser removida.
+A tela de faturamento será aberta, onde para NFC-e existe a possibilidade de informar o CPF\CNPJ.
 
-O valor de acordo com a forma de recebimento, podendo ser informada uma ou mais formas de recebimento.
+Os valores devem ser informados em cada forma de recebimento, podendo ser informada uma ou mais formas de recebimento.
 
 ![](images/como_fazer_faturar_venda_nfce.jpg)
 
 
 
-Caso o faturamento for associada a uma NF-e, as abas Produtos, Transporte e informações adicionais também ficam disponíveis.
+Para o faturamento de uma NF-e, as abas Produtos, Transporte e informações adicionais também ficam disponíveis.

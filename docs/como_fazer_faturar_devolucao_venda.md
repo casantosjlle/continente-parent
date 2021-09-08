@@ -4,7 +4,7 @@
 
 
 
-### Como cadastrar uma devolução de Venda?
+### Como faturar uma devolução de Venda?
 
 Acesse Menu: Vendas>>venda, pesquise a venda que você quer devolver.
 
