@@ -66,14 +66,6 @@ Nesta aba deve ser informado se a Nota Fiscal de Devolução de Venda será emit
 
 ![](images/vendas_devolucao_venda_faturamento_nota_fiscal.jpg)
 
-{: #pagamento}
-
-##### Faturamento de Devolução de Venda aba Pagamento
-
-Esta é uma aba apenas informativa, na atual versão do sistema toda devolução de Venda irá gerar um crédito para o Cliente. Esse crédito poderá ser pago em dinheiro para o cliente ou ser abatido na emissão de uma nova Nota Fiscal.
-
-![](images/vendas_devolucao_venda_faturamento_pagamento.jpg)
-
 {: #produtos}
 
 ##### Faturamento de Devolução de Venda aba Produtos

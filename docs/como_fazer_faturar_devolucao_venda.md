@@ -6,27 +6,25 @@
 
 ### Como faturar uma devolução de Venda?
 
-Acesse Menu: Vendas>>venda, pesquise a venda que você quer devolver.
+A o gravar a devolução de venda o sistema pergunta se deseja prosseguir com o faturamento, ou acesse Menu: Vendas>>Devolução de venda, pesquise a devolução de venda que você quer faturar.
 
-Selecione a venda e clique no menu `Mais`>>Devolução ou digite Ctrl + D.
+Selecione a devolução de venda e clique no menu `Mais`>>Faturamento ou digite F2.
 
-Selecione a linha que será devolvida, clique em `editar` e informe a quantidade que será devolvida.
+Por padrão a opção "Emitir NF-e de Devolução" estará marcada, nos casos onde o cliente emite a NF-e de devolução essa opção deverá ser desmarcada e deve ser informado os dados da NF-e do Cliente.
 
-Se for uma devolução total clique em `Devolver Tudo.`
-
-Se na venda não houve informação de cliente cadastrado, essa informação pode e deve ser informada diretamente na devolução de venda pois é fundamental para emissão da NF-e.
-
-Depois de informar a quantidade de produtos é só clicar em gravar e pronto, sua devolução de venda está pronta para ser faturada!
-
-[Clique aqui](como_fazer_faturar_devolucao_venda.md) para saber aprender como fazer o faturamento da devolução venda.
-
-![](images/como_fazer_cadastrar_devolucao_venda.gif)
+![](images/como_fazer_faturar_devolucao_venda.gif)
 
 
 
-Se a venda de origem não tiver sido faturada no Continente Nuvem, você pode fazer a devolução diretamente no menu Vendas>Devolução de venda, neste caso os produtos terão que ser inclusos manualmente.
+Caso houver frete destacado na Devolução de Venda devem ser inseridas as informações relacionadas ao Volume da Mercadoria na aba Transporte.
 
-Para mais informações sobre todos os campos do cadastro de Devolução de venda [clique aqui](vendas_devolucao_venda.md).
+Na aba informações Adicionais podem ser adicionados os textos que serão impressos no rodapé do DANFE. [Clique aqui](vendas_devolucao_venda.md#informacoesadicionais) e entenda a diferença entre informações adicionais e informações fiscais.
+
+Na aba Referência fiscal está informada os dados da Venda que originou a devolução, se a devolução de venda foi criada manualmente as informações de referência fiscal devem ser informadas manualmente.
+
+Agora é só clicar em faturar e pronto a sua devolução de venda será faturada. O  estoque será registrado com a entrada da mercadoria e se a opção Emitir NF-e estiver marcada a NF-e de devolução será emitida.
+
+Se o recurso de crédito de cliente estiver habilitado será gerado um crédito para o cliente que poderá ser pago ou abatido em outra venda.
 
 [Voltar](index.md)
 
