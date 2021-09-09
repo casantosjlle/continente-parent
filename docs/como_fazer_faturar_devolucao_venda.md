@@ -1,4 +1,4 @@
-[Início](index.md) / Como cadastrar uma devolução de venda
+[Início](index.md) / Como faturar uma devolução de venda
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
