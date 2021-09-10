@@ -24,9 +24,7 @@ Na aba Referência fiscal está informada os dados da Venda que originou a devol
 
 Agora é só clicar em faturar e pronto a sua devolução de venda será faturada. O  estoque será registrado com a entrada da mercadoria e se a opção Emitir NF-e estiver marcada a NF-e de devolução será emitida.
 
-Se o recurso de crédito de cliente estiver habilitado será gerado um crédito para o cliente que poderá ser pago ou abatido em outra venda.
-
-
+Se os recursos financeiros estiverem habilitados será gerado um crédito para o cliente que poderá ser pago ou abatido em outra venda.
 
 Para mais informações sobre o faturamento de devolução de venda [clique aqui](vendas_devolucao_venda.md#faturamento).
 

@@ -46,6 +46,8 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 |[Como cadastrar uma devolução de compra?](como_fazer_cadastrar_devolucao_compra.md)
 
+|[Como faturar uma devolução de compra?](como_fazer_faturar_devolucao_compra.md)
+
 ## Quando ficar na dúvida:
 
 Quando surgir aquela dúvida em algum campo ou processo específico, explore nossa documentação:

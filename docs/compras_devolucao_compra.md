@@ -78,7 +78,7 @@ Caso houver frete destacado na Devolução de compra nesta aba devem ser inserid
 
 ![](images/compras_devolucao_compra_faturamento_informacoes_adicionais_frete.jpg)
 
-
+{: #textos}
 
 ###### Textos
 
