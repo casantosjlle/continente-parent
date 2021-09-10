@@ -22,15 +22,15 @@ Os impostos na Devolução de Compra são os mesmos impostos calculados na compr
 
 Caso necessário os impostos podem ser revisados, clicando com o botão inverso do mouse em cima da linha, em Redefinir Impostos.
 
-![](C:/Users/carin/Documents/GITHUB/continente-parent/docs/images/compras_devolucao_compra_redefinir_impostos.jpg)
+![](images/compras_devolucao_compra_redefinir_impostos.jpg)
 
 É possível alterar o grupo de impostos, e assim o sistema faz todo o recálculo dos impostos de acordo com o impostos do novo grupo selecionado:
 
-![](C:/Users/carin/Documents/GITHUB/continente-parent/docs/images/compras_devolucao_compra_redefinir_impostos3.jpg)
+![](images/compras_devolucao_compra_redefinir_impostos3.jpg)
 
 Ou pode-se alterar diretamente o valor do Imposto, base ou CST calculados, para isso o campo "Informar Manualmente" deve ser marcado, assim todos os campos permitem edição.
 
-![](C:/Users/carin/Documents/GITHUB/continente-parent/docs/images/compras_devolucao_compra_redefinir_impostos4.jpg)
+![](images/compras_devolucao_compra_redefinir_impostos4.jpg)
 
 
 
@@ -44,7 +44,7 @@ Na aba Transporte devem ser inseridos os valores de Frete e Seguro que compõe o
 
 O valor de  Despesas acessórias informado neste campo será impresso em campo próprio no DANFE e irá compor o Valor Total da Nota Fiscal. Neste campo podem ser informados os valores de ICMS-ST ou IPI ou qualquer outra despesa que compõe o valor da NF-e 
 
-![](C:/Users/carin/Documents/GITHUB/continente-parent/docs/images/compras_devolucao_compra_informacoes_adicionais.jpg)
+![](images/compras_devolucao_compra_informacoes_adicionais.jpg)
 
 Ao clicar no botão Gravar a Devolução de Venda poderá ser faturada no mesmo momento ou então será salva com status aberto na pesquisas da Devolução de Compra.
 
@@ -52,7 +52,7 @@ Ao clicar no botão Gravar a Devolução de Venda poderá ser faturada no mesmo 
 
 
 
-![](C:/Users/carin/Documents/GITHUB/continente-parent/docs/images/compras_devolucao_compra_faturar.jpg)
+![](images/compras_devolucao_compra_faturar.jpg)
 
 
 
