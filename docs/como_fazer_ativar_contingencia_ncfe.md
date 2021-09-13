@@ -8,7 +8,7 @@
 
 ##### Contingência Off-line
 
-A contingência off-line é a alternativa para quando a recepção e autorização da NFC-e pela SEFAZ da UF de origem estiver indisponível. 
+A contingência off-line é a alternativa utilizada para quando a recepção e autorização da NFC-e pela SEFAZ da UF de origem estiver indisponível. 
 
 Acesse Menu: Gestão fiscal>>Gestão de Documentos fiscais, clique em `Mais` e depois Contingência.
 

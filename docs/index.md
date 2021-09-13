@@ -50,6 +50,8 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 |[Como emitir NFC-e em Contingência na SEFAZ?](como_fazer_ativar_contingencia_ncfe.md)
 
+|[Como emitir NF-e em Contingência na SEFAZ?](como_fazer_ativar_contingencia_nfe.md)
+
 ## Quando ficar na dúvida:
 
 Quando surgir aquela dúvida em algum campo ou processo específico, explore nossa documentação:
