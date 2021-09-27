@@ -28,11 +28,13 @@ Acesse o Menu Administração>>Empresa:
 
 ![](images/primeiro_acesso_menu_empresa.gif)
 
-Complete os dados da sua empresa, lembre-se que estes dados sairão nos documentos fiscais emitidos.
+Complete os dados da sua empresa, lembre-se que estes dados serão impressos nos documentos fiscais emitidos.
 
-Na aba Contador informe os dados do seu Contador
+No menu `Mais` no cadastro da empresa é possível adicionar a imagem de identificação (logo) da empresa que será impressa nos documentos fiscais e relatórios.
 
 #### Dados do Contador
+
+Essa é uma funcionalidade adicional ao Continente Nuvem base, na aba Contador informe os dados do seu Contador, para automatizar o envio de XML ou autorizar a consulta na SEFAZ.
 
 ![](images/administracao_empresa_contador.jpg)
 
