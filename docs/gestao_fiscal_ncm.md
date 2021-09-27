@@ -1,28 +1,34 @@
-[Início](index.md) / [Gestão Fiscal](gestao_fiscal.md) /Texto Fiscal
+[Início](index.md) / [Gestão Fiscal](gestao_fiscal.md) /NCM
 
 <a href="http://docs.continentenuvem.com.br/dicas.html#dicas"><img align="right" src="http://docs.continentenuvem.com.br/images/dicas.png"></a>
 
 
 
-{: #textofiscal}
+{: #ncm}
 
-### NCM
+### ![](images/ncm_32x32.png)NCM
 
-Os textos fiscais são as informações que são impressas no rodapé do DANFE. As informações podem ser de dois tipos:
+NCM é a sigla para Nomenclatura Comum do Mercosul. Toda e qualquer mercadoria que circula no Brasil deve ter o código NCM informado no documento fiscal. 
 
-**Fisco**: Este registro é utilizado para informar anotações de escrituração determinadas pela legislação pertinente aos lançamentos fiscais, tais como: ajustes efetuados por diferimento parcial de imposto, antecipações, diferencial de alíquota e outros.  Essa informação é levada para a tag <infAdFisco> no XML
+Antes de informar no produto você deve habilitar o código de NCM. 
 
-**Complementar**: são as informações complementares de interesse do fisco existentes nos documentos fiscais. Exemplo: nos casos de documentos fiscais de entradas de devolução, informar o documento fiscal referenciado, ou nos impostos aproximados quando na venda para consumidor final. Essa informação é levada para a tag <infCpl> no XML
+Acesse Menu: Gestão Fiscal>>NCM.
 
-![](images/gestao_fiscal_texto_fiscal.jpg)
+Marque o campo `Pesquisar na IBPT` e busque a NCM, clique com o botão inverso do mouse e depois clique em `Habilitar para uso`.
 
-{: #variaveis}
+Depois disso o NCM está pronto habilitado para ser informado no produto.
 
-#### Campos variáveis
 
-Essas variáveis são campos que serão substituídos pelo valor real em cada NF-e. Pode-se observar um exemplo de utilização no texto de Impostos aproximados:
 
-![](images/gestao_fiscal_texto_fiscal_variavel.jpg)
+![](images/como_fazer_habilitar_ncm.gif)
+
+
+
+
+
+
+
+
 
 
 

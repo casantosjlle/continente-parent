@@ -14,7 +14,7 @@ O código de barras  não é obrigatório, mas irá ajudar a cadastrar suas vend
 
 Informe a descrição e  também as informações de [Marca](estoque_marca.md#marca) e [Grupo](estoque_grupo_subgrupo.md#grupoproduto) e subgrupo se houverem.
 
-Informe a NCM, você pode buscar por uma descrição parcial da NCM.
+Selecione a NCM adequada. [Clique aqui](como_fazer_habilitar_ncm.md) para verificar como habilitar uma NCM. 
 
 Informe o Grupo de Impostos de Compra e Venda. Os grupos de impostos padrão do sistema tem CSOSN 103. Se seus produtos estão enquadrados em outra situação tributária [clique aqui](como_fazer_alterar_CSOSN_ICMS.md) para ver como alterá-los.
 
