@@ -10,7 +10,7 @@ Acesse Menu: Gestão Fiscal>>NCM.
 
 Marque o campo `Pesquisar na IBPT` e busque a NCM, clique com o botão inverso do mouse em cima da linha do NCM e depois clique em `Habilitar para uso`.
 
-Depois disso o NCM está pronto habilitado para ser informado no produto. aaaa
+Depois disso o NCM está habilitado para ser informado no cadastro do produto. 
 
 
 

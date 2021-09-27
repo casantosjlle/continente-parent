@@ -10,13 +10,13 @@
 
 NCM é a sigla para Nomenclatura Comum do Mercosul. Toda e qualquer mercadoria que circula no Brasil deve ter o código NCM informado no documento fiscal. 
 
-Antes de informar no produto você deve habilitar o código de NCM. 
+Antes de informar no cadastro do produto você deve habilitar o código de NCM. 
 
 Acesse Menu: Gestão Fiscal>>NCM.
 
 Marque o campo `Pesquisar na IBPT` e busque a NCM, clique com o botão inverso do mouse e depois clique em `Habilitar para uso`.
 
-Depois disso o NCM está pronto habilitado para ser informado no produto.aaa
+Depois disso o NCM está habilitado para ser informado no cadastro do produto.
 
 
 
