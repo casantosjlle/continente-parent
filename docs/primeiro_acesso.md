@@ -32,33 +32,29 @@ Complete os dados da sua empresa, lembre-se que estes dados serão impressos nos
 
 No menu `Mais` no cadastro da empresa é possível adicionar a imagem de identificação (logo) da empresa que será impressa nos documentos fiscais e relatórios.
 
-#### Dados do Contador
-
-Essa é uma funcionalidade adicional ao Continente Nuvem base, na aba Contador informe os dados do seu Contador, para automatizar o envio de XML ou autorizar a consulta na SEFAZ.
-
-![](images/administracao_empresa_contador.jpg)
-
-{: #autxml}
-
-##### Autorizado no XML emitido - autXML
-
- Ao marcar este campo o CPF ou CNPJ informado será levado para o XML na tag <autXML>, autorizando assim a consulta do XML da NF-e no Portal Nacional.
-
-![](images/administracao_empresa_contador_autxml.jpg)
 
 
+#### 3º Abrir período
 
-{: #emailcontador}
+Acesse o Menu Administração>>Período:
 
-##### Receber por e-mail DF-e emitidos 
+Informe o ano e clique em gerar períodos, selecione o mês e clique em abrir período.
 
-Ao marcar este campo o sistema fará o envio automático de um e-mail com o XML de todos os Documentos fiscais emitidos no último mês completo juntamente com um relatório de documentos emitidos no mesmo período. O e-mail será enviado para o endereço informado no campo e-mail as 00:00h do dia parametrizado no campo `Todo dia` .
+**Orientamos sempre manter somente o período atual com status Aberto.**
 
-![](images/administracao_empresa_contador_emailcontador.jpg)
+Saiba mais sobre o período [clicando aqui](administracao_periodo.md).
+
+![](images/como_fazer_abrir_periodo.gif)
 
 
 
- Agora que sua empresa está no Continente Nuvem, veja também nossas orientações  de [Configurações para Emissão de NF-e](configuracoes_emissao_nfe) e [Configurações para emissão de NFC-e](configuracoes_emissao_nfce)
+### Tudo pronto! 
+
+Agora você pode utilizar o seu Continente Nuvem normalmente, se você for emissor de NF-e ou NFC-e sugerimos que leia as seguintes orientações:
+
+ [Configurações para Emissão de NF-e](configuracoes_emissao_nfe) 
+
+ [Configurações para emissão de NFC-e](configuracoes_emissao_nfce)
 
 
 

@@ -54,6 +54,10 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 |[Como emitir NF-e em Contingência na SEFAZ?](como_fazer_ativar_contingencia_nfe.md)
 
+|[Como automatizar o envio de documentos ao contador?](como_fazer_automatizar_envio_contador.md)
+
+como_fazer_automatizar_envio_contador.md
+
 ## Quando ficar na dúvida:
 
 Quando surgir aquela dúvida em algum campo ou processo específico, explore nossa documentação:
