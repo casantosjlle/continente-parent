@@ -38,7 +38,7 @@ Neste diretório você vai descobrir como realizar seu primeiro acesso ao sistem
 
 |[Como faturar uma venda?](como_fazer_faturar_venda.md)
 
-[Como emitir NF-e de venda de mercadoria?](como_fazer_emitir_nfe_venda.md)
+|[Como emitir NF-e de venda de mercadoria?](como_fazer_emitir_nfe_venda.md)
 
 |[Como cadastrar uma devolução de venda?](como_fazer_cadastrar_devolucao_venda.md)
 
