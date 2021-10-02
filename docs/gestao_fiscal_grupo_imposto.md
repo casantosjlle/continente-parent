@@ -8,7 +8,7 @@
 
 Nesta tela estão cadastrados os impostos que são calculados nos processos de compra, venda e devoluções.
 
-Com a carga inicial do sistema já estrão cadastrados um grupo para vendas e um grupo para compras, você pode utilizar como modelo e alterar somente o CSOSN do ICMS de acordo com o enquadramento de sua empresa.
+Com a carga inicial do sistema já estarão cadastrados alguns grupos para vendas e um grupo para compras, você pode utilizá-los ou criar novos.
 
 Os grupos podem ser Tipo: Compra ou Venda, onde o grupo de compra atende os processos de compra e devolução de compra e o Venda atende os processos de venda e devolução de venda.
 

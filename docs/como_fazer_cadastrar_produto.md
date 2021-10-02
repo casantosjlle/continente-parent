@@ -16,7 +16,7 @@ Informe a descrição e  também as informações de [Marca](estoque_marca.md#ma
 
 Selecione a NCM adequada. [Clique aqui](como_fazer_habilitar_ncm.md) para verificar como habilitar uma NCM. 
 
-Informe o Grupo de Impostos de Compra e Venda. Os grupos de impostos padrão do sistema tem CSOSN 103. Se seus produtos estão enquadrados em outra situação tributária [clique aqui](como_fazer_alterar_CSOSN_ICMS.md) para ver como alterá-los.
+Informe o Grupo de Impostos de Compra e Venda. O grupo de imposto de compra define os impostos e CFOP da compra e devolução de compra, o grupo de impostos de venda define os impostos  e CFOP da venda e devolução de venda. Com a carga inicial do sistema já estarão cadastrados alguns grupos para vendas e um grupo para compras, você pode utilizá-los ou criar novos. 
 
 Na aba estoque, se houver, informe as [dimensões de estoque](sistema_parametrizacao.md#dimensaoestoque) que o produto será controlado, como tamanho ou cor. Após a gravação do item essa informação não poderá mais ser alterada.
 
