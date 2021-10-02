@@ -22,7 +22,7 @@ Autorizadores em contingência:
 
 Acesse Menu: Gestão fiscal>>Gestão de Documentos fiscais, clique em `Mais` e depois Contingência.
 
-Para ativar basta clicar em ativar. A Justificativa é predeterminada  mas pode ser alterada se necessário. 
+Para ativar basta clicar em ativar, e o sistema irá habilitar o ambiente virtual de acordo com a UF da empresa. A Justificativa é predeterminada  mas pode ser alterada se necessário. 
 
 ![](images\como_fazer_ativar_contingencia_nfe.gif)
 
