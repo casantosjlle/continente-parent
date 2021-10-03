@@ -8,7 +8,7 @@ A NF-e pode ser emitida automaticamente após o faturamento da venda, ou poder s
 
 Na aba Pagamento as formas de recebimento vem preenchidas conforme informado no faturamento e não podem ser alteradas. 
 
-A aba Produtos mostra um detalhamento dos produtos e impostos. Os impostos não inclusos ou alterados neste momento, eles devem ser alterados na criação da venda. Nesta aba também podem ser inclusos os textos como segunda linha da NF-e.
+A aba Produtos mostra um detalhamento dos produtos e impostos. Os impostos não são inclusos ou alterados neste momento, eles devem ser alterados na criação da venda. Nesta aba também podem ser inclusos os textos como segunda linha da NF-e.
 
 Na  aba Transporte podem ser complementadas as informações do transporte de mercadoria.
 
