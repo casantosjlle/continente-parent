@@ -24,11 +24,13 @@ Nesta tela estão disponíveis todas as vendas cadastradas, faturadas e as em ab
 
 Através do botão `Mais` ou com o botão inverso do mouse se acessa todos os processos relacionados a Venda e também a impressão dos Tickets e relatórios.
 
-O menu [Devolver](vendas_devolucao_venda.md#devolucaovenda) é habilitado somente se selecionado uma Venda com status Faturado.
+O menu [Devolver](vendas_devolucao_venda.md#devolucaovenda) é habilitado somente se selecionado uma Venda com status Faturado e com documento fiscal emitido e aprovado.
 
 O menu [Cancelar](vendas_venda.md#cancelamento) é habilitado somente se selecionado uma Venda com status Faturado.
 
 O menu [Faturamento](vendas_venda.md#faturamento) é habilitado somente se selecionado uma Venda com status Aberto.
+
+O menu [Emitir-DFe](vendas_venda.md#emissao_dfe) é habilitado somente se selecionado uma Venda com status Faturado.
 
 ![](images/vendas_venda_pesquisa.jpg)
 
@@ -132,7 +134,7 @@ Ao clicar no botão Gravar a Venda poderá ser faturada no mesmo momento ou ent�
 
 ### Faturamento de Venda
 
-No faturamento de venda o sistema identifica automaticamente através do [documento fiscal padrão](sistema_parametrizacao.md#geral) qual documento fiscal será emitido.
+No faturamento de venda o sistema identifica automaticamente através do modelo de documento fiscal definido na venda qual documento fiscal será emitido.
 
 Quando o faturamento da venda resultar na emissão de uma NF-e as informações ficam dispostas em 4 abas conforme imagem abaixo: ![](images/vendas_venda_faturamento_nfe.jpg)
 
@@ -150,7 +152,11 @@ Quando informando o CPF/CNPJ ele será informado na NFC-e.
 
 #### Faturamento- aba Pagamento
 
+A versão base do ERP continente nuvem não comtempla as transações financeiras, portando os montantes inseridos por forma de recebimento serão apenas informativos do documento fiscal emitido.
+
 ![](images/vendas_venda_faturamento_pagamento.jpg)
+
+As transações descritas abaixo, dependem da habilitação dos módulos de Caixa e Financeiro. 
 
 *Dinheiro:* Valor faturado em dinheiro, será uma saída em dinheiro no Caixa que está aberto para o usuário.
 
@@ -208,15 +214,49 @@ Nesta aba podem ser adicionados os textos que serão impressos no rodapé do DAN
 
 ![](images/vendas_venda_faturamento_informacoesadicionais.jpg)
 
+{: #emissaodfe}
+
+#### Emissão de DF-e
+
+Ao clicar em Faturar o sistema pergunta se deseja emitir  o documento fiscal agora:
+
+![](images/vendas_venda_faturamento_deseja_emitir_df-e.jpg)
 
 
-Ao clicar em Faturar uma janela de sincronização com o SEFAZ é aberta, onde pode ser acompanhado o status da NF-e\NFC-e e se aprovado o DANFE pode ser impresso:
+
+Se clicar em sim, uma janela de sincronização com o SEFAZ é aberta, onde pode ser acompanhado o status da NF-e\NFC-e e se aprovado o DANFE pode ser impresso:
 
 ![](images/vendas_venda_faturamento_sincronizacao_sefaz.jpg)
 
+
+
 A Nota Fiscal estará disponível também na tela de Gestão de NF-e, nos documentos Tipo: Saída
 
+
+
 ![](images/vendas_venda_faturamento_gestao_fiscal.jpg)
+
+
+
+Caso clique em não, a emissão do documento fiscal pode ser feito a depois através do menu Vendas>>Emitir DF-e
+
+
+
+![](images/vendas_emitir_dfe.jpg)
+
+
+
+Na aba Pagamento as formas de recebimento vem preenchidas conforme informado no faturamento e não podem ser alteradas. 
+
+A aba Produtos mostra um detalhamento dos produtos e impostos. Os impostos não são inclusos ou alterados neste momento, eles devem ser alterados na criação da venda. Nesta aba podem ser inclusos os textos como segunda linha da NF-e, basta clicar com o botão inverso do mouse em cima da linha.
+
+Na  aba Transporte podem ser complementadas as informações do transporte de mercadoria.
+
+Na aba Informações Adicionais  são adicionados os textos que serão impressos no rodapé da NF-e. Alguns textos são preenchidos automaticamente de acordo com o definido nos [parâmetros do sistema.](sistema_parametrizacao.md) 
+
+Agora é só clicar em `Emitir` e pronto a NF-e será emitida e enviada para o SEFAZ. Todas as Notas fiscais emitidas podem ser consultadas na tela de [Gestão de DF-e](gestao_fiscal_gestao_dfe.md).
+
+A NF-e aprovada é enviada automaticamente para o e-mail parametrizado no [cadastro do cliente](vendas_cliente.md).
 
 
 
@@ -226,7 +266,11 @@ A Nota Fiscal estará disponível também na tela de Gestão de NF-e, nos docume
 
 Para as vendas com status  Faturado, ao acessar o menu `Mais` a opção Cancelamento estará disponível.
 
-Antes de prosseguir com o cancelamento da venda, deve-se observar qual o modelo de documento fiscal amarrado à venda, tipo de emissão e o período de cancelamento.
+Se o documento fiscal ainda não tiver sido emitido o cancelamento da venda fará o retorno da mercadoria para o estoque e a reversão das transações financeiras, caso o módulo financeiro esteja habilitado.
+
+Se o documento fiscal já tiver sido emitido, o cancelamento da venda fará também o cancelamento do documento fiscal na SEFAZ ou descarte da numeração na SEFAZ, caso o documento tenha sido rejeitado.
+
+Antes de prosseguir com o cancelamento da venda, deve-se observar qual o modelo de documento fiscal amarrado à venda (NF-e ou NFC-e) tipo de emissão (normal ou contingência) e o período de cancelamento.
 
 #### Cancelamento de NF-e
 
@@ -252,15 +296,15 @@ Quando o período decorrente entre o faturamento até cancelamento da venda ultr
 
 ![](images/vendas_venda_cancelamento_fora_periodo.jpg)
 
-Caso contrário, o campo Motivo ficará habilitado para que seja descrito o motivo do cancelamento da Venda. A  descrição do motivo é obrigatória e deve ter entre 15 e 255 caracteres, que é o limite estabelecido pelo layout da NF-e para o envio do cancelamento para o SEFAZ. O processo de Cancelamento da Venda faz Cancelamento ou o Descarte (Inutilização) da  Nota Fiscal atrelada a Venda. Caso a Nota Fiscal esteja Rejeitada  executa o Descarte (Inutilização) da numeração e caso esteja aprovada processa o cancelamento da NF-e.
+A  descrição do motivo é obrigatória e deve ter entre 15 e 255 caracteres, que é o limite estabelecido pelo layout da NF-e para o envio do cancelamento para o SEFAZ. O processo de Cancelamento da Venda faz Cancelamento ou o Descarte (Inutilização) da  Nota Fiscal atrelada a Venda. Caso a Nota Fiscal esteja Rejeitada  executa o Descarte (Inutilização) da numeração e caso esteja aprovada processa o cancelamento da NF-e.
 
-![](images/vendas_venda_cancelamento_motivo.jpg)
+![(images/vendas_venda_cancelamento_motivo.jpg)
 
 Ao efetuar o processo de cancelamento a Venda fica com status Cancelado
 
 ![](images/vendas_venda_cancelamento_status_cancelado.jpg)
 
-A Nota Fiscal atrelada à venda também fica com status  cancelado, ou Descartado caso estive rejeitada.
+A Nota Fiscal atrelada à venda também fica com status  cancelado, ou Descartado caso tenha sido rejeitada.
 
 ![](images/vendas_venda_cancelamento_gestao_nfe.jpg)
 
