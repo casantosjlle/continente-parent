@@ -24,6 +24,12 @@ A NF-e aprovada é enviada automaticamente para o e-mail parametrizado no [cadas
 
 
 
+E possível que a SEFAZ algumas vezes demore um pouco para enviar o retorno, nestes deve-se ir ao menu de Gestão de Documentos Fiscais clicar em Mais e depois clicar em sincronização. Assim o status da NF-e será atualizado.
+
+
+
+![](images/como_fazer_sincronizar_sefaz.gif)
+
 
 
 [Voltar](index.md)

@@ -6,7 +6,7 @@
 
 {: #configuracoes_emissao_nfe}
 
-## Configurações para Emissao NF-e
+## Configurações para Emissão NF-e
 
 Siga o passo a passo a seguir para configurar o sistema para emissão de NF-e.
 
@@ -20,23 +20,31 @@ Acesse o Menu Sistema>>Certificado Digital e faça a importação do certificado
 
 
 
-#### 2º Informar a Série da NF-e
+#### 2º Parametrize o ambiente de emissão de DF-e: Produção ou homologação
 
-Acesse o Menu Sistema>>Parametrização>>Fiscal>>NF-e e informe a Série da NF-e que será emitida.
+Acesse o Menu Sistema>>Parametrização>>Documento Fiscal>>Geral>>Ambiente> altere o ambiente para produção.
 
-Neste mesmo mesmo menu existem outros parâmetros referente a emissão de NF-e que já vem pré-configurados com a instalação do sistema mas que podem ser alterados se necessário. Veja na documentação específica do menu [sistema](sistema_parametrizacao#nfe) a funcionalidade de cada campo.
+Na instalação do ERP Continente Nuvem esse parâmetro vem definido como homologação. O ambiente de homologação da SEFAZ é utilizado apenas para testes e não tem validade fiscal.
 
-![](images/configuracoes_nfe_serie.gif)
+O parâmetro de ambiente define os ambientes de emissão de NF-e NFC-e
+
+![](images/configuracoes_nfe_parametrizar_ambiente.gif)
+
+
 
 #### 3º Parametrize o Certificado Digital 
 
-Acesse o Menu Sistema>>Parametrização>>Fiscal>>Geral e parametrize o Certificado Digital importado anteriormente.
+Acesse o Menu Sistema>>Parametrização>>Documento Fiscal>>Geral>> Certificado Digital e parametrize o Certificado Digital importado anteriormente.
 
-Neste mesmo mesmo menu existem outros parâmetros referente a emissão de NF-e que já vem pré-configurados com a instalação do sistema mas que podem ser alterados se necessário. Veja na documentação específica do menu [sistema](sistema_parametrizacao#geral) a funcionalidade de cada campo.
+![](images/configuracoes_nfe_parametrizar_certificado1.gif)
 
-Se você ainda não emitiu nenhuma NF-e anteriormente as configurações para emissão de NF-e terminam aqui. Se você já é um emissor de NF-e siga para próxima etapa.
 
-![](images/configuracoes_nfe_parametrizar_certificado.gif)
+
+#### 4º Informar a Série da NF-e
+
+Acesse o Menu Sistema>>Parametrização>>Documento Fiscal>>NF-e e informe a Série da NF-e que será emitida.
+
+![](images/configuracoes_nfe_serie1.gif)
 
 
 
